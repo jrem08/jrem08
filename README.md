@@ -8,7 +8,7 @@
 
   <div align="center">
     <p>🔥 Portfolio Website:
-   <a href="https://juanrdeveloper.github.io/David-website/" target="_blank">portfolio</a>
+   <a href="https://jrem08.github.io/David-website/" target="_blank">portfolio</a>
       </p>
   </div>
 
