@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 , I'm Juan Rengifo!</h1>
 <p align="center">
- <h3 align="center">🚀 Front-end Developer</h3>
+ <h3 align="center">Front-end Developer</h3>
 <hr/>
-<p align="center">⚡️ I'm 22 years old and I'm from Pereira, Colombia 🇨🇴</p>
+<p align="center">I'm 22 years old and I'm from Pereira, Colombia 🇨🇴</p>
 
 ###
 
@@ -21,7 +21,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,tailwind,materialui,bootstrap,github,git" />
-    <img src="https://skillicons.dev/icons?i=figma,nodejs,express,mysql,netlify,notion,vscode,vite,windows,sass" />
+    <img src="https://skillicons.dev/icons?i=nodejs,firebase,netlify,vercel,notion,vscode,figma,windows,mysql" />
   </a>
 </p>
   
