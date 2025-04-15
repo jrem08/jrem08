@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 , I'm Juan Rengifo!</h1>
 <p align="center">
- <h3 align="center">Software Developer</h3>
+ <h3 align="center">Front-end Developer</h3>
 <hr/>
 <p align="center">I'm 22 years old and I'm from Pereira, Colombia 🇨🇴</p>
 
