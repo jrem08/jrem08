@@ -14,10 +14,7 @@
 
 
 ## Skillset
-
-###
-<img width="12" />
-  <a target="_blank" href=""https://skillicons.dev">
+  <a>
     <img
       src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,angular&theme=dark"
       height="40"
