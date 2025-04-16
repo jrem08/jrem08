@@ -12,7 +12,7 @@ Now, while I study software engineering at university, I'm looking for remote jo
 
 
 ## Skills 
-<div align="center">
+<div align="left">
     <a href="https://skillicons.dev">
       <img 
        height="40"
