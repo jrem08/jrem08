@@ -14,13 +14,16 @@
 
 
 ## Skillset
-  <a>
-    <img
-      src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,angular&theme=dark"
-      height="40"
-      alt="react logo"
-    />
+<div align="center">
+    <a href="https://skillicons.dev">
+      <img 
+       height="40"
+       src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap,mui,sass,astro&theme=dark " />
+      <img 
+       height="40"
+       src="https://skillicons.dev/icons?i=github,git,firebase,figma,nodejs,notion,vscode,netlify,typescript&theme=dark" />
   </a>
+ </div> 
 
   
  
