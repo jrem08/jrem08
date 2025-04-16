@@ -19,7 +19,7 @@ Now, while I study software engineering at university, I'm looking for remote jo
        src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap,mui&theme=dark " />
       <img 
        height="40"
-       src="https://skillicons.dev/icons?i=github,git,figma,vscode&theme=dark" />
+       src="https://skillicons.dev/icons?i=github,git,figma,vscode,nodejs,firebase,notion&theme=dark" />
        
   </a>
  </div> 
