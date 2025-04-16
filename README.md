@@ -18,10 +18,10 @@
 
 ### Programming languages
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,materialui,bootstrap,git,github" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,firebase,netlify,ps,notion,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,tailwind&perline=8" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,sass,github,git,firebase,figma&perline=8" />
   </a>
 </p>
   
