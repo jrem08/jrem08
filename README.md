@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 , I'm Juan Rengifo!</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-end+Developer;Product+Designer&color=BC52EE&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-end+Developer;UX+Designer&color=BC52EE&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">🚀 I'm a front-end developer passionate about product design and looking for remote opportunities and a senior position in intuitive interfaces..</h4>
+<h4 align="center">🚀 I'm a front-end developer passionate about UX design and looking for remote opportunities and a senior position in intuitive interfaces..</h4>
 <br>
-After completing high school, I began my career as a front-end developer and product designer at CIAF, where I acquired some of my knowledge, which is currently updated daily.
+After completing high school, I began my career as a front-end developer and UX designer at CIAF, where I acquired some of my knowledge, which is currently updated daily.
 <br>
 Now, while I study software engineering at university, I'm looking for remote jobs to continue strengthening my skills and further my education in what I love.
 <br>
