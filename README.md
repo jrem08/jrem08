@@ -3,9 +3,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-end+Developer;UX+Designer&color=BC52EE&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">🚀 I'm a front-end developer passionate about UX design and looking for remote opportunities and a senior position in intuitive interfaces..</h4>
+<h4 align="center">🚀 I'm a dedicated front-end developer, passionate about creating interactive and efficient web experiences.
+With over a year of professional experience, I'm proficient in technologies such as React.js, Tailwind CSS, and Node.js. My specialty is developing modern, responsive user interfaces that not only meet technical specifications but also deliver an exceptional user experience.</h4>
 <br>
-After completing high school, I began my career as a front-end developer and UX designer at CIAF, where I acquired some of my knowledge, which is currently updated daily.
+I have advanced knowledge of technologies, backed by practical projects and academic experience. All of this is accompanied by a process of continuous growth and improvement through online courses and documentation.
 <br>
 Now, while I study software engineering at university, I'm looking for remote jobs to continue strengthening my skills and further my education in what I love.
 <br>
@@ -19,7 +20,7 @@ Now, while I study software engineering at university, I'm looking for remote jo
        src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,tailwind,bootstrap,mui&theme=dark " />
       <img 
        height="40"
-       src="https://skillicons.dev/icons?i=github,git,figma,vscode,nodejs,windows,firebase,netlify&theme=dark" />
+       src="https://skillicons.dev/icons?i=github,git,figma,vscode,nodejs,typescript,firebase,nestjs&theme=dark" />
        
   </a>
  </div> 
