@@ -3,13 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-end+Developer;&color=BC52EE&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">🚀 I'm a dedicated front-end developer, passionate about creating interactive and efficient web experiences.
-With over a year of professional experience, I'm proficient in technologies such as React.js, Tailwind CSS, and Node.js. My specialty is developing modern, responsive user interfaces that not only meet technical specifications but also deliver an exceptional user experience.</h4>
-<br>
-I have advanced knowledge of technologies, backed by practical projects and academic experience. All of this is accompanied by a process of continuous growth and improvement through online courses and documentation.
-<br>
-Now, while I study software engineering at university, I'm looking for remote jobs to continue strengthening my skills and further my education in what I love.
-<br>
+<h4 align="center">🚀 I am a dedicated front-end developer passionate about creating interactive and efficient web experiences.
+With over 1 year of professional experience, I have mastered knowledge such as web services, functional requirements, normalization, and programming logic. My specialty is developing modern, responsive user interfaces that not only meet technical specifications but also deliver an exceptional user experience.</h4>
+
 
 
 ## Skills 
