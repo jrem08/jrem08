@@ -17,10 +17,10 @@ Now, while I study software engineering at university, I'm looking for remote jo
     <a href="https://skillicons.dev">
       <img 
        height="40"
-       src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,tailwind,bootstrap,mui&theme=dark " />
+       src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,bootstrap,mui&theme=dark " />
       <img 
        height="40"
-       src="https://skillicons.dev/icons?i=github,git,figma,vscode,nodejs,netlify,firebase,mysql&theme=dark" />
+       src="https://skillicons.dev/icons?i=github,git,figma,vscode,nodejs,astro,firebase,sass&theme=dark" />
        
   </a>
  </div> 
