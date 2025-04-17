@@ -13,7 +13,7 @@ With over 1 year of professional experience, I have mastered knowledge such as w
     <a href="https://skillicons.dev">
       <img 
        height="40"
-       src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,mui,sass,tailwind&theme=dark " />
+       src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,mui,tailwind&theme=dark " />
       <img 
        height="40"
        src="https://skillicons.dev/icons?i=github,git,notion,figma,vscode,nodejs&theme=dark" />
