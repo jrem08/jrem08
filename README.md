@@ -13,10 +13,10 @@ With over 1 year of professional experience, I have mastered knowledge such as w
     <a href="https://skillicons.dev">
       <img 
        height="40"
-       src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,mui,tailwind&theme=dark " />
+       src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,bootstrap&theme=dark " />
        <img 
        height="40"
-       src="https://skillicons.dev/icons?i=sass,astro,nextjs&theme=dark " />
+       src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark " />
   </a>
  </div> 
 
@@ -26,7 +26,7 @@ With over 1 year of professional experience, I have mastered knowledge such as w
     <a href="https://skillicons.dev">
      <img 
        height="40"
-       src="https://skillicons.dev/icons?i=github,git,notion,figma,vscode,firebase,windows&theme=dark" />
+       src="https://skillicons.dev/icons?i=github,git,notion,figma,vscode&theme=dark" />
 
 
  
