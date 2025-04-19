@@ -3,8 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Business+Analyst;Marketing+Digital;&color=BC52EE&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">🚀 I am a dedicated front-end developer passionate about creating interactive and efficient web experiences.
-With over 1 year of professional experience, I have mastered knowledge such as web services, functional requirements, normalization, and programming logic. My specialty is developing modern, responsive user interfaces that not only meet technical specifications but also deliver an exceptional user experience.</h4>
+<h4 align="center">🚀 I am a dedicated web developer passionate about business analysis and digital marketing. With over a year of professional experience, I have mastered knowledge such as functional requirements. My specialty is analyzing businesses related to digital marketing that not only meet technical specifications but also deliver an exceptional user experience.</h4>
 
 
 
