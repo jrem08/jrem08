@@ -1,14 +1,43 @@
-<h1 align="center">Hi , I'm Juan David <br> Rengifo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+![Header](AvatarHeader.gif)
+
+<div align="center">
+  <h1>👋 Hi, I'm Juan Rengifo</h1>
+  <h3>Front-end Developer</h3>
+</div>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Marketing+Digital;&color=BC52EE&center=true&width=500&height=50"></a>
+  I'm a <strong>Front-end Developer</strong> 
+Passionate about transforming engaging user experiences. With hands-on experience in <strong>React, SQL, and JavaScript</strong>, I focus on creating engaging and impactful experiences and designing efficient work UX.
 </p>
-<hr/>
-<h4 align="center">🚀 I am a dedicated web developer passionate about Data analysis and digital marketing. With over a year of professional experience, I have mastered knowledge such as functional requirements. My specialty is analyzing data related to digital marketing that not only meet technical specifications but also deliver an exceptional user experience.</h4>
 
+<div align="center">
+  <h2>💼 What I Do</h2>
 
+  <p>
+    <strong>📊 Web Development:</strong><br>
+    I make websites <strong>React.js</strong>, <strong>Next.js</strong>, and <strong>JavaScript</strong>.
+  </p>
 
-## Skills 
-<div align="left">
+  <p>
+    <strong>🧼 Normalize and Design:</strong><br>
+    I normalize databases <strong>Excel</strong>, and <strong>MySQL.</strong>
+  </p>
+
+  <p>
+    <strong>🔁 Requirements:</strong><br>
+    I Use case requirements <strong>Notion</strong>.
+  </p>
+
+  <p>
+    <strong>🎯 Diseño UX:</strong><br>
+    I focus on designing interfaces <strong>Figma</strong>.
+  </p>
+</div>
+
+<div align="center">
+  <h2>🛠️ My Tech Stack</h2>
+
+ <div align="center">
     <a href="https://skillicons.dev">
       <img 
        height="40"
@@ -21,22 +50,22 @@
 
  ###
  
- <div align="left">
+ <div align="center">
     <a href="https://skillicons.dev">
      <img 
        height="40"
        src="https://skillicons.dev/icons?i=github,git,notion,figma,vscode&theme=dark" />
+</div>
 
-
- 
-
-## Contact
 <div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rengifo-702a6a306/)
-[![image](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juanrdeveloper)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medrandajuan843@gmail.com)
+  <h2>🌐 Connect with Me:</h2>
+  
+ [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rengifo-702a6a306/)
+ [![image](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juanrdeveloper)
+ [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medrandajuan843@gmail.com)
   
 </div>
 
-<hr/>
+<p align="center">
+  💡 Always learning. Always curious. Always up for a challenge!
+</p>
