@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="center">🚀 Front-end Developer and UX Designer</h3>
+<h3 align="center">🚀 Front-end Developer </h3>
 
 ###
 
