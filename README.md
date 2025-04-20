@@ -10,7 +10,7 @@
 ###
 
   <div align="center">
-   <h3>Portfolio Website</h3>
+   <h3>🇨🇴</h3>
     <a href="https://jrem08.github.io/David-website/">
     <img src="https://img.shields.io/badge/Portafolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
@@ -57,7 +57,7 @@
        src="https://skillicons.dev/icons?i=github,git,firebase,figma,vscode,nodejs&theme=dark" />
       <img 
        height="40"
-       src="https://skillicons.dev/icons?i=express,mysql,notion&theme=dark" />
+       src="https://skillicons.dev/icons?i=express,mysql,python&theme=dark" />
 </div>
 
 
