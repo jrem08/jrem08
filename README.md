@@ -57,7 +57,7 @@
        src="https://skillicons.dev/icons?i=github,git,firebase,figma,vscode,nodejs&theme=dark" />
       <img 
        height="40"
-       src="https://skillicons.dev/icons?i=express,mysql,python&theme=dark" />
+       src="https://skillicons.dev/icons?i=express,mysql,windows&theme=dark" />
 </div>
 
 
