@@ -5,19 +5,16 @@
 
 ###
 
-<h3 align="center">🚀 Front-end Developer and <br>UX Designer</h3>
-
-###
-
-<p align="center">⚡️ I'm 22 years old and I'm from Pereira, <br>Colombia 🇨🇴</p>
+<h3 align="center">🚀 Front-end Developer</h3>
 
 ###
 
   <div align="center">
-    <p>🔥 Portfolio Website:
-   <a href="https://jrem08.github.io/David-website/" target="_blank">My website</a>
-      </p>
-  </div>
+   <h3>Portfolio Website</h3>
+    <a href="https://jrem08.github.io/David-website/">
+    <img src="https://img.shields.io/badge/Portafolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+</div>
 
 ###
 
