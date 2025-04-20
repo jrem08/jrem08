@@ -1,33 +1,42 @@
-![Header](BannerJuanSot.png)
+![Header](./banner-joaco.png)
+<h1 align="center">Hi 👋, I'm Juan!</h1>
 
-<div align="center">
-  <h1>👋 Hi, I'm Juan Rengifo</h1>
-  <h3>Software Developer Jr</h3>
-</div>
+###
 
-<p align="center">
-  I'm a <strong>Front-end Developer</strong> 
-Passionate about transforming engaging user experiences. With hands-on experience in <strong>React, SQL, and JavaScript</strong>, I focus on creating engaging and impactful experiences and designing efficient work UX.
-</p>
+<h3 align="center">🚀 Front-end Developer and UX Designer</h3>
 
-<div align="left">
-  <h2> What I Do</h2>
+###
 
-  <p>
-   <strong>🧠 Web Development:</strong> <strong> React</strong>, and <strong>JavaScript</strong>.
-  </p>
+<p align="center">⚡️ I'm 22 years old and I'm from Pereira, Colombia 🇦🇷</p>
 
-  <p>
-    <strong>🔁 Requirements:</strong>  <strong> Notion</strong>.
-  </p>
+###
 
-  <p>
-    <strong>🎯 Diseño UX:</strong>  <strong> Figma</strong>.
-  </p>
-</div>
+  <div align="center">
+    <p>🔥 Portfolio Website:
+   <a href="https://www.joacomesa.com.ar/" target="_blank">joacomesa.com.ar</a>
+      </p>
+  </div>
+
+###
+
+<h3 align="left">Connect with me!</h3>
+
+###
 
 <div align="left">
-  <h2>🛠️ My Tech Stack</h2>
+  <a href="https://www.linkedin.com/in/juan-rengifo-702a6a306/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:medrandajuan843@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">Skillset</h3>
+
+###
 
  <div align="left">
     <a href="https://skillicons.dev">
@@ -49,15 +58,5 @@ Passionate about transforming engaging user experiences. With hands-on experienc
        src="https://skillicons.dev/icons?i=github,git,notion,figma,vscode&theme=dark" />
 </div>
 
-<div align="left">
-  <h2>🌐 Connect with Me:</h2>
-  
- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rengifo-702a6a306/)
- [![image](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juanrdeveloper)
- [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medrandajuan843@gmail.com)
-  
-</div>
 
-<p align="left">
-  💡 Always learning. Always curious. Always up for a challenge!
-</p>
+###
