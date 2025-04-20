@@ -3,17 +3,17 @@
 
 ###
 
-<h3 align="center">🚀 Front-end Developer </h3>
+<h3 align="center">🚀 Front-end Developer and <br>UX Designer</h3>
 
 ###
 
-<p align="center">⚡️ I'm 22 years old and I'm from Pereira, Colombia 🇨🇴</p>
+<p align="center">⚡️ I'm 22 years old and I'm from Pereira, <br>Colombia 🇨🇴</p>
 
 ###
 
   <div align="center">
     <p>🔥 Portfolio Website:
-   <a href="https://jrem08.github.io/David-website/" target="_blank">https://jrem08.github.io/David-website/</a>
+   <a href="https://jrem08.github.io/David-website/" target="_blank">My website</a>
       </p>
   </div>
 
