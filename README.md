@@ -10,34 +10,26 @@
 Passionate about transforming engaging user experiences. With hands-on experience in <strong>React, SQL, and JavaScript</strong>, I focus on creating engaging and impactful experiences and designing efficient work UX.
 </p>
 
-<div align="center">
-  <h2>💻 What I Do</h2>
+<div align="left">
+  <h2> What I Do</h2>
 
   <p>
-    <strong>🧠 Web Development:</strong><br>
-    I make websites <strong>React</strong>, and <strong>JavaScript</strong>.
+   <strong>🧠 Web Development:</strong> <strong> React</strong>, and <strong>JavaScript</strong>.
   </p>
 
   <p>
-    <strong>🚀 Normalize and Design:</strong><br>
-    I normalize databases <strong>Excel</strong>, and <strong>Mysql.</strong>
+    <strong>🔁 Requirements:</strong>  <strong> Notion</strong>.
   </p>
 
   <p>
-    <strong>🔁 Requirements:</strong><br>
-    I Use case requirements <strong>Notion</strong>.
-  </p>
-
-  <p>
-    <strong>🎯 Diseño UX:</strong><br>
-    I focus on designing interfaces <strong>Figma</strong>.
+    <strong>🎯 Diseño UX:</strong>  <strong> Figma</strong>.
   </p>
 </div>
 
-<div align="center">
+<div align="left">
   <h2>🛠️ My Tech Stack</h2>
 
- <div align="center">
+ <div align="left">
     <a href="https://skillicons.dev">
       <img 
        height="40"
@@ -50,14 +42,14 @@ Passionate about transforming engaging user experiences. With hands-on experienc
 
  ###
  
- <div align="center">
+ <div align="left">
     <a href="https://skillicons.dev">
      <img 
        height="40"
        src="https://skillicons.dev/icons?i=github,git,notion,figma,vscode&theme=dark" />
 </div>
 
-<div align="center">
+<div align="left">
   <h2>🌐 Connect with Me:</h2>
   
  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rengifo-702a6a306/)
@@ -66,6 +58,6 @@ Passionate about transforming engaging user experiences. With hands-on experienc
   
 </div>
 
-<p align="center">
+<p align="left">
   💡 Always learning. Always curious. Always up for a challenge!
 </p>
