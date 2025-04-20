@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>👋 Hi, I'm Juan Rengifo</h1>
-  <h3>Front-end Developer</h3>
+  <h3>Software Developer Jr</h3>
 </div>
 
 <p align="center">
@@ -11,16 +11,16 @@ Passionate about transforming engaging user experiences. With hands-on experienc
 </p>
 
 <div align="center">
-  <h2>💼 What I Do</h2>
+  <h2>💻 What I Do</h2>
 
   <p>
-    <strong>📊 Web Development:</strong><br>
-    I make websites <strong>React.js</strong>, <strong>Next.js</strong>, and <strong>JavaScript</strong>.
+    <strong>🧠 Web Development:</strong><br>
+    I make websites <strong>React</strong>, and <strong>JavaScript</strong>.
   </p>
 
   <p>
-    <strong>🧼 Normalize and Design:</strong><br>
-    I normalize databases <strong>Excel</strong>, and <strong>MySQL.</strong>
+    <strong>🚀 Normalize and Design:</strong><br>
+    I normalize databases <strong>Excel</strong>, and <strong>Mysql.</strong>
   </p>
 
   <p>
