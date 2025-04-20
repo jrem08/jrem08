@@ -55,6 +55,9 @@
      <img 
        height="40"
        src="https://skillicons.dev/icons?i=github,git,firebase,figma,vscode,nodejs&theme=dark" />
+      <img 
+       height="40"
+       src="https://skillicons.dev/icons?i=express,mysql,notion&theme=dark" />
 </div>
 
 
