@@ -1,4 +1,4 @@
-![Header](./banner-joaco.png)
+![Header](bannerDavid.jpeg)
 <h1 align="center">Hi 👋, I'm Juan!</h1>
 
 ###
@@ -7,13 +7,13 @@
 
 ###
 
-<p align="center">⚡️ I'm 22 years old and I'm from Pereira, Colombia 🇦🇷</p>
+<p align="center">⚡️ I'm 22 years old and I'm from Pereira, Colombia 🇨🇴</p>
 
 ###
 
   <div align="center">
     <p>🔥 Portfolio Website:
-   <a href="https://www.joacomesa.com.ar/" target="_blank">joacomesa.com.ar</a>
+   <a href="https://jrem08.github.io/David-website/" target="_blank">https://jrem08.github.io/David-website/</a>
       </p>
   </div>
 
