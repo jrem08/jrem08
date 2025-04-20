@@ -1,4 +1,4 @@
-![Header](AvatarHeader.gif)
+![Header](BannerJuanSot.png)
 
 <div align="center">
   <h1>👋 Hi, I'm Juan Rengifo</h1>
