@@ -42,10 +42,10 @@
     <a href="https://skillicons.dev">
       <img 
        height="40"
-       src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,bootstrap&theme=dark " />
+       src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap&theme=dark " />
        <img 
        height="40"
-       src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark " />
+       src="https://skillicons.dev/icons?i=sass,astro,nextjs&theme=dark " />
   </a>
  </div> 
 
@@ -55,7 +55,7 @@
     <a href="https://skillicons.dev">
      <img 
        height="40"
-       src="https://skillicons.dev/icons?i=github,git,notion,figma,vscode&theme=dark" />
+       src="https://skillicons.dev/icons?i=github,git,firebase,figma,vscode,nodejs&theme=dark" />
 </div>
 
 
