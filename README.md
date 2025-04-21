@@ -5,7 +5,7 @@
 
 ###
 
-<h3 align="center">🚀 Front-end Developer <br>🎨UX Designer</h3>
+<h3 align="center">🚀 Front-end Developer <br>🎨 UX Designer</h3>
 
 ###
 
