@@ -47,7 +47,7 @@
        src="https://skillicons.dev/icons?i=github,git,figma,ps,ai,vscode&theme=dark " />
        <img 
        height="40"
-       src="https://skillicons.dev/icons?i=sass,astro,nextjs,firebase,notion,vscode,netlify&theme=dark " />
+       src="https://skillicons.dev/icons?i=sass,astro,nextjs,firebase,notion,netlify&theme=dark " />
   </a>
  </div> 
 
