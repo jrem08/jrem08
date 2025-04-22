@@ -44,10 +44,10 @@
        src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap&theme=dark " />
        <img 
        height="40"
-       src="https://skillicons.dev/icons?i=github,git,figma,ps,ai,vscode&theme=dark " />
+       src="https://skillicons.dev/icons?i=github,git,figma,ps,sass,vscode&theme=dark " />
        <img 
        height="40"
-       src="https://skillicons.dev/icons?i=sass,firebase,notion,netlify,vite,windows&theme=dark " />
+       src="https://skillicons.dev/icons?i=postman,firebase,notion,nodejs,express,mysql&theme=dark " />
   </a>
  </div> 
 
