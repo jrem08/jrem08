@@ -5,7 +5,7 @@
 
 ###
 
-<h3 align="center">🚀 Front-end Developer <br>🎨 UX Designer</h3>
+<h3 align="center">🚀 Front-end Developer </h3>
 
 ###
 
@@ -41,13 +41,10 @@
     <a href="https://skillicons.dev">
       <img 
        height="40"
-       src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap&theme=dark " />
+       src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,nextjs&theme=dark " />
        <img 
        height="40"
-       src="https://skillicons.dev/icons?i=github,git,figma,ps,sass,vscode&theme=dark " />
-       <img 
-       height="40"
-       src="https://skillicons.dev/icons?i=astro,firebase,notion,nodejs,mui,netlify&theme=dark " />
+       src="https://skillicons.dev/icons?i=github,git,figma,nodejs,sass,vscode&theme=dark " />
   </a>
  </div> 
 
