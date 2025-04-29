@@ -41,13 +41,10 @@
     <a href="https://skillicons.dev">
       <img 
        height="40"
-       src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,nextjs&theme=dark " />
+       src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,nextjs,svelte&theme=dark " />
        <img 
        height="40"
-       src="https://skillicons.dev/icons?i=github,git,figma,tailwind,bootstrap,mui&theme=dark " />
-       <img 
-       height="40"
-       src="https://skillicons.dev/icons?i=sass,figma,firebase,notion,netlify,vercel&theme=dark " />
+       src="https://skillicons.dev/icons?i=github,git,typescript,tailwind,bootstrap,mui,figma&theme=dark " />
   </a>
  </div> 
 
