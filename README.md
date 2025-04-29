@@ -37,7 +37,7 @@
 
 ### 
 
-<h3 align="left">Front-end Development:</h3>
+<h3 align="left">Front-end Development</h3>
 
  <div align="left">
     <a href="https://skillicons.dev">
@@ -52,7 +52,7 @@
 
  ###
  
-<h3 align="left">Back-end Development:</h3>
+<h3 align="left">Back-end Development</h3>
 
  <div align="left">
     <a href="https://skillicons.dev">
@@ -65,7 +65,7 @@
 
 ###
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Tools</h3>
 
  <div align="left">
     <a href="https://skillicons.dev">
