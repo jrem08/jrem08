@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">📩 Connect with me!</h3>
 
 ###
 
@@ -33,26 +33,44 @@
 
 ###
 
-<h3 align="left">Skillset</h3>
+<h3 align="left">🖥️ My development tools!</h3>
 
-###
+### 
+
+<h3 align="left">Front-end Development:</h3>
 
  <div align="left">
     <a href="https://skillicons.dev">
       <img 
        height="40"
-       src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,nextjs,svelte&theme=dark " />
+       src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,nextjs&theme=dark " />
        <img 
        height="40"
-       src="https://skillicons.dev/icons?i=github,git,typescript,tailwind,bootstrap,mui,figma&theme=dark " />
+       src="https://skillicons.dev/icons?i=tailwind,bootstrap,mui&theme=dark " />
   </a>
  </div> 
 
  ###
  
+<h3 align="left">Back-end Development:</h3>
+
  <div align="left">
- 
-</div>
+    <a href="https://skillicons.dev">
+       <img 
+       height="40"
+       src="https://skillicons.dev/icons?i=nodejs,express,typescript,firebase,mysql,postman&theme=dark " />
+  </a>
+ </div> 
 
 
 ###
+
+<h3 align="left">Tools:</h3>
+
+ <div align="left">
+    <a href="https://skillicons.dev">
+       <img 
+       height="40"
+       src="https://skillicons.dev/icons?i=github,git,vscode,figma,windows,vercel,netlify&theme=dark " />
+  </a>
+ </div> 
