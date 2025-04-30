@@ -44,7 +44,7 @@
        src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,nextjs&theme=dark " />
        <img 
        height="40"
-       src="https://skillicons.dev/icons?i=svelte,typescript,tailwind,bootstrap,mui&theme=dark " />
+       src="https://skillicons.dev/icons?i=svelte,nodejs,tailwind,bootstrap,mui&theme=dark " />
   </a>
  </div> 
 
