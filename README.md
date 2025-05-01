@@ -1,10 +1,12 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200" height="200"/>
+<img src="img.gif">
 </div>
 <h1 align="center">Hi 👋, I'm Juan Rengifo</h1>
 
 <div align="center">
-    <h3>🔥 Portfolio Website</h3>
+    <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Back-end+Developer;Database+Administrator;&color=BC52EE&center=true&width=500&height=50"></a>
+</p>
     <a href="https://jrem08.github.io/David-website/">
     <img src="https://img.shields.io/badge/Portafolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
@@ -73,7 +75,7 @@
     <img height="40" src="https://skillicons.dev/icons?i=vscode"/>
     <img height="40" src="https://skillicons.dev/icons?i=windows"/>
      <img height="40" src="https://skillicons.dev/icons?i=figma"/>
-     <img height="40" src="https://skillicons.dev/icons?i=ps"/>
+     <img height="40" src="https://skillicons.dev/icons?i=notion"/>
   </div>
  </div> 
  <div align="center">
