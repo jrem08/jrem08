@@ -1,22 +1,16 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200" height="200"/>
 </div>
-<h1 align="center">Hi 👋, I'm Juan!</h1>
+<h1 align="center">Hi 👋, I'm Juan Rengifo</h1>
+
+👨‍💻 Software development technician, passionate about technology and programming.
+<br>
+💡 I love working in frontend development and building efficient solutions.
+<br>
+🚀 Always learning new technologies and improving my skills. 
 
 ###
 
-<h3 align="center">🚀 Front-end Developer </h3>
-
-###
-
-  <div align="center">
-   <h3>🇨🇴</h3>
-    <a href="https://jrem08.github.io/David-website/">
-    <img src="https://img.shields.io/badge/Portafolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-</div>
-
-###
 
 <h3 align="left">🌐 Socials:</h3>
 
