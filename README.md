@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">🌐 Socials:</h3>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="left">Skills</h3>
+<h3 align="left">💻 Tech Stack:</h3>
 
 ### 
 
