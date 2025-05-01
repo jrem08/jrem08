@@ -36,7 +36,6 @@
 ### 
 
  <div align="left">
-  <h3>Front:<h3>
   <div>
     <img height="40" src="https://skillicons.dev/icons?i=html"/>
     <img height="40" src="https://skillicons.dev/icons?i=css"/>
@@ -50,7 +49,6 @@
   </div>
 
   <div align="left">
-  <h3>Back:<h3>
   <div>
     <img height="40" src="https://skillicons.dev/icons?i=php"/>
     <img height="40" src="https://skillicons.dev/icons?i=nodejs"/>
@@ -61,7 +59,6 @@
   </div>
 
    <div align="left">
-  <h3>Tools:<h3>
   <div>
     <img height="40" src="https://skillicons.dev/icons?i=github"/>
     <img height="40" src="https://skillicons.dev/icons?i=git"/>
