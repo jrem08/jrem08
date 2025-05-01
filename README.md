@@ -9,6 +9,8 @@
 <br>
 🚀 Always learning new technologies and improving my skills. 
 
+---
+
 ###
 
 
@@ -25,6 +27,8 @@
   </a>
 </div>
 
+---
+
 ###
 
 <h3 align="left">💻 Tech Stack:</h3>
@@ -35,10 +39,10 @@
     <a href="https://skillicons.dev">
       <img 
        height="40"
-       src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,nextjs&theme=dark " />
+       src="https://skillicons.dev/icons?i=html,css,javascript,react,astro&theme=dark " />
        <img 
        height="40"
-       src="https://skillicons.dev/icons?i=svelte,nodejs,tailwind,bootstrap,mui&theme=dark " />
+       src="https://skillicons.dev/icons?i=tailwind,bootstrap,mui&theme=dark " />
   </a>
  </div> 
 
@@ -48,7 +52,20 @@
     <a href="https://skillicons.dev">
       <img 
        height="40"
-       src="https://skillicons.dev/icons?i=github,git,figma,vscode,notion,netlify&theme=dark " />
+       src="https://skillicons.dev/icons?i=github,git,nodejs,php&theme=dark " />
+      <img 
+       height="40"
+       src="https://skillicons.dev/icons?i=mysql,netlify,vercel,figma,ps&theme=dark " />
+  </a>
+ </div>
+
+ ###
+
+  <div align="left">
+    <a href="https://skillicons.dev">
+      <img 
+       height="40"
+       src="https://skillicons.dev/icons?i=vscode,windows,&theme=dark " />
   </a>
  </div>
 
