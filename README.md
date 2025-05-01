@@ -3,11 +3,12 @@
 </div>
 <h1 align="center">Hi 👋, I'm Juan Rengifo</h1>
 
-👨‍💻 Software development technician, passionate about technology and programming.
-<br>
-💡 I love working in frontend development and building efficient solutions.
-<br>
-🚀 Always learning new technologies and improving my skills. 
+<div align="center">
+    <h3>🔥 Portfolio Website</h3>
+    <a href="https://jrem08.github.io/David-website/">
+    <img src="https://img.shields.io/badge/Portafolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+</div>
 
 ---
 
