@@ -42,7 +42,6 @@
     <img height="40" src="https://skillicons.dev/icons?i=js"/>
     <img height="40" src="https://skillicons.dev/icons?i=react"/>
     <img height="40" src="https://skillicons.dev/icons?i=astro"/>
-    <img height="40" src="https://skillicons.dev/icons?i=nextjs"/>
     <img height="40" src="https://skillicons.dev/icons?i=bootstrap"/>
     <img height="40" src="https://skillicons.dev/icons?i=tailwindcss"/>
     <img height="40" src="https://skillicons.dev/icons?i=mui"/>
