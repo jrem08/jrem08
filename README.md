@@ -36,38 +36,40 @@
 ### 
 
  <div align="left">
-    <a href="https://skillicons.dev">
-      <img 
-       height="40"
-       src="https://skillicons.dev/icons?i=html,css,javascript,react,astro&theme=dark " />
-       <img 
-       height="40"
-       src="https://skillicons.dev/icons?i=tailwind,bootstrap,mui&theme=dark " />
-  </a>
- </div> 
-
- ###
-
- <div align="left">
-    <a href="https://skillicons.dev">
-      <img 
-       height="40"
-       src="https://skillicons.dev/icons?i=github,git,nodejs,php&theme=dark " />
-      <img 
-       height="40"
-       src="https://skillicons.dev/icons?i=mysql,netlify,vercel,figma,ps&theme=dark " />
-  </a>
- </div>
-
- ###
+  <h3>Front:<h3>
+  <div>
+    <img height="40" src="https://skillicons.dev/icons?i=html"/>
+    <img height="40" src="https://skillicons.dev/icons?i=css"/>
+    <img height="40" src="https://skillicons.dev/icons?i=js"/>
+    <img height="40" src="https://skillicons.dev/icons?i=react"/>
+    <img height="40" src="https://skillicons.dev/icons?i=astro"/>
+    <img height="40" src="https://skillicons.dev/icons?i=nextjs"/>
+    <img height="40" src="https://skillicons.dev/icons?i=bootstrap"/>
+    <img height="40" src="https://skillicons.dev/icons?i=tailwindcss"/>
+    <img height="40" src="https://skillicons.dev/icons?i=mui"/>
+  </div>
 
   <div align="left">
-    <a href="https://skillicons.dev">
-      <img 
-       height="40"
-       src="https://skillicons.dev/icons?i=vscode,windows,&theme=dark " />
-  </a>
- </div>
+  <h3>Back:<h3>
+  <div>
+    <img height="40" src="https://skillicons.dev/icons?i=php"/>
+    <img height="40" src="https://skillicons.dev/icons?i=nodejs"/>
+    <img height="40" src="https://skillicons.dev/icons?i=laravel"/>
+    <img height="40" src="https://skillicons.dev/icons?i=express"/>
+     <img height="40" src="https://skillicons.dev/icons?i=mysql"/>
+     <img height="40" src="https://skillicons.dev/icons?i=netlify"/>
+  </div>
+
+   <div align="left">
+  <h3>Tools:<h3>
+  <div>
+    <img height="40" src="https://skillicons.dev/icons?i=github"/>
+    <img height="40" src="https://skillicons.dev/icons?i=git"/>
+    <img height="40" src="https://skillicons.dev/icons?i=vscode"/>
+    <img height="40" src="https://skillicons.dev/icons?i=windows"/>
+     <img height="40" src="https://skillicons.dev/icons?i=figma"/>
+     <img height="40" src="https://skillicons.dev/icons?i=ps"/>
+  </div>
 
 
  </div> 
