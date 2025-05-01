@@ -10,16 +10,18 @@
     </a>
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
 
 ###
 
 
-<h3 align="left">🌐 Socials:</h3>
+<h3 align="center">🌐 Socials:</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/juan-rengifo-702a6a306/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -28,15 +30,17 @@
   </a>
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
 
 ###
 
-<h3 align="left">💻 Tech Stack:</h3>
+<h3 align="center">💻 Tech Stack:</h3>
 
 ### 
 
- <div align="left">
+ <div align="center">
   <div>
     <img height="40" src="https://skillicons.dev/icons?i=html"/>
     <img height="40" src="https://skillicons.dev/icons?i=css"/>
@@ -48,7 +52,7 @@
     <img height="40" src="https://skillicons.dev/icons?i=mui"/>
   </div>
 
-  <div align="left">
+  <div align="center">
   <div>
     <img height="40" src="https://skillicons.dev/icons?i=php"/>
     <img height="40" src="https://skillicons.dev/icons?i=nodejs"/>
@@ -58,7 +62,7 @@
      <img height="40" src="https://skillicons.dev/icons?i=netlify"/>
   </div>
 
-   <div align="left">
+   <div align="center">
   <div>
     <img height="40" src="https://skillicons.dev/icons?i=github"/>
     <img height="40" src="https://skillicons.dev/icons?i=git"/>
@@ -67,6 +71,7 @@
      <img height="40" src="https://skillicons.dev/icons?i=figma"/>
      <img height="40" src="https://skillicons.dev/icons?i=ps"/>
   </div>
-
-
  </div> 
+ <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
