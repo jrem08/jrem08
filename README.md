@@ -57,8 +57,8 @@
 
   <div align="center">
   <div>
-    <img height="40" src="https://skillicons.dev/icons?i=php"/>
-   <img height="40" src="https://skillicons.dev/icons?i=laravel"/>
+    <img height="40" src="https://skillicons.dev/icons?i=firebase"/>
+   <img height="40" src="https://skillicons.dev/icons?i=vite"/>
     <img height="40" src="https://skillicons.dev/icons?i=nodejs"/>
       <img height="40" src="https://skillicons.dev/icons?i=express"/>
      <img height="40" src="https://skillicons.dev/icons?i=mysql"/>
