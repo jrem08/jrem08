@@ -5,7 +5,7 @@
 
 <div align="center">
     <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-end+Developer;Database+Administrator;UI+Designer;&color=BC52EE&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-end+Developer;UX/UI+Designer;&color=BC52EE&center=true&width=500&height=50"></a>
 </p>
     <a href="https://jrem08.github.io/David-website/">
     <img src="https://img.shields.io/badge/Portafolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -58,7 +58,7 @@
   <div align="center">
   <div>
     <img height="40" src="https://skillicons.dev/icons?i=firebase"/>
-   <img height="40" src="https://skillicons.dev/icons?i=vite"/>
+   <img height="40" src="https://skillicons.dev/icons?i=nextjs"/>
     <img height="40" src="https://skillicons.dev/icons?i=nodejs"/>
       <img height="40" src="https://skillicons.dev/icons?i=express"/>
      <img height="40" src="https://skillicons.dev/icons?i=mysql"/>
