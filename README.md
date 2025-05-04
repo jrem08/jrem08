@@ -57,12 +57,11 @@
 
   <div align="center">
   <div>
-    <img height="40" src="https://skillicons.dev/icons?i=firebase"/>
-   <img height="40" src="https://skillicons.dev/icons?i=nextjs"/>
-    <img height="40" src="https://skillicons.dev/icons?i=nodejs"/>
-      <img height="40" src="https://skillicons.dev/icons?i=express"/>
-     <img height="40" src="https://skillicons.dev/icons?i=mysql"/>
-     <img height="40" src="https://skillicons.dev/icons?i=netlify"/>
+    <img height="40" src="https://skillicons.dev/icons?i=sass"/>
+   <img height="40" src="https://skillicons.dev/icons?i=ps"/>
+    <img height="40" src="https://skillicons.dev/icons?i=nextjs"/>
+     <img height="40" src="https://skillicons.dev/icons?i=typescript"/>
+     <img height="40" src="https://skillicons.dev/icons?i=nodejs"/>
   </div>
 
    <div align="center">
@@ -70,7 +69,7 @@
     <img height="40" src="https://skillicons.dev/icons?i=github"/>
     <img height="40" src="https://skillicons.dev/icons?i=git"/>
     <img height="40" src="https://skillicons.dev/icons?i=vscode"/>
-    <img height="40" src="https://skillicons.dev/icons?i=windows"/>
+    <img height="40" src="https://skillicons.dev/icons?i=netlify"/>
      <img height="40" src="https://skillicons.dev/icons?i=figma"/>
      <img height="40" src="https://skillicons.dev/icons?i=notion"/>
   </div>
