@@ -59,8 +59,8 @@
   <div>
     <img height="40" src="https://skillicons.dev/icons?i=sass"/>
    <img height="40" src="https://skillicons.dev/icons?i=ps"/>
-    <img height="40" src="https://skillicons.dev/icons?i=nextjs"/>
-     <img height="40" src="https://skillicons.dev/icons?i=typescript"/>
+    <img height="40" src="https://skillicons.dev/icons?i=mysql"/>
+     <img height="40" src="https://skillicons.dev/icons?i=python"/>
      <img height="40" src="https://skillicons.dev/icons?i=nodejs"/>
   </div>
 
