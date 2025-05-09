@@ -67,8 +67,8 @@
     <img height="40" src="https://skillicons.dev/icons?i=git"/>
     <img height="40" src="https://skillicons.dev/icons?i=vscode"/>
     <img height="40" src="https://skillicons.dev/icons?i=netlify"/>
+     <img height="40" src="https://skillicons.dev/icons?i=vercel"/>
      <img height="40" src="https://skillicons.dev/icons?i=figma"/>
-     <img height="40" src="https://skillicons.dev/icons?i=notion"/>
   </div>
  </div> 
  <div align="center">
