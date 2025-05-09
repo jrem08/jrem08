@@ -50,17 +50,14 @@
     <img height="40" src="https://skillicons.dev/icons?i=js"/>
     <img height="40" src="https://skillicons.dev/icons?i=react"/>
     <img height="40" src="https://skillicons.dev/icons?i=astro"/>
-    <img height="40" src="https://skillicons.dev/icons?i=bootstrap"/>
-    <img height="40" src="https://skillicons.dev/icons?i=tailwindcss"/>
-    <img height="40" src="https://skillicons.dev/icons?i=mui"/>
   </div>
 
   <div align="center">
   <div>
-    <img height="40" src="https://skillicons.dev/icons?i=sass"/>
-   <img height="40" src="https://skillicons.dev/icons?i=ps"/>
-    <img height="40" src="https://skillicons.dev/icons?i=mysql"/>
-     <img height="40" src="https://skillicons.dev/icons?i=python"/>
+    <img height="40" src="https://skillicons.dev/icons?i=tailwind"/>
+   <img height="40" src="https://skillicons.dev/icons?i=bootstrap"/>
+    <img height="40" src="https://skillicons.dev/icons?i=mui"/>
+     <img height="40" src="https://skillicons.dev/icons?i=mysql"/>
      <img height="40" src="https://skillicons.dev/icons?i=nodejs"/>
   </div>
 
