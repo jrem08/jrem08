@@ -39,38 +39,16 @@
 
 ###
 
-<h3 align="center">🀄️ Tech Stack:</h3>
+<h3 align="center">🀄️ Web Development | Multimedia Design </h3>
 
 ### 
 
- <div align="center">
-  <div>
-    <img height="40" src="https://skillicons.dev/icons?i=html"/>
-    <img height="40" src="https://skillicons.dev/icons?i=css"/>
-    <img height="40" src="https://skillicons.dev/icons?i=js"/>
-    <img height="40" src="https://skillicons.dev/icons?i=react"/>
-    <img height="40" src="https://skillicons.dev/icons?i=astro"/>
-  </div>
+<div align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,tailwind,bootstrap,nodejs,git,github&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=vscode,netlify,vercel,mysql,figma,ps,ai,notion,python&theme=dark" />
+    </a>
+</div>
 
-  <div align="center">
-  <div>
-    <img height="40" src="https://skillicons.dev/icons?i=tailwind"/>
-   <img height="40" src="https://skillicons.dev/icons?i=bootstrap"/>
-    <img height="40" src="https://skillicons.dev/icons?i=mui"/>
-     <img height="40" src="https://skillicons.dev/icons?i=mysql"/>
-     <img height="40" src="https://skillicons.dev/icons?i=nodejs"/>
-  </div>
-
-   <div align="center">
-  <div>
-    <img height="40" src="https://skillicons.dev/icons?i=github"/>
-    <img height="40" src="https://skillicons.dev/icons?i=git"/>
-    <img height="40" src="https://skillicons.dev/icons?i=vscode"/>
-    <img height="40" src="https://skillicons.dev/icons?i=netlify"/>
-     <img height="40" src="https://skillicons.dev/icons?i=vercel"/>
-     <img height="40" src="https://skillicons.dev/icons?i=figma"/>
-  </div>
- </div> 
- <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
