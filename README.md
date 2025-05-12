@@ -50,7 +50,7 @@
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,tailwind,bootstrap,nodejs,git,github&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=vscode,netlify,vercel,mysql,figma,ps,mui,notion,nextjs,wordpress&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=vscode,netlify,vercel,mysql,figma,ps,mui,notion,webflow,wordpress&theme=dark" />
     </a>
 </div>
 
