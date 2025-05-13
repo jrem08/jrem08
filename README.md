@@ -5,9 +5,10 @@
 
 <div align="center">
   <div align="center">
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=F7F7F7&random=false&width=490&lines=The+best+way+to+predict+the+future+is+to+program+it.+;La+mejor+forma+de+predecir+el+futuro+es+programarlo.+)](https://02ip.ru/applepie)
-</div>
+    <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Backend+Developer&color=BC52EE&center=true&width=500&height=50"></a>
+</p>
+
 <div align="center">
 
 </div>
@@ -50,7 +51,7 @@
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,tailwind,bootstrap,nodejs,git,github&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=vscode,netlify,vercel,mysql,figma,ps,mui,notion,webflow,wordpress&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=vscode,netlify,vercel,mysql,figma,ps,mui,notion,vite,firebase&theme=dark" />
     </a>
 </div>
 
