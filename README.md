@@ -6,7 +6,7 @@
 <div align="center">
   <div align="center">
     <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Backend+Developer&color=BC52EE&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer&color=BC52EE&center=true&width=500&height=50"></a>
 </p>
 
 <div align="center">
@@ -30,10 +30,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/juan-rengifo-702a6a306/" target="_blank">
+  <a  height="40" href="https://www.linkedin.com/in/juan-rengifo-702a6a306/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:medrandajuan843@gmail.com" target="_blank">
+  <a  height="40" href="mailto:medrandajuan843@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -50,8 +50,8 @@
 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,tailwind,bootstrap,nodejs,git,github&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=vscode,netlify,vercel,mysql,figma,ps,mui,notion,vite,firebase&theme=dark" />
+        <img  height="40" src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,vscode&theme=dark" />
+        <img  height="40" src="https://skillicons.dev/icons?i=figma,vite,mysql&theme=dark" />
     </a>
 </div>
 
