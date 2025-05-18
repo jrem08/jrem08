@@ -12,7 +12,7 @@
 <div align="center">
 
 </div>
-    <a href="https://jrem08.github.io/David-website/">
+    <a href="https://juanre.netlify.app/">
     <img src="https://img.shields.io/badge/Portafolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
 </div>
