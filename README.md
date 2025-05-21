@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Juan David Rengifo
+# 👋 ¡Hola! Soy Juan Rengifo
 
 **Estudiante Ingenieria Software | Desarrollador Web**
 
