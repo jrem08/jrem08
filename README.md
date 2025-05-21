@@ -22,7 +22,7 @@ Apasionado por la tecnología y el desarrollo web. Con 2 años de formación en 
 
 - 📧 Email: medrandajuan843@gmail.com
 - 📍 Ubicación: Pereira, Colombia
-- 💼 linkedin: https://www.linkedin.com/404/
+- 💼 linkedin: https://www.linkedin.com/in/juan-david-702a6a306/
 - 🌐 Sitio web: https://juanre.netlify.app/
 
 
