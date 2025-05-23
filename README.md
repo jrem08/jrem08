@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Juan Rengifo
 
-**Estudiante Ingenieria Software | Desarrollador Web**
+**Ingenieria Software | Frontend & Backend**
 
-Apasionado por la tecnología y el desarrollo web. Con 2 años de formación en programación de software. Me he enfocado en el desarrollo Front-end con JavaScript y React, tengo conocimientos en bases de datos como MySQL y Excel. Me gusta trabajar en equipo, aprender nuevas herramientas y enfrentar desafíos que me permitan crecer como desarrollador.
+Apasionado por la tecnología y el desarrollo web. Con 2 años de formación en programación de software. Me he enfocado en el desarrollo Front-end con JavaScript y React, tengo conocimientos en bases de datos como MySQL. Me gusta trabajar en equipo, aprender nuevas herramientas y enfrentar desafíos que me permitan crecer como desarrollador.
 
 
 ---
