@@ -11,8 +11,8 @@ Apasionado por la tecnología y el desarrollo web. Con 2 años de formación en 
 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img  height="40" src="https://skillicons.dev/icons?i=javascript,html,css,react,astro,vite,tailwind,bootstrap,mui,figma&theme=dark" />
-        <img  height="40" src="https://skillicons.dev/icons?i=nodejs,express,mysql,git,github,vercel,netlify,vscode,windows&theme=dark" />
+        <img  height="40" src="https://skillicons.dev/icons?i=javascript,html,css,react,tailwind,bootstrap&theme=dark" />
+        <img  height="40" src="https://skillicons.dev/icons?i=nodejs,express,mysql,git,github,vscode&theme=dark" />
     </a>
 </div>
 
