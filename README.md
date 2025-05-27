@@ -24,7 +24,7 @@ usuario.
 
 - 📧 Email: medrandajuan843@gmail.com
 - 📍 Ubicación: Pereira, Colombia
-- 💼 linkedin: https://www.linkedin.com/in/juan-david-702a6a306/
+- 💼 linkedin: https://www.linkedin.com/in/juan-rengifo-702a6a306/
 - 🌐 Sitio web: https://juanre.netlify.app/
 
 
