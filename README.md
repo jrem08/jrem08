@@ -22,10 +22,10 @@ usuario.
 
 ## 📩 Contacto
 
-- 📧 Email: medrandajuan843@gmail.com
+- 📧 medrandajuan843@gmail.com
 - 📍 Pereira, Colombia
-- 💼 linkedin: https://www.linkedin.com/in/juan-rengifo-702a6a306/
-- 🌐 Sitio web: https://juanre.netlify.app/
+- 💼 https://www.linkedin.com/in/juan-rengifo-702a6a306/
+- 🌐 https://juanre.netlify.app/
 
 
 
