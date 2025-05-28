@@ -7,7 +7,7 @@ documentación técnica, normalización de bases de datos y desarrollo de interf
 Tailwind CSS y Bootstrap. Apasionado por construir soluciones eficientes, bien estructuradas y orientadas al
 usuario.
 
-Además del desarrollo, me apasiona el hacking ético y la seguridad informática, buscando siempre implementar prácticas seguras y proteger las aplicaciones frente a vulnerabilidades.
+Además del desarrollo, me apasiona la ciberseguridad buscando siempre implementar prácticas seguras y proteger las aplicaciones frente a vulnerabilidades.
 
 ---
 
