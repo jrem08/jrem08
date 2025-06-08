@@ -8,17 +8,20 @@
 
 ### 📌 Acerca de mí
 
-Técnico Profesional en Programación de Software y Futuro Tecnólogo en Desarrollo de Software, Apasionado por el desarrollo web con habilidades sólidas en toma de requerimientos funcionales, documentación técnica, normalización de bases de datos y desarrollo de interfaces responsivas usando Tailwind CSS y Bootstrap. Apasionado por construir soluciones eficientes, bien estructuradas y orientadas al usuario.
+Técnico Profesional en Programación de Software y futuro Tecnólogo en Desarrollo de Software e Ingeniero de Software, con una fuerte pasión por el desarrollo web. Poseo habilidades sólidas en toma de requerimientos funcionales, documentación técnica, normalización de bases de datos y creación de interfaces web responsivas utilizando Tailwind CSS y Bootstrap. Comprometido con el desarrollo de soluciones eficientes, bien estructuradas y orientadas al usuario, aplicando buenas prácticas y enfoque centrado en la calidad del software.
 
 ---
 
 ## 📚 Educación
 
-*Técnico Profesional en Programación de Software*  
+- *Técnico Profesional en Programación de Software*  
 Universidad CIAF, 2023 – 2025 (Graduación estimada octubre 2025)
 
-*Tecnología en Desarrollo de Software*  
-Universidad CIAF, 2025 – 2026 (Proximo a cursar) 
+- *Tecnología en Desarrollo de Software*  
+Universidad CIAF, 2025 – 2026 (Proximo a cursar)
+
+- *Profesional en Ingenieria de software*  
+Universidad CIAF, 2026 – 2028 (Proximo a cursar) 
 
 
 ---
