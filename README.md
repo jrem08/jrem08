@@ -34,4 +34,4 @@ Técnico Profesional en Programación de Software y Futuro Tecnólogo en Desarro
 
 ---
 
-> “Construyo soluciones, aprendo cada día y disfruto el viaje del código.”
+> “Construyendo las tecnologias del mañana.”
