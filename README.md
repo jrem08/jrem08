@@ -49,7 +49,7 @@ Universidad CIAF, 2025 – 2026 (Proximo a cursar)
 ### 📬 Contáctame
 
 - 🌐 Portafolio: [https://juanre.netlify.app/](https://juanre.netlify.app/) 
-- 📧 Correo: medrandajuan843@gmail.com
+- 📧 Gmail: medrandajuan843@gmail.com
 
 ---
 
