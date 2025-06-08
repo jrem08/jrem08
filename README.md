@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">Web Developer | Frontend & Backend 👨🏽‍💻</h3>
+<h3 align="center">Desarrollador | Frontend & Backend 👨🏽‍💻</h3>
 
 ---
 
