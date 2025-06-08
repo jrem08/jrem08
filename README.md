@@ -33,13 +33,20 @@ Universidad CIAF, 2026 – 2028 (Proximo a cursar)
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img alt="Astro" src="https://img.shields.io/badge/Astro%20-BC52EE.svg?logo=astro&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img alt="Express" src="https://img.shields.io/badge/Express%20-20232A.svg?logo=Express&logoColor=white">
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white">
+  <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss%20-%231572B6.svg?logo=tailwindcss&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma%20-BC52EE.svg?style=flat&logo=figma&logoColor=white"/>
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 </p>
 
 ---
