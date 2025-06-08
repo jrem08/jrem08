@@ -29,8 +29,7 @@ Técnico Profesional en Programación de Software y Futuro Tecnólogo en Desarro
 
 ### 📬 Contáctame
 
-- 🌐 Portafolio: [www.tuportafolio.com](https://www.tuportafolio.com) (opcional)
-- 💼 LinkedIn: [linkedin.com/in/juandavidrengifo](https://linkedin.com/in/juandavidrengifo)
+- 🌐 Portafolio: [https://juanre.netlify.app/](https://juanre.netlify.app/) 
 - 📧 Correo: medrandajuan843@gmail.com
 
 ---
