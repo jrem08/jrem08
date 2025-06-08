@@ -43,4 +43,4 @@ Técnico Profesional en Programación de Software y Futuro Tecnólogo en Desarro
 
 ---
 
-> “La tecnología es una herramienta poderosa para cambiar el mundo, y yo quiero ser parte de ese cambio.”
+> “La programación es el arte de resolver problemas mediante la lógica, la creatividad y la pasión por aprender.”
