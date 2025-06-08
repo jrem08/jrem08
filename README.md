@@ -27,6 +27,15 @@ Técnico Profesional en Programación de Software y Futuro Tecnólogo en Desarro
 
 ---
 
+## 🧠 Habilidades Blandas
+
+- Pensamiento lógico y resolución de problemas  
+- Trabajo en equipo y comunicación efectiva  
+- Autonomía y aprendizaje constante  
+- Enfoque en resultados y responsabilidad
+
+---
+
 ### 📬 Contáctame
 
 - 🌐 Portafolio: [https://juanre.netlify.app/](https://juanre.netlify.app/) 
@@ -34,4 +43,4 @@ Técnico Profesional en Programación de Software y Futuro Tecnólogo en Desarro
 
 ---
 
-> “Construyendo las tecnologias del mañana.”
+> “La tecnología es una herramienta poderosa para cambiar el mundo, y yo quiero ser parte de ese cambio.”
