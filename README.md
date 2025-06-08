@@ -2,6 +2,10 @@
 
 ---
 
+<h2 align="center">🚀 Web Developer</h2>
+
+---
+
 ### 📌 Acerca de mí
 
 Técnico Profesional en Programación de Software y Futuro Tecnólogo en Desarrollo de Software, Apasionado por el desarrollo web con habilidades sólidas en toma de requerimientos funcionales, documentación técnica, normalización de bases de datos y desarrollo de interfaces responsivas usando Tailwind CSS y Bootstrap. Apasionado por construir soluciones eficientes, bien estructuradas y orientadas al usuario.
