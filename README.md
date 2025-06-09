@@ -44,8 +44,7 @@ Técnico Profesional en Programación de Software y futuro Tecnólogo en Desarro
 
 ### 📬 Contáctame
 
-- 🌐 Portafolio: [https://juanre.netlify.app/](https://juanre.netlify.app/) 
-- 📧 Gmail: medrandajuan843@gmail.com
+📧 Correo: medrandajuan843@gmail.com
 
 ---
 
