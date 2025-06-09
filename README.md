@@ -76,7 +76,7 @@ Universidad CIAF, 2026 – 2028 (Proximo a cursar)
 ---
 
  ## 💰 Puedes ayudarme donando
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/jdrm5?country.x=CO&locale.x=es_XC) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/jdrm5?country.x=CO&locale.x=es_XC) 
 
 ---
 
