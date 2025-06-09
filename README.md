@@ -22,6 +22,9 @@ Técnico Profesional en Programación de Software y futuro Tecnólogo en Desarro
 - *Técnico Profesional en Programación de Software*  
 Universidad CIAF, 2023 – 2025 (Graduación estimada octubre 2025)
 
+- *Seminario de grado - Bases de datos Oracle*  
+Universidad CIAF, 2023 – 2025 (Proximo a cursar) 
+
 - *Tecnología en Desarrollo de Software*  
 Universidad CIAF, 2025 – 2026 (Proximo a cursar)
 
