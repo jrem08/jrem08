@@ -17,23 +17,6 @@ Técnico Profesional en Programación de Software y futuro Tecnólogo en Desarro
 
 ---
 
-## 📚 Educación
-
-- *Técnico Profesional en Programación de Software*  
-Universidad CIAF, 2023 – 2025 (Graduación estimada octubre 2025)
-
-- *Seminario de grado - Bases de datos Oracle*  
-Universidad CIAF, 2023 – 2025 (Proximo a cursar) 
-
-- *Tecnología en Desarrollo de Software*  
-Universidad CIAF, 2025 – 2026 (Proximo a cursar)
-
-- *Profesional en Ingenieria de software*  
-Universidad CIAF, 2026 – 2028 (Proximo a cursar) 
-
-
----
-
 ### 🛠️ Tecnologías y herramientas
 
 <p align="left">
@@ -56,15 +39,6 @@ Universidad CIAF, 2026 – 2028 (Proximo a cursar)
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 </p>
-
----
-
-## 🧠 Habilidades Blandas
-
-- Pensamiento lógico y resolución de problemas  
-- Trabajo en equipo y comunicación efectiva  
-- Autonomía y aprendizaje constante  
-- Enfoque en resultados y responsabilidad
 
 ---
 
