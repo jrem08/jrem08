@@ -25,7 +25,6 @@ Técnico Profesional en Programación de Software y futuro Tecnólogo en Desarro
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=gray">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
-  <img alt="Astro" src="https://img.shields.io/badge/Astro%20-BC52EE.svg?logo=astro&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
   <img alt="Express" src="https://img.shields.io/badge/Express%20-20232A.svg?logo=Express&logoColor=white">
   <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss%20-%231572B6.svg?logo=tailwindcss&logoColor=white"/>
@@ -53,4 +52,4 @@ Técnico Profesional en Programación de Software y futuro Tecnólogo en Desarro
 
 ---
 
-> “La programación es el arte de resolver problemas mediante la lógica, la creatividad y la pasión por aprender.”
+> “Me gusta resolver problemas creando tecnologias.”
