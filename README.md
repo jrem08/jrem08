@@ -1,5 +1,5 @@
-![Header](img.gif)
-<h1 align="center">👋 ¡Hola!, Soy Juan Rengifo</h1>
+
+<h1 align="left">👋 ¡Hola!, Soy Juan Rengifo</h1>
 
 ---
 
@@ -14,7 +14,7 @@
 
 ### 📌 Acerca de mí
 
-Técnico Profesional en Programación de Software y estudiante de Tecnología en Desarrollo de Software, camino a convertirme en Ingeniero de Software.
+Técnico Profesional en Programación de Software y actualmente a formarme como Tecnologo en Desarrollo de Software, camino a convertirme en Ingeniero de Software.
 
 Desde niño me apasiona la tecnología. A los 10 años ya soñaba con crear cosas increíbles desde una pantalla, y hoy hago realidad esas ideas a través del desarrollo web.
 
@@ -44,10 +44,14 @@ Me especializo en el diseño y desarrollo de aplicaciones web modernas, combinan
 
 ---
 
-### 📬 Contáctame
+### 🧠 Fortalezas personales
 
-📧 Correo: medrandajuan843@gmail.com
+- Pensamiento lógico y resolución de problemas
+- Comunicación efectiva y trabajo en equipo
+- Adaptabilidad y constante aprendizaje
+- Enfoque en el detalle y la experiencia del usuario
+
 
 ---
 
-> “Me gusta resolver problemas creando tecnologias.”
+> “No se trata solo de programar… se trata de transformar ideas en soluciones que marquen la diferencia.”
