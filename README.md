@@ -1,4 +1,5 @@
- # 👋 ¡Hola! Soy Juan Rengifo
+![Header](img.gif)
+<h1 align="center">👋 ¡Hola!, Soy Juan Rengifo</h1>
 
 ---
 
@@ -13,7 +14,11 @@
 
 ### 📌 Acerca de mí
 
-Técnico profesional en programación de Software y futuro tecnólogo en Desarrollo de Software e ingeniero de Software, con una fuerte pasión por el desarrollo de software y todo lo relacionado con la tecnologia, poseo habilidades sólidas en toma de requerimientos funcionales y no funcionales, documentación técnica, normalización y diseño de bases de datos y creación de interfaces web responsivas utilizando Tailwind CSS y Bootstrap. Comprometido con el desarrollo de soluciones eficientes, bien estructuradas y orientadas al usuario, aplicando buenas prácticas y enfoque centrado en la calidad del software.
+Técnico Profesional en Programación de Software y estudiante de Tecnología en Desarrollo de Software, camino a convertirme en Ingeniero de Software.
+
+Desde niño me apasiona la tecnología. A los 10 años ya soñaba con crear cosas increíbles desde una pantalla, y hoy hago realidad esas ideas a través del desarrollo web.
+
+Me especializo en el diseño y desarrollo de aplicaciones web modernas, combinando creatividad, funcionalidad y buenas prácticas. Me encanta construir soluciones innovadoras que realmente aporten valor, con enfoque en el usuario y en los detalles que marcan la diferencia
 
 ---
 
