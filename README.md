@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+de+software;&color=BC52EE&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+de+Desarollo;Frontend+%26+Backend&color=BC52EE&center=true&width=500&height=50">
   </a>
 </p>
 
@@ -14,11 +14,12 @@
 
 ### 📌 Acerca de mí
 
-Técnico Profesional en Programación de Software y actualmente en formación como Tecnologo en Desarrollo de Software, camino a convertirme en Ingeniero de Software.
+Técnico Profesional en Programación de Software y actualmente en formación como Tecnólogo en Desarrollo de Software, en camino a convertirme en Ingeniero de Software.
 
-Desde niño me apasiona la tecnología. A los 10 años ya soñaba con crear cosas increíbles desde una pantalla, y hoy hago realidad esas ideas a través del desarrollo web.
+Desde temprana edad sentí una profunda pasión por la tecnología y soñaba con crear experiencias digitales desde una pantalla y hoy convierto esas ideas en realidad a través del desarrollo de software.
+Me especializo en el diseño y desarrollo de aplicaciones web modernas y me apasiona también el desarrollo de aplicaciones móviles. Disfruto construir soluciones innovadoras que integren estética, funcionalidad y una experiencia centrada en el usuario.
+Mi enfoque está en crear productos que realmente aporten valor, cuidando cada detalle y aplicando buenas prácticas para lograr resultados de calidad.
 
-Me especializo en el diseño y desarrollo de aplicaciones web modernas, combinando creatividad, funcionalidad y buenas prácticas. Me encanta construir soluciones innovadoras que realmente aporten valor, con enfoque en el usuario y en los detalles que marcan la diferencia
 
 ---
 
@@ -28,8 +29,8 @@ Me especializo en el diseño y desarrollo de aplicaciones web modernas, combinan
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=gray">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
   <img alt="Express" src="https://img.shields.io/badge/Express%20-20232A.svg?logo=Express&logoColor=white">
   <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss%20-%231572B6.svg?logo=tailwindcss&logoColor=white"/>
