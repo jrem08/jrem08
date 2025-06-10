@@ -13,7 +13,7 @@
 
 ### 📌 Acerca de mí
 
-Técnico Profesional en Programación de Software y futuro Tecnólogo en Desarrollo de Software e Ingeniero de Software, con una fuerte pasión por el desarrollo web y el análisis de datos. Poseo habilidades sólidas en toma de requerimientos funcionales, documentación técnica, normalización de bases de datos y creación de interfaces web responsivas utilizando Tailwind CSS y Bootstrap. Comprometido con el desarrollo de soluciones eficientes, bien estructuradas y orientadas al usuario, aplicando buenas prácticas y enfoque centrado en la calidad del software.
+Técnico profesional en programación de Software y futuro tecnólogo en Desarrollo de Software e ingeniero de Software, con una fuerte pasión por el desarrollo de software y todo lo relacionado con la tecnologia, poseo habilidades sólidas en toma de requerimientos funcionales y no funcionales, documentación técnica, normalización y diseño de bases de datos y creación de interfaces web responsivas utilizando Tailwind CSS y Bootstrap. Comprometido con el desarrollo de soluciones eficientes, bien estructuradas y orientadas al usuario, aplicando buenas prácticas y enfoque centrado en la calidad del software.
 
 ---
 
@@ -30,10 +30,8 @@ Técnico Profesional en Programación de Software y futuro Tecnólogo en Desarro
   <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss%20-%231572B6.svg?logo=tailwindcss&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/Figma%20-BC52EE.svg?style=flat&logo=figma&logoColor=white"/>
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
@@ -44,11 +42,6 @@ Técnico Profesional en Programación de Software y futuro Tecnólogo en Desarro
 ### 📬 Contáctame
 
 📧 Correo: medrandajuan843@gmail.com
-
----
-
- ## 💰 Puedes ayudarme donando
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/jdrm5?country.x=CO&locale.x=es_XC) 
 
 ---
 
