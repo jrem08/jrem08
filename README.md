@@ -14,7 +14,7 @@
 
 ### 📌 Acerca de mí
 
-Técnico Profesional en Programación de Software y actualmente a formarme como Tecnologo en Desarrollo de Software, camino a convertirme en Ingeniero de Software.
+Técnico Profesional en Programación de Software y actualmente en formación como Tecnologo en Desarrollo de Software, camino a convertirme en Ingeniero de Software.
 
 Desde niño me apasiona la tecnología. A los 10 años ya soñaba con crear cosas increíbles desde una pantalla, y hoy hago realidad esas ideas a través del desarrollo web.
 
