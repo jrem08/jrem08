@@ -13,7 +13,7 @@
 
 ### 📌 Acerca de mí
 
-Técnico Profesional en Programación de Software y futuro Tecnólogo en Desarrollo de Software e Ingeniero de Software, con una fuerte pasión por el desarrollo web. Poseo habilidades sólidas en toma de requerimientos funcionales, documentación técnica, normalización de bases de datos y creación de interfaces web responsivas utilizando Tailwind CSS y Bootstrap. Comprometido con el desarrollo de soluciones eficientes, bien estructuradas y orientadas al usuario, aplicando buenas prácticas y enfoque centrado en la calidad del software.
+Técnico Profesional en Programación de Software y futuro Tecnólogo en Desarrollo de Software e Ingeniero de Software, con una fuerte pasión por el desarrollo web y el análisis de datos. Poseo habilidades sólidas en toma de requerimientos funcionales, documentación técnica, normalización de bases de datos y creación de interfaces web responsivas utilizando Tailwind CSS y Bootstrap. Comprometido con el desarrollo de soluciones eficientes, bien estructuradas y orientadas al usuario, aplicando buenas prácticas y enfoque centrado en la calidad del software.
 
 ---
 
