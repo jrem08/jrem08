@@ -70,10 +70,18 @@ Ofrezco soluciones digitales personalizadas para negocios, emprendedores y profe
 
 ---
 
-### 📲 Contactame
+### 📩 Contacto ¿Tienes un proyecto en mente? Escríbeme:
 
-- <a href="https://juanre.netlify.app/" target="_blank">https://juanre.netlify.app/</a>
-- <a href="mailto:medrandajuan843@gmail.com" target="_blank">mailto:medrandajuan843@gmail.com</a>
+<div align="left">
+    <p>🔥 Portafolio web:
+   <a href="https://juanre.netlify.app/" target="_blank">https://juanre.netlify.app/</a>
+      </p>
+  </div>
+  <div align="left">
+    <p>🔥 Correo electronico:
+    <a href="mailto:medrandajuan843@gmail.com">medrandajuan843@gmail.com</a>
+      </p>
+  </div>
 
 
 ---
