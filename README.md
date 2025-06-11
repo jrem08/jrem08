@@ -78,9 +78,8 @@ Ofrezco soluciones digitales personalizadas para negocios, emprendedores y profe
       </p>
   </div>
   <div align="left">
-    <p>🔥 Correo electronico:
-    <a href="mailto:medrandajuan843@gmail.com">medrandajuan843@gmail.com</a>
-      </p>
+   <p><strong>🔥 Email:</strong> 
+     <a href="mailto:medrandajuan843@gmail.com">medrandajuan843@gmail.com</a></p>
   </div>
 
 
