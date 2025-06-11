@@ -85,4 +85,4 @@ Ofrezco soluciones digitales personalizadas para negocios, emprendedores y profe
 
 ---
 
-> “No se trata solo de programar… se trata de transformar ideas en soluciones que marquen la diferencia.”
+
