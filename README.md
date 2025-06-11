@@ -17,7 +17,7 @@
 Técnico Profesional en Programación de Software y actualmente en formación como Tecnólogo en Desarrollo de Software, en camino a convertirme en Ingeniero de Software.
 
 Desde temprana edad sentí una profunda pasión por la tecnología y soñaba con crear experiencias digitales desde una pantalla y hoy convierto esas ideas en realidad a través del desarrollo de software.
-Me especializo en el diseño y desarrollo de aplicaciones web modernas y me apasiona también el desarrollo de aplicaciones móviles. Disfruto construir soluciones innovadoras que integren estética, funcionalidad y una experiencia centrada en el usuario.
+Me especializo en el desarrollo de aplicaciones web, y por otro lado me apasiona también ser Hacker. Disfruto construir soluciones innovadoras que integren estética, funcionalidad y una experiencia centrada en el usuario.
 Mi enfoque está en crear productos que realmente aporten valor, cuidando cada detalle y aplicando buenas prácticas para lograr resultados de calidad.
 
 
@@ -29,8 +29,8 @@ Mi enfoque está en crear productos que realmente aporten valor, cuidando cada d
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=gray">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
   <img alt="Express" src="https://img.shields.io/badge/Express%20-20232A.svg?logo=Express&logoColor=white">
   <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss%20-%231572B6.svg?logo=tailwindcss&logoColor=white"/>
@@ -41,6 +41,7 @@ Mi enfoque está en crear productos que realmente aporten valor, cuidando cada d
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white">
 </p>
 
 ---
