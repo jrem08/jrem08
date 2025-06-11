@@ -44,15 +44,6 @@ Mi enfoque está en crear productos que realmente aporten valor, cuidando cada d
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white">
 </p>
 
----
-
-### 🧠 Fortalezas personales
-
-- Pensamiento lógico y resolución de problemas
-- Comunicación efectiva y trabajo en equipo
-- Adaptabilidad y constante aprendizaje
-- Enfoque en el detalle y la experiencia del usuario
-
 
 ---
 
