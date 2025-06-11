@@ -17,7 +17,7 @@
 Técnico Profesional en Programación de Software y actualmente en formación como Tecnólogo en Desarrollo de Software, en camino a convertirme en Ingeniero de Software.
 
 Desde temprana edad sentí una profunda pasión por la tecnología y soñaba con crear experiencias digitales desde una pantalla y hoy convierto esas ideas en realidad a través del desarrollo de software.
-Me especializo en el desarrollo web, Disfruto construir soluciones innovadoras que integren estética, funcionalidad y una experiencia centrada en el usuario.
+Me especializo en el desarrollo web, me apasiona tambien el análisis de datos, disfruto construir soluciones innovadoras que integren estética, funcionalidad y una experiencia centrada en el usuario.
 Mi enfoque está en crear productos que realmente aporten valor, cuidando cada detalle y aplicando buenas prácticas para lograr resultados de calidad.
 
 
