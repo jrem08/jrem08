@@ -70,7 +70,7 @@ Ofrezco soluciones digitales personalizadas para negocios, emprendedores y profe
 
 ---
 
-### 📩 Contacto ¿Tienes un proyecto en mente? Escríbeme:
+### 📩 Contacto
 
 <div align="left">
     <p>🔥 Portafolio web:
