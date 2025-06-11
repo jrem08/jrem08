@@ -41,6 +41,40 @@ Mi enfoque está en crear productos que realmente aporten valor, cuidando cada d
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
 </p>
 
+---
+
+### 🚀 Servicios de Desarrollo
+
+Ofrezco soluciones digitales personalizadas para negocios, emprendedores y profesionales. Aquí tienes los servicios que brindo:
+
+🖥️ Landing Pages Profesionales
+- Diseños modernos y responsivos
+-	Ideal para promocionar productos, eventos o servicios
+-	Integración con WhatsApp, formularios de contacto, mapas y redes sociales
+
+
+📝 Blogs y Portafolios
+-	Ideal para creadores de contenido, freelancers o empresas
+-	Gestión de entradas (CMS ligero o personalizado)
+-	Diseño limpio y optimizado para SEO
+
+⚙️ Mantenimiento y Optimización
+-	Corrección de errores y mejoras en sitios ya existentes
+-	Optimización de velocidad, accesibilidad y SEO básico
+-	Actualización de contenido, plugins y diseño
+
+🎨 Diseño UI/UX Personalizado
+-	Prototipos visuales en Figma
+-	Adaptación de ideas y marcas al entorno digital
+-	Experiencia centrada en el usuario
+
+---
+
+### 📲 Contactame
+
+- <a href="https://juanre.netlify.app/" target="_blank">https://juanre.netlify.app/</a>
+- <a href="mailto:medrandajuan843@gmail.com" target="_blank">mailto:medrandajuan843@gmail.com</a>
+
 
 ---
 
