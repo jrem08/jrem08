@@ -63,33 +63,6 @@ Profesional altamente capacitado en lenguajes de programación avanzados, con ca
 
 ---
 
-### 🚀 Servicios de Desarrollo
-
-Ofrezco soluciones digitales personalizadas para negocios, emprendedores y profesionales. Aquí tienes los servicios que brindo:
-
-🖥️ Landing Pages Profesionales
-- Diseños modernos y responsivos
--	Ideal para promocionar productos, eventos o servicios
--	Integración con WhatsApp, formularios de contacto, mapas y redes sociales
-
----
-
-
-📝 Blogs y Portafolios
--	Ideal para creadores de contenido, freelancers o empresas
--	Gestión de entradas (CMS ligero o personalizado)
--	Diseño limpio y optimizado para SEO
-
----
-
-⚙️ Mantenimiento y Optimización
--	Corrección de errores y mejoras en sitios ya existentes
--	Optimización de velocidad, accesibilidad y SEO básico
--	Actualización de contenido, plugins y diseño
-
-
----
-
 ### 📫 Contacto
 
 - 📧 medrandajuan843@gmail.com
