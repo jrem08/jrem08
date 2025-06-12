@@ -17,7 +17,7 @@
 Técnico Profesional en Programación de Software, actualmente en formación como Tecnólogo en Desarrollo de Software y futuro Ingeniero de Software.
 
 Desde temprana edad sentí una profunda pasión por la tecnología y soñaba con crear experiencias digitales desde una pantalla y hoy convierto esas ideas en realidad a través del desarrollo de software.
-Me especializo en el diseño y desarrollo web, me apasiona tambienn el mundo del marketing, disfruto construir soluciones innovadoras que integren estética, funcionalidad y una experiencia centrada en el usuario.
+Me especializo en el desarrollo web, me apasiona tambien el mundo del analisis de datos, disfruto construir soluciones innovadoras que integren estética, funcionalidad y una experiencia centrada en el usuario.
 Mi enfoque está en crear productos que realmente aporten valor, cuidando cada detalle y aplicando buenas prácticas para lograr resultados de calidad.
 
 ---
@@ -73,11 +73,15 @@ Ofrezco soluciones digitales personalizadas para negocios, emprendedores y profe
 -	Ideal para promocionar productos, eventos o servicios
 -	Integración con WhatsApp, formularios de contacto, mapas y redes sociales
 
+---
+
 
 📝 Blogs y Portafolios
 -	Ideal para creadores de contenido, freelancers o empresas
 -	Gestión de entradas (CMS ligero o personalizado)
 -	Diseño limpio y optimizado para SEO
+
+---
 
 ⚙️ Mantenimiento y Optimización
 -	Corrección de errores y mejoras en sitios ya existentes
