@@ -22,25 +22,17 @@ Mi enfoque está en crear productos que realmente aporten valor, cuidando cada d
 
 ---
 
-### 📚 Educación
+### 💻 Educación 
 
-#### 📘 Nivel 1: Técnico Profesional en Programación de Software
+#### 🎓 Nivel 1: Técnico Profesional en Programación de Software
 
 Profesional con la capacidad de desarrollar y construir códigos de programación en lenguajes de alta complejidad, así como el desarrollo esquematizado de páginas web dinámicas.
 
 ---
 
-#### 🧩 Nivel 2: Tecnología en Desarrollo de Software
+#### 📚 Nivel 2: Tecnología en Desarrollo de Software
 
 Profesional capaz de analizar, diseñar, desarrollar, implementar y mantener sistemas de software. Dominan lenguajes de programación, bases de datos y herramientas de desarrollo para resolver problemas reales.
-
-
----
-
-#### 🎓 Nivel 3: Profesional Universitario en Ingeniería de Software
-
-Profesional altamente capacitado en lenguajes de programación avanzados, con capacidad de aprendizaje autónomo y continuo. Poseen conocimientos en ética, auditoría, inteligencia artificial y seguridad informática.
-
 
 ---
 
