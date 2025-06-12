@@ -22,7 +22,7 @@ Mi enfoque está en crear productos que realmente aporten valor, cuidando cada d
 
 ---
 
-### 🧠 Educación 
+### 📚 Educación 
 
 #### 🎓 Nivel 1: Técnico Profesional en Programación de Software
 
@@ -30,7 +30,7 @@ Profesional con la capacidad de desarrollar y construir códigos de programació
 
 ---
 
-#### 📚 Nivel 2: Tecnología en Desarrollo de Software
+#### 📚 Nivel 2: Tecnologo en Desarrollo de Software
 
 Profesional capaz de analizar, diseñar, desarrollar, implementar y mantener sistemas de software. Dominan lenguajes de programación, bases de datos y herramientas de desarrollo para resolver problemas reales.
 
@@ -53,17 +53,10 @@ Profesional capaz de analizar, diseñar, desarrollar, implementar y mantener sis
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white">
 </p>
 
----
-
-### 📫 Contacto
-
-- 📧 medrandajuan843@gmail.com
-- 🌐 Portafolio Web: [https://juanre.netlify.app/](https://juanre.netlify.app/)
-
 
 ---
 
-> 🎯 "Todo el mundo deberia aprender a programar, porque te enseña a pensar."
+>  "Todo el mundo deberia aprender a programar, porque te enseña a pensar."
 
 ---
 
