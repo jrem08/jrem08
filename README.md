@@ -1,5 +1,5 @@
 
-<h1 align="left">👋 ¡Hola!, Soy Juan Rengifo</h1>
+# 👋 ¡Hola!, Soy Juan Rengifo
 
 ---
 
