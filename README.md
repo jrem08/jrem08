@@ -52,17 +52,13 @@ Profesional altamente capacitado en lenguajes de programación avanzados, con ca
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=gray">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
-  <img alt="Express" src="https://img.shields.io/badge/Express%20-20232A.svg?logo=Express&logoColor=white">
   <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss%20-%231572B6.svg?logo=tailwindcss&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma%20-BC52EE.svg?style=flat&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
 </p>
 
 ---
@@ -102,7 +98,7 @@ Ofrezco soluciones digitales personalizadas para negocios, emprendedores y profe
 
 ---
 
-> 🎯 "No se trata solo de programar, sino de entender los problemas del mundo real para crear soluciones que lo transformen"
+> 🎯 "Todo el mundo deberia aprender a programar, porque te enseña a pensar."
 
 ---
 
