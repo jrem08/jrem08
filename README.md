@@ -22,7 +22,7 @@ Mi enfoque está en crear productos que realmente aporten valor, cuidando cada d
 
 ---
 
-### 💻 Educación 
+### 🧠 Educación 
 
 #### 🎓 Nivel 1: Técnico Profesional en Programación de Software
 
