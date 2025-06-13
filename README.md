@@ -74,13 +74,6 @@ Mi visión profesional está enfocada en continuar creciendo como **desarrollado
 
 ---
 
-## ⚡️ Mis intereses
-
-- Diseño gráfico 
-- Hacker etico 
-
----
-
 
 ### 📫 Conecta conmigo
 Estoy abierto a colaborar en proyectos freelance, ideas innovadoras o posiciones remotas. 
