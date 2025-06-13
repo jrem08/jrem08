@@ -74,16 +74,14 @@ Mi visión profesional está enfocada en continuar creciendo como **desarrollado
 
 ---
 
->  "Cada línea de código es una pieza que construye el futuro que imaginas."
-
----
-
 
 ### 📫 ¿Te gustaría trabajar conmigo?
-Estoy disponible para colaborar en proyectos open source, freelance o posiciones remotas como desarrollador web junior.  
-¡Escríbeme! Estoy abierto a nuevas oportunidades y conexiones profesionales
+Estoy abierto a colaborar en proyectos freelance, ideas innovadoras o posiciones remotas como desarrollador web.
+
 
 📧 **Correo:** medrandajuan843@gmail.com  
 🌐 **Portafolio:** [https://juanre.netlify.app](https://juanre.netlify.app)
 
 ---
+
+>  "Cada línea de código es una pieza que construye el futuro que imaginas."
