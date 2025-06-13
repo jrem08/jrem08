@@ -61,15 +61,9 @@ Profesional capaz de analizar, diseñar, desarrollar, implementar y mantener sis
 
 ---
 
-### 🎯 Visión Profesional
+### 🎯 Objetivo profesional
 
-Mi meta es convertirme en un **Desarrollador Full Stack especializado** en tecnologías web modernas, con un enfoque sólido en:
-
-- 🧩 Construcción de interfaces intuitivas (UI) y experiencias accesibles (UX)
-- 🔐 Aplicación de principios de seguridad en el desarrollo
-- 📊 Optimización de rendimiento en bases de datos
-- ⚙️ Automatización de procesos y pruebas
-- 🧪 Mejora continua de la calidad de software
+Mi visión profesional está enfocada en continuar creciendo como **desarrollador de software Full Stack**, contribuyendo a proyectos que generen un impacto positivo en la sociedad. Me motiva el aprendizaje constante, la innovación tecnológica y la posibilidad de formar parte de equipos que valoren el trabajo colaborativo, la calidad del código y la mejora continua.
 
 
 ---
