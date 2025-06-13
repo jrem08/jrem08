@@ -74,9 +74,9 @@ Mi visión profesional está enfocada en continuar creciendo como **desarrollado
 
 ---
 
-## 🧠 Mis intereses
+## ⚡️ Mis intereses
 
-- Desarrollo Frontend 
+- Desarrollo frontend 
 - Diseño gráfico 
 - Análisis de datos
 
@@ -87,8 +87,8 @@ Mi visión profesional está enfocada en continuar creciendo como **desarrollado
 Estoy abierto a colaborar en proyectos freelance, ideas innovadoras o posiciones remotas como desarrollador web.
 
 
-📧 **Correo:** medrandajuan843@gmail.com  
-🌐 **Portafolio:** [https://juanre.netlify.app](https://juanre.netlify.app)
+- 📧 **Correo:** medrandajuan843@gmail.com  
+- 🌐 **Portafolio:** [https://juanre.netlify.app](https://juanre.netlify.app)
 
 ---
 
