@@ -78,7 +78,6 @@ Mi visión profesional está enfocada en continuar creciendo como **desarrollado
 
 - Desarrollo Frontend 
 - Diseño gráfico 
-- Diseño UI/UX 
 - Análisis de datos
 
 ---
