@@ -83,4 +83,4 @@ Mi visión profesional está enfocada en continuar creciendo como **desarrollado
 Estoy abierto a proyectos colaborativos, mentorías y oportunidades laborales remotas. ¡No dudes en escribirme!
 
 📧 **Correo:** medrandajuan843@gmail.com  
-🌐 **Portafolio:** [juandavid.dev](https://juandavid.dev) 
+🌐 **Portafolio:** [https://juanre.netlify.app](https://juanre.netlify.app)
