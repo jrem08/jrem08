@@ -74,7 +74,7 @@ Mi visión profesional está enfocada en continuar creciendo como **desarrollado
 
 ---
 
->  "Todo el mundo deberia aprender a programar, porque te enseña a pensar."
+>  "Cada línea de código es una pieza que construye el futuro que imaginas."
 
 ---
 
