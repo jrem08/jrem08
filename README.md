@@ -25,13 +25,13 @@ Mi propósito profesional es formar parte de equipos donde pueda aportar con mis
 
 ### 📚 Educación 
 
-#### 🎓 Nivel 1: Técnico Profesional en Programación de Software
+#### 🎓 Técnico Profesional en Programación de Software
 
 Profesional con la capacidad de desarrollar y construir códigos de programación en lenguajes de alta complejidad, así como el desarrollo esquematizado de páginas web dinámicas.
 
 ---
 
-#### 📚 Nivel 2: Tecnologo en Desarrollo de Software
+#### 📚 Tecnologo en Desarrollo de Software
 
 Profesional capaz de analizar, diseñar, desarrollar, implementar y mantener sistemas de software. Dominan lenguajes de programación, bases de datos y herramientas de desarrollo para resolver problemas reales.
 
