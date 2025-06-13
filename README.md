@@ -61,7 +61,7 @@ Profesional capaz de analizar, diseñar, desarrollar, implementar y mantener sis
 
 ---
 
-## 🎯 Visión Profesional
+### 🎯 Visión Profesional
 
 Mi meta es convertirme en un **Desarrollador Full Stack especializado** en tecnologías web modernas, con un enfoque sólido en:
 
