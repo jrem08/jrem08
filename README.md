@@ -49,13 +49,13 @@ Profesional capaz de analizar, diseñar, desarrollar, implementar y mantener sis
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+   <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white">
 </p>
 
 
