@@ -24,9 +24,9 @@ Mi propósito profesional es formar parte de equipos donde pueda aportar con mis
 ---
 
 ### 📚 Educación 
-*Fundación Universitaria CIAF*  
 
 #### 🎓 Técnico Profesional en Programación
+*Fundación Universitaria CIAF*  
 
 Profesional con la capacidad de desarrollar y construir códigos de programación en lenguajes de alta complejidad, así como el desarrollo esquematizado de páginas web dinámicas.
 
