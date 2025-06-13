@@ -59,8 +59,6 @@ Profesional capaz de analizar, diseñar, desarrollar, implementar y mantener sis
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white">
 
 
