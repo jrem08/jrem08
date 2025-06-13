@@ -80,7 +80,8 @@ Mi visión profesional está enfocada en continuar creciendo como **desarrollado
 
 
 ### 📫 ¿Hablamos?
- Estoy abierto a colaborar en proyectos freelance, ideas innovadoras y oportunidades laborales remotas. ¡No dudes en escribirme!
+Estoy disponible para colaborar en proyectos open source, freelance o posiciones remotas como desarrollador web junior.  
+¡Escríbeme! Estoy abierto a nuevas oportunidades y conexiones profesionales
 
 📧 **Correo:** medrandajuan843@gmail.com  
 🌐 **Portafolio:** [https://juanre.netlify.app](https://juanre.netlify.app)
