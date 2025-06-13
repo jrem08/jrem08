@@ -14,11 +14,12 @@
 
 ### 📌 Acerca de mí
 
-Técnico Profesional en Programación de Software, actualmente en formación como Tecnólogo en Desarrollo de Software y futuro Ingeniero de Software.
+Soy un apasionado por la tecnología y el desarrollo de soluciones digitales que generen valor real a las personas. Me formé como **Técnico Profesional en Programación de Software** en la **Fundación Universitaria CIAF**, institución en la que actualmente curso la **Tecnología en Desarrollo de Software**.
 
-Desde temprana edad sentí una profunda pasión por la tecnología y soñaba con crear experiencias digitales desde una pantalla y hoy convierto esas ideas en realidad a través del desarrollo de software.
-Me especializo en el desarrollo web, me apasiona tambien el mundo del analisis de datos, disfruto construir soluciones innovadoras que integren estética, funcionalidad y una experiencia centrada en el usuario.
-Mi enfoque está en crear productos que realmente aporten valor, cuidando cada detalle y aplicando buenas prácticas para lograr resultados de calidad.
+Durante mi proceso académico y personal, he trabajado de forma constante en fortalecer mis competencias técnicas y humanas. Me destaco por mi capacidad de aprendizaje autónomo, compromiso con la calidad, pensamiento lógico y enfoque en resultados.
+
+Mi propósito profesional es formar parte de equipos donde pueda aportar con mis conocimientos, aprender de los desafíos reales del entorno tecnológico y contribuir al crecimiento de productos digitales innovadores, accesibles y funcionales.
+
 
 ---
 
@@ -57,6 +58,18 @@ Profesional capaz de analizar, diseñar, desarrollar, implementar y mantener sis
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white">
 </p>
+
+---
+
+## 🎯 Visión Profesional
+
+Mi meta es convertirme en un **Desarrollador Full Stack especializado** en tecnologías web modernas, con un enfoque sólido en:
+
+- 🧩 Construcción de interfaces intuitivas (UI) y experiencias accesibles (UX)
+- 🔐 Aplicación de principios de seguridad en el desarrollo
+- 📊 Optimización de rendimiento en bases de datos
+- ⚙️ Automatización de procesos y pruebas
+- 🧪 Mejora continua de la calidad de software
 
 
 ---
