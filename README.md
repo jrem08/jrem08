@@ -84,3 +84,5 @@ Estoy abierto a proyectos colaborativos, mentorías y oportunidades laborales re
 
 📧 **Correo:** medrandajuan843@gmail.com  
 🌐 **Portafolio:** [https://juanre.netlify.app](https://juanre.netlify.app)
+
+---
