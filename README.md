@@ -51,7 +51,7 @@ Profesional capaz de analizar, diseñar, desarrollar, implementar y mantener sis
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=gray">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
-    <img src="https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro&logoColor=white">
+<img src="https://img.shields.io/badge/-Astro-BC52EE?style=flat&logo=astro&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
   <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss%20-%231572B6.svg?logo=tailwindcss&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
