@@ -76,10 +76,10 @@ Mi visión profesional está enfocada en continuar creciendo como **desarrollado
 
 ## 🧠 Mis intereses
 
-- Desarrollo Frontend y diseño visual
-- Diseño gráfico y Diseño UI/UX 
+- Desarrollo Frontend 
+- Diseño gráfico 
+- Diseño UI/UX 
 - Análisis de datos
-- Soporte técnico, bases de datos y seguridad web
 
 ---
 
