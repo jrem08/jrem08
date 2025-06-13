@@ -74,6 +74,15 @@ Mi visión profesional está enfocada en continuar creciendo como **desarrollado
 
 ---
 
+## 🧠 Mis intereses
+
+- Desarrollo Frontend y diseño visual
+- Diseño gráfico y Diseño UI/UX 
+- Análisis de datos
+- Soporte técnico, bases de datos y seguridad web
+
+---
+
 
 ### 📫 Conecta conmigo
 Estoy abierto a colaborar en proyectos freelance, ideas innovadoras o posiciones remotas como desarrollador web.
@@ -85,3 +94,5 @@ Estoy abierto a colaborar en proyectos freelance, ideas innovadoras o posiciones
 ---
 
 >  "Cada línea de código es una pieza que construye el futuro que imaginas."
+
+---
