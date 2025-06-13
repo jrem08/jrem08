@@ -76,8 +76,8 @@ Mi visión profesional está enfocada en continuar creciendo como **desarrollado
 
 ## ⚡️ Mis intereses
 
-- Desarrollo frontend 
 - Diseño gráfico 
+- Hacker etico 
 
 ---
 
