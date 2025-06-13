@@ -63,6 +63,7 @@ Profesional capaz de analizar, diseñar, desarrollar, implementar y mantener sis
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white">
+    <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white">
 </p>
 
 ---
