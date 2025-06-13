@@ -75,7 +75,7 @@ Mi visión profesional está enfocada en continuar creciendo como **desarrollado
 ---
 
 
-### 📫 ¿Te gustaría trabajar conmigo?
+### 📫 Conecta conmigo
 Estoy abierto a colaborar en proyectos freelance, ideas innovadoras o posiciones remotas como desarrollador web.
 
 
