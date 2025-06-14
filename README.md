@@ -30,12 +30,6 @@ Mi propósito profesional es formar parte de equipos donde pueda aportar con mis
 
 Profesional con la capacidad de desarrollar y construir códigos de programación en lenguajes de alta complejidad, así como el desarrollo esquematizado de páginas web dinámicas.
 
---- 
-
-#### 📊 Seminario / Bases de datos Oracle
-
-Participación en un seminario especializado en el manejo, modelado y optimización de bases de datos Oracle. Se abordaron temas como administración de datos, creación de consultas SQL avanzadas, procedimientos almacenados, y prácticas de seguridad y respaldo.
-
 ---
 
 #### 📚 Tecnologo en Desarrollo de Software
