@@ -82,7 +82,6 @@ Estoy abierto a colaborar en proyectos freelance, ideas innovadoras o posiciones
 
 📧 **Correo:** medrandajuan843@gmail.com  
 🌐 **Portafolio:** [https://juanre.netlify.app](https://juanre.netlify.app)
-💰 **Dona aqui:** (https://www.paypal.me/jdrm5)
 
 ---
 
