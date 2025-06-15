@@ -14,7 +14,7 @@
 
 ### 📌 Acerca de mí
 
-Soy un apasionado por la tecnología y el desarrollo de soluciones digitales que generen valor real a las personas. Me formé como **Técnico Profesional en Programación de Software** en **Educación Superior CIAF**, institución en la que actualmente curso la **Tecnología en Desarrollo de Software**, con el 
+Soy un apasionado por la tecnología y el desarrollo de soluciones digitales que generen valor real a las personas. Me formé como **Técnico Profesional en Programación de Software** en **Educación Superior CIAF**, institución en la que actualmente cursare la **Tecnología en Desarrollo de Software**, con el 
 objetivo de formarme como **Ingeniero de Software**. 
 
 Durante mi proceso académico y personal, he trabajado de forma constante en fortalecer mis competencias técnicas y humanas. Me destaco por mi capacidad de aprendizaje autónomo, compromiso con la calidad, pensamiento lógico y enfoque en resultados.
