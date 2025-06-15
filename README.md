@@ -64,8 +64,9 @@ Profesional capaz de analizar, diseñar, desarrollar, implementar y mantener sis
 
 ### 🎯 Objetivo profesional
 
-Mi visión profesional está enfocada en continuar creciendo como **desarrollador web, diseñador miniaturas y flyers**, contribuyendo a proyectos que generen un impacto positivo en la sociedad. Me motiva el aprendizaje constante, la innovación tecnológica y la posibilidad de formar parte de equipos que valoren el trabajo colaborativo, la calidad del código y la mejora continua.
+Mi visión profesional está enfocada en continuar creciendo como **desarrollador web**, contribuyendo a proyectos que generen un impacto positivo en la sociedad. Me motiva el aprendizaje constante, la innovación tecnológica y la posibilidad de formar parte de equipos que valoren el trabajo colaborativo, la calidad del código y la mejora continua.
 
+Además del desarrollo, soy un apasionado del diseño. En mis tiempos libres me gusta crear **flyers, miniaturas y contenido gráfico**, disfruto combinando creatividad con tecnología para construir experiencias visuales atractivas.
 
 ---
 
