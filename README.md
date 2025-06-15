@@ -64,7 +64,7 @@ Profesional capaz de analizar, diseñar, desarrollar, implementar y mantener sis
 
 ### 🎯 Objetivo profesional
 
-Mi visión profesional está enfocada en continuar creciendo como **desarrollador de software Full Stack**, contribuyendo a proyectos que generen un impacto positivo en la sociedad. Me motiva el aprendizaje constante, la innovación tecnológica y la posibilidad de formar parte de equipos que valoren el trabajo colaborativo, la calidad del código y la mejora continua.
+Mi visión profesional está enfocada en continuar creciendo como **desarrollador web y diseñador**, contribuyendo a proyectos que generen un impacto positivo en la sociedad. Me motiva el aprendizaje constante, la innovación tecnológica y la posibilidad de formar parte de equipos que valoren el trabajo colaborativo, la calidad del código y la mejora continua.
 
 
 ---
