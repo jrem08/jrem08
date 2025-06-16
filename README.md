@@ -16,8 +16,6 @@
 
 Soy un apasionado por la tecnología y el desarrollo de soluciones digitales que generen un impacto real en las personas. Me formé como **Técnico Profesional en Programación de Software** en la institución de **Educación Superior CIAF**, donde actualmente curso la **Tecnología en Desarrollo de Software**.
 
-Durante mi proceso académico y personal, he trabajado constantemente en fortalecer tanto mis competencias técnicas como humanas. Me destaco por mi capacidad de aprendizaje autónomo, pensamiento lógico, compromiso con la calidad y orientación a resultados.
-
 Me encanta el **diseño visual**, el **diseño web** y el **desarrollo Frontend**. Disfruto crear experiencias digitales atractivas, accesibles y funcionales, combinando creatividad con conocimientos técnicos. Soy un apasionado del **diseño gráfico** y de cómo este puede integrarse estratégicamente en productos digitales.
 
 🎯 Propósito profesional
