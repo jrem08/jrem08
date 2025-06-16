@@ -27,7 +27,6 @@ Formar parte de equipos dinámicos donde pueda aportar con mis habilidades, apre
 
 ### 🛠️ Tecnologías y herramientas
 
-### 🛠️ Tecnologías y herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
