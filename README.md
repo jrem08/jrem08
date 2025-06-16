@@ -42,6 +42,10 @@ Formar parte de equipos dinámicos donde pueda aportar con mis habilidades, apre
 <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white">
 <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white">
+  <img src="https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white">
+<img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/-Framer%20Motion-EF6C00?style=flat&logo=framer&logoColor=white">
+<img src="https://img.shields.io/badge/-Animate.css-FF4088?style=flat&logo=css3&logoColor=white">
 
 
 
