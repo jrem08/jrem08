@@ -44,9 +44,7 @@ Me encanta el **diseño visual**, el **diseño web** y el **desarrollo Frontend*
   <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Framer%20Motion-EF6C00?style=for-the-badge&logo=framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Animate.css-FF4088?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
 </p>
 
 
