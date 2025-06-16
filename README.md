@@ -19,21 +19,6 @@ objetivo de formarme como **Ingeniero de Software**.
 
 Mi propósito profesional es formar parte de equipos donde pueda aportar con mis conocimientos, aprender de los desafíos reales del entorno tecnológico y contribuir al crecimiento de productos digitales innovadores, accesibles y funcionales.
 
-
----
-
-### 📚 Educación 
-
-#### 🎓 Técnico Profesional en Programación
-
-Profesional con la capacidad de desarrollar y construir códigos de programación en lenguajes de alta complejidad, así como el desarrollo esquematizado de páginas web dinámicas.
-
----
-
-#### 📚 Tecnologo en Desarrollo de Software
-
-Profesional capaz de analizar, diseñar, desarrollar, implementar y mantener sistemas de software. Dominan lenguajes de programación, bases de datos y herramientas de desarrollo para resolver problemas reales.
-
 ---
 
 ### 🛠️ Tecnologías y herramientas
