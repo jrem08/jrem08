@@ -71,7 +71,3 @@ Formar parte de equipos dinámicos donde pueda aportar con mis habilidades, apre
   
 
 ---
-
->  "Cada línea de código es una pieza que construye el futuro que imaginas."
-
----
