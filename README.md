@@ -27,29 +27,38 @@ Formar parte de equipos dinámicos donde pueda aportar con mis habilidades, apre
 
 ### 🛠️ Tecnologías y herramientas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=gray">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/-Astro-BC52EE?style=flat&logo=astro&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
-  <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss%20-%231572B6.svg?logo=tailwindcss&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white">
+<!-- Front-end Core -->
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white">
+
+<!-- Librerías y herramientas -->
+<img src="https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white">
+<img src="https://img.shields.io/badge/-Framer%20Motion-EF6C00?style=flat&logo=framer&logoColor=white">
+<img src="https://img.shields.io/badge/-Animate.css-FF4088?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Shadcn-000000?style=flat&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Reactbits-61DAFB?style=flat&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/-TWBlocks-0EA5E9?style=flat&logo=tailwind-css&logoColor=white">
+
+<!-- Diseño y visual -->
 <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white">
 <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white">
-  <img src="https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white">
+<img src="https://img.shields.io/badge/-Excalidraw-1D1D1D?style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/-Flaticon-25C9D7?style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/-SVGL.app-8E44AD?style=flat&logoColor=white">
+
+<!-- Organización y herramientas de desarrollo -->
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/-Framer%20Motion-EF6C00?style=flat&logo=framer&logoColor=white">
-<img src="https://img.shields.io/badge/-Animate.css-FF4088?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Replicate-3B3B3B?style=flat&logoColor=white">
 
 
 
-</p>
+
 
 ---
 
