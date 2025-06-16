@@ -18,8 +18,6 @@ Soy un apasionado por la tecnología y el desarrollo de soluciones digitales que
 
 Me encanta el **diseño visual**, el **diseño web** y el **desarrollo Frontend**. Disfruto crear experiencias digitales atractivas, accesibles y funcionales, combinando creatividad con conocimientos técnicos. Soy un apasionado del **diseño gráfico** y de cómo este puede integrarse estratégicamente en productos digitales.
 
-🎯 Propósito profesional
-Formar parte de equipos dinámicos donde pueda aportar con mis habilidades, aprender de desafíos reales del entorno tecnológico y contribuir al crecimiento de productos digitales innovadores.
 
 ---
 
