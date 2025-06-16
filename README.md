@@ -58,12 +58,17 @@ Formar parte de equipos dinámicos donde pueda aportar con mis habilidades, apre
 
 ---
 
-
 ### 📫 Conecta conmigo
-Estoy abierto a colaborar en proyectos freelance, ideas innovadoras o posiciones remotas. 
 
-
-📧 **Correo:** medrandajuan843@gmail.com  
+<p align="left">
+  <a href="mailto:medrandajuan843@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+  
 
 ---
 
