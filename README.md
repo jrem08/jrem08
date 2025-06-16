@@ -14,10 +14,14 @@
 
 ### 📌 Acerca de mí
 
-Soy un apasionado por la tecnología y el desarrollo de soluciones digitales que generen valor real a las personas. Me formé como **Técnico Profesional en Programación de Software** en **Educación Superior CIAF**, institución en la que actualmente cursare la **Tecnología en Desarrollo de Software**, con el 
-objetivo de formarme como **Ingeniero de Software**. 
+Soy un apasionado por la tecnología y el desarrollo de soluciones digitales que generen un impacto real en las personas. Me formé como **Técnico Profesional en Programación de Software** en la institución de educación **superior CIAF**, donde actualmente curso la **Tecnología en Desarrollo de Software**.
 
-Mi propósito profesional es formar parte de equipos donde pueda aportar con mis conocimientos, aprender de los desafíos reales del entorno tecnológico y contribuir al crecimiento de productos digitales innovadores, accesibles y funcionales.
+Durante mi proceso académico y personal, he trabajado constantemente en fortalecer tanto mis competencias técnicas como humanas. Me destaco por mi capacidad de aprendizaje autónomo, pensamiento lógico, compromiso con la calidad y orientación a resultados.
+
+Me encanta el **diseño visual**, el **diseño web** y el **desarrollo Frontend**. Disfruto crear experiencias digitales atractivas, accesibles y funcionales, combinando creatividad con conocimientos técnicos. Soy un apasionado del **diseño gráfico** y de cómo este puede integrarse estratégicamente en productos digitales.
+
+🎯 Propósito profesional
+Formar parte de equipos dinámicos donde pueda aportar con mis habilidades, aprender de desafíos reales del entorno tecnológico y contribuir al crecimiento de productos digitales innovadores.
 
 ---
 
@@ -41,14 +45,6 @@ Mi propósito profesional es formar parte de equipos donde pueda aportar con mis
 
 
 </p>
-
----
-
-### 🎯 Objetivo profesional
-
-Mi visión profesional está enfocada en continuar creciendo como **desarrollador web**, contribuyendo a proyectos que generen un impacto positivo en la sociedad. Me motiva el aprendizaje constante, la innovación tecnológica y la posibilidad de formar parte de equipos que valoren el trabajo colaborativo, la calidad del código y la mejora continua.
-
-Además del desarrollo, soy un apasionado del diseño gráfico, en mis tiempos libres me gusta crear **flyers, miniaturas y contenido gráfico**, disfruto combinar creatividad con tecnología para construir experiencias visuales atractivas.
 
 ---
 
