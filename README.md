@@ -39,11 +39,11 @@ Me encanta el **diseño visual**, el **diseño web** y el **desarrollo Frontend*
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Framer%20Motion-EF6C00?style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Animate.css-FF4088?style=for-the-badge&logo=css3&logoColor=white"/>
+
+
+
+  
 
 </p>
 
