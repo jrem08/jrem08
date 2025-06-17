@@ -41,6 +41,7 @@ Me encanta el **diseño visual**, el **diseño web** y el **desarrollo Frontend*
   <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 
 
