@@ -14,9 +14,9 @@
 
 ### 📌 Acerca de mí
 
-Soy un apasionado por la tecnología y el desarrollo de soluciones digitales que generen un impacto real en las personas. Me formé como **Técnico Profesional en Programación de Software** en la institución de **Educación Superior CIAF**, donde actualmente curso la **Tecnología en Desarrollo de Software**.
+Apasionado por la tecnología y el desarrollo de soluciones digitales que generen un impacto real. Me formé como **Técnico Profesional en Programación de Software** en la institución de **Educación Superior CIAF**, donde actualmente curso la **Tecnología en Desarrollo de Software**.
 
-Entusiasta del **desarrollo web y mobile**, con un fuerte interés en la experiencia visual del usuario. Me especializo en **diseño digital, diseño web/UI y diseño publicitario**, combinando creatividad con funcionalidad para ofrecer productos atractivos e intuitivos.
+Entusiasta del **desarrollo web y mobile**, con un fuerte interés en la experiencia visual del usuario como el **diseño digital, diseño web/UI y diseño publicitario**, combinando creatividad con funcionalidad para ofrecer productos atractivos e intuitivos.
 
 
 ---
