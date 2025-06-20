@@ -90,7 +90,7 @@ Entusiasta del **desarrollo web y mobile**, con un fuerte interés en la experie
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"></a>
  </p>
   
-#### Diseño Grafico
+#### Diseño gráfico
 <p align="left">
   &emsp;
    <a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma%20-BC52EE.svg?style=flat&logo=figma&logoColor=white"/></a>
