@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+de+Desarrollo;&color=BC52EE&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Tecnólogo+en+Desarrollo+de+Software;&color=BC52EE&center=true&width=500&height=50">
   </a>
 </p>
 
@@ -59,6 +59,19 @@ Entusiasta del **desarrollo web y mobile**, con un fuerte interés en la experie
   <a href="https://nodejs.org/en" target="_blank"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%D90AC5.svg?logo=node.js&logoColor=white"></a>   
   &emsp; 
   <a href="https://nextjs.org" target="_blank"><img alt="Express" src="https://img.shields.io/badge/Express.js%20-%23000000.svg?logo=express&logoColor=white"></a> 
+</p>
+
+#### Desarrollo mobile
+
+<p align="left"> 
+  &emsp;
+  <a href="https://reactnative.dev/" target="_blank">
+    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB">
+  </a>
+   &emsp;
+  <a href="https://docs.expo.dev/" target="_blank">
+    <img alt="Expo" src="https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white">
+  </a>
 </p>
 
 #### Base de datos y cloud
