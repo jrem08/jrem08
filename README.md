@@ -36,7 +36,7 @@ Entusiasta del **desarrollo web y mobile**, con un fuerte interés en la experie
 </a>
 </p>
 
-#### Desarrollo Frontend
+#### Desarrollo Front-end
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"></a>   
@@ -53,7 +53,7 @@ Entusiasta del **desarrollo web y mobile**, con un fuerte interés en la experie
   &emsp;
 </p>
 
-#### Desarrollo Backend
+#### Desarrollo Back-end
 <p align="left"> 
   &emsp; 
   <a href="https://nodejs.org/en" target="_blank"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%D90AC5.svg?logo=node.js&logoColor=white"></a>   
@@ -74,7 +74,7 @@ Entusiasta del **desarrollo web y mobile**, con un fuerte interés en la experie
   </a>
 </p>
 
-#### Base de datos y cloud
+#### Bases de datos y cloud
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white"></a>
