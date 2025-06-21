@@ -61,18 +61,6 @@ Entusiasta del **desarrollo web y mobile**, con un fuerte interés en la experie
   <a href="https://nextjs.org" target="_blank"><img alt="Express" src="https://img.shields.io/badge/Express.js%20-%23000000.svg?logo=express&logoColor=white"></a> 
 </p>
 
-#### Desarrollo mobile
-
-<p align="left"> 
-  &emsp;
-  <a href="https://reactnative.dev/" target="_blank">
-    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB">
-  </a>
-   &emsp;
-  <a href="https://docs.expo.dev/" target="_blank">
-    <img alt="Expo" src="https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white">
-  </a>
-</p>
 
 #### Bases de datos y cloud
 <p align="left">
