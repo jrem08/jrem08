@@ -23,7 +23,7 @@ Entusiasta del **desarrollo web y mobile**, con un fuerte interés en la experie
 
 ### 🛠️ Tecnologías y herramientas
 
-#### Lenguajes de Programación
+#### Lenguajes de programación
 
 <p align="left"> 
   &emsp; 
