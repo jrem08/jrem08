@@ -98,7 +98,9 @@ Entusiasta del **desarrollo web y análisis de datos**, con un fuerte interés e
     <a href="https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
    <a href="https://code.visualstudio.com/" target="_blank">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <a href="https://code.visualstudio.com/" target="_blank">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</a>
 </a>
 </p>
 
