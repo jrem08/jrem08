@@ -120,6 +120,9 @@ Entusiasta del **desarrollo web y análisis de datos**, con un fuerte interés e
 <a href="https://code.visualstudio.com/" target="_blank">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white"/>
 </a>
+ &emsp;
+<a href="https://www.notion.so/" target="_blank">
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=notion&logoColor=white">
 </a>
 </p>
 
