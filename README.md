@@ -108,6 +108,10 @@ Entusiasta del **desarrollo web y análisis de datos**, con un fuerte interés e
 <a href="https://vitejs.dev/" target="_blank">
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=white"/>
 </a>
+ &emsp;
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white"/>
+</a>
 </a>
 </p>
 
