@@ -83,6 +83,11 @@ Entusiasta del **desarrollo web y análisis de datos**, con un fuerte interés e
     &emsp;
 <a href="https://vercel.com/" target="_blank">
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"></a>
+      &emsp;
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft Excel-217346.svg?style=flat&logo=microsoftexcel&logoColor=white">
+</a>
+      
  </p>
   
 #### Diseño gráfico
