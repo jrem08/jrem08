@@ -59,6 +59,10 @@ Entusiasta del **desarrollo web y análisis de datos**, con un fuerte interés e
   <a href="https://nodejs.org/en" target="_blank"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%D90AC5.svg?logo=node.js&logoColor=white"></a>   
   &emsp; 
   <a href="https://nextjs.org" target="_blank"><img alt="Express" src="https://img.shields.io/badge/Express.js%20-%23000000.svg?logo=express&logoColor=white"></a> 
+  &emsp; 
+  <a href="https://nestjs.com/" target="_blank">
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?style=flat&logo=nestjs&logoColor=white"/>
+</a>
 </p>
 
 
