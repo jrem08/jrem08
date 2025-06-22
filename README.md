@@ -100,6 +100,10 @@ Entusiasta del **desarrollo web y análisis de datos**, con un fuerte interés e
   <a href="https://www.microsoft.com/windows/" target="_blank">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?style=flat&logo=windows&logoColor=white"/>
 </a>
+ &emsp;
+<a href="https://vitejs.dev/" target="_blank">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=white"/>
+</a>
 </a>
 </p>
 
