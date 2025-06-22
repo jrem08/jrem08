@@ -124,6 +124,22 @@ Entusiasta del **desarrollo web y análisis de datos**, con un fuerte interés e
 <a href="https://www.notion.so/" target="_blank">
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=notion&logoColor=white">
 </a>
+ &emsp;
+<a href="https://www.lucidchart.com/" target="_blank">
+  <img alt="Lucidchart" src="https://img.shields.io/badge/Lucidchart-EC4C1C.svg?style=flat&logo=lucidchart&logoColor=white" />
+</a>
+ &emsp;
+<a href="https://app.diagrams.net/" target="_blank">
+  <img alt="draw.io" src="https://img.shields.io/badge/draw.io-F08705.svg?style=flat&logo=draw.io&logoColor=white" />
+</a>
+ &emsp;
+<a href="https://excalidraw.com/" target="_blank">
+  <img alt="Excalidraw" src="https://img.shields.io/badge/Excalidraw-1B1E2C.svg?style=flat&logo=excalidraw&logoColor=white" />
+</a>
+ &emsp;
+<a href="https://openai.com/" target="_blank">
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991.svg?style=flat&logo=openai&logoColor=white" />
+</a>
 </p>
 
 <br/>
