@@ -51,6 +51,9 @@ Entusiasta del **desarrollo web y análisis de datos**, con un fuerte interés e
   &emsp;
   <a href="https://getbootstrap.com" target="_blank"> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/></a>
   &emsp;
+  <a href="https://nextjs.org/" target="_blank">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
+</a>
 </p>
 
 #### Desarrollo Back-end
