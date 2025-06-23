@@ -29,8 +29,6 @@ Entusiasta del **desarrollo web y análisis de datos**, con un fuerte interés e
   &emsp; 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=gray"></a>
   &emsp;
-  <a href="https://www.typescriptlang.org" target="_blank"> <img alt="Typescript" src="https://img.shields.io/badge/TypeScript%20-20232A.svg?logo=typescript"></a>
-  &emsp;
 <a href="https://www.python.org/doc/" target="_blank">
   <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white">
 </a>
@@ -59,8 +57,6 @@ Entusiasta del **desarrollo web y análisis de datos**, con un fuerte interés e
   &emsp; 
   <a href="https://nodejs.org/en" target="_blank"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%D90AC5.svg?logo=node.js&logoColor=white"></a>   
   &emsp; 
-  <a href="https://nextjs.org" target="_blank"><img alt="Express" src="https://img.shields.io/badge/Express.js%20-%23000000.svg?logo=express&logoColor=white"></a> 
-  &emsp; 
   <a href="https://nestjs.com/" target="_blank">
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?style=flat&logo=nestjs&logoColor=white"/>
 </a>
@@ -74,9 +70,6 @@ Entusiasta del **desarrollo web y análisis de datos**, con un fuerte interés e
   &emsp;
     <a href="https://www.oracle.com/database/"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-%23F00000.svg?logo=oracle&logoColor=white"></a>
   &emsp;
-  <a href="https://www.netlify.com/" target="_blank">
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?logo=netlify&logoColor=white"></a>
-    &emsp;
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
   <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft Excel-217346.svg?style=flat&logo=microsoftexcel&logoColor=white">
 </a>
