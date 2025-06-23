@@ -72,16 +72,11 @@ Entusiasta del **desarrollo web, mobile y análisis de datos**, con un fuerte in
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="https://www.mongodb.com/es"><img alt="MongoDB" src ="https://img.shields.io/badge/mongodb-%B71AC1.svg?style=flat&logo=mongodb&logoColor=white"/></a>
-  &emsp;
     <a href="https://www.oracle.com/database/"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-%23F00000.svg?logo=oracle&logoColor=white"></a>
   &emsp;
   <a href="https://www.netlify.com/" target="_blank">
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?logo=netlify&logoColor=white"></a>
     &emsp;
-<a href="https://vercel.com/" target="_blank">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"></a>
-      &emsp;
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
   <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft Excel-217346.svg?style=flat&logo=microsoftexcel&logoColor=white">
 </a>
