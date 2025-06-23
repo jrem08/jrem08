@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Tecnólogo+en+Desarrollo+de+Software;&color=BC52EE&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+en+Desarrollo+de+Software;&color=BC52EE&center=true&width=500&height=50">
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 Apasionado por la tecnología y el desarrollo de soluciones digitales que generen un impacto real. Me formé como **Técnico Profesional en Programación de Software** en la institución de **Educación Superior CIAF**, donde actualmente curso la **Tecnología en Desarrollo de Software**.
 
-Entusiasta del **desarrollo web y análisis de datos**, con un fuerte interés en la experiencia visual del usuario como el **diseño digital, diseño web y publicitario**, combinando creatividad con funcionalidad para ofrecer productos atractivos e intuitivos.
+Entusiasta del **desarrollo web**, con un fuerte interés en la experiencia visual del usuario como el **diseño digital, diseño web y publicitario**, combinando creatividad con funcionalidad para ofrecer productos atractivos e intuitivos.
 
 
 ---
