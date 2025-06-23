@@ -105,17 +105,11 @@ Entusiasta del **desarrollo web, mobile y análisis de datos**, con un fuerte in
   <a href="https://www.microsoft.com/windows/" target="_blank">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?style=flat&logo=windows&logoColor=white"></a>
  &emsp;
-<a href="https://vitejs.dev/" target="_blank">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=white"></a>
- &emsp;
 <a href="https://code.visualstudio.com/" target="_blank">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white"></a>
  &emsp;
 <a href="https://www.notion.so/" target="_blank">
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=notion&logoColor=white"></a>
- &emsp;
-<a href="https://www.lucidchart.com/" target="_blank">
-  <img alt="Lucidchart" src="https://img.shields.io/badge/Lucidchart-EC4C1C.svg?style=flat&logo=lucidchart&logoColor=white"></a>
  &emsp;
 <a href="https://app.diagrams.net/" target="_blank">
   <img alt="draw.io" src="https://img.shields.io/badge/draw.io-F08705.svg?style=flat&logo=draw.io&logoColor=white"></a>
