@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">Ingeniero de Desarrollo 👨🏽‍💻</h3>
+<h3 align="center">Desarrollador web 👨🏽‍💻</h3>
 
 
 ###
