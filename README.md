@@ -10,7 +10,7 @@ Me formé como **Técnico Profesional en Programación de Software** en la insti
 
 ---
 
-## 💡 Inspirado por gigantes, impulsado por mi propósito
+### 💡 Inspirado por gigantes, impulsado por mi propósito
 
 Admiro profundamente a referentes como **José Pino**, un hacker ético colombiano que demostró que desde nuestra tierra se puede impactar al mundo.  
 Él me inspira a ir más allá de lo técnico, a crear herramientas que protejan, solucionen y mejoren vidas.  
@@ -18,7 +18,7 @@ Yo también quiero dejar huella, no solo con lo que hago, sino con **el por qué
 
 ---
 
-## 🎯 Mi misión es clara
+### 🎯 Mi misión es clara
 
 No vine a este mundo solo a escribir código.  
 Vine a **construir soluciones que importen**.  
