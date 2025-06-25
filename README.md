@@ -60,7 +60,7 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
 </p>
 
 
-#### Bases de datos y cloud
+#### Bases de datos 
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white"></a>
