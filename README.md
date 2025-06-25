@@ -1,10 +1,10 @@
-### Juan Rengifo | Frontend & Backend 👨🏽‍💻
+### Desarrollador de Software profesional 👨🏽‍💻
 
 ---
 
 #### *"Desde Colombia para el mundo. Programo con propósito, diseño con visión y creo con alma."*
 
-Soy un soñador incansable, creador de soluciones y futuro referente en tecnología.  
+!Hola! Soy Juan Rengifo un soñador incansable, creador de soluciones y futuro referente en tecnología.  
 Nací en Colombia y llevo en la sangre la resiliencia, el ingenio y el fuego de una generación que no acepta límites.  Mi pasión por el código no es casualidad, es destino. Y estoy aquí para **marcar la diferencia**.
 Me formé como **Técnico Profesional en Programación de Software** en la institución de educación superior **CIAF**, donde actualmente curso la **Tecnología en Desarrollo de Software**.
 
