@@ -67,9 +67,6 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
   &emsp;
     <a href="https://www.oracle.com/database/"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-%23F00000.svg?logo=oracle&logoColor=white"></a>
   &emsp;
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft Excel-217346.svg?style=flat&logo=microsoftexcel&logoColor=white">
-</a>
       
  </p>
   
@@ -77,8 +74,6 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
 <p align="left">
   &emsp;
    <a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma%20-BC52EE.svg?style=flat&logo=figma&logoColor=white"/></a>
-  &emsp;
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/></a> 
   &emsp;
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white"/></a> 
   &emsp;
@@ -92,9 +87,6 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
 <p>
     <a href="https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
-  <a href="https://www.microsoft.com/windows/" target="_blank">
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?style=flat&logo=windows&logoColor=white"></a>
- &emsp;
 <a href="https://code.visualstudio.com/" target="_blank">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white"></a>
  &emsp;
