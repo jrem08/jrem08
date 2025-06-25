@@ -1,8 +1,7 @@
 # 👨‍💻 Juan David Rengifo Medranda
 
-🎓 Técnico Profesional en Programación de Software  
-💻 Desarrollador Front-end | Apasionado por el Diseño UI | Explorador de IA & Datos  
-📍 Colombia | 🌐 En camino a ser referente global en tecnología
+- 🎓 Técnico Profesional en Programación de Software  
+- 🌐 En camino a ser referente global en tecnología
 
 ---
 
@@ -12,7 +11,6 @@
 
 Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y he desarrollado proyectos que combinan creatividad, lógica y propósito. Mi meta es convertirme en un referente en el mundo tech, inspirando a otros con mi historia y mis resultados.
 
-> “No vengo de la cima, pero estoy escalando con discipl
 
 ---
 
