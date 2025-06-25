@@ -1,4 +1,4 @@
-## Hola 👋, Soy Juan!
+# Hola 👋, Soy Juan!
 
 ### Profesional en Programación 👨🏽‍💻
 ---
