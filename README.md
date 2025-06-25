@@ -8,24 +8,6 @@ Soy un soñador incansable, creador de soluciones y futuro referente en tecnolog
 Nací en Colombia y llevo en la sangre la resiliencia, el ingenio y el fuego de una generación que no acepta límites.  Mi pasión por el código no es casualidad, es destino. Y estoy aquí para **marcar la diferencia**.
 Me formé como **Técnico Profesional en Programación de Software** en la institución de educación superior **CIAF**, donde actualmente curso la **Tecnología en Desarrollo de Software**.
 
----
-
-### 💡 Inspirado por gigantes, impulsado por mi propósito
-
-Admiro profundamente a referentes como **José Pino**, un hacker ético colombiano que demostró que desde nuestra tierra se puede impactar al mundo.  
-Él me inspira a ir más allá de lo técnico, a crear herramientas que protejan, solucionen y mejoren vidas.  
-Yo también quiero dejar huella, no solo con lo que hago, sino con **el por qué lo hago**.
-
----
-
-### 🎯 Mi misión es clara
-
-No vine a este mundo solo a escribir código.  
-Vine a **construir soluciones que importen**.  
-A transformar la tecnología en un puente entre ideas y realidades.  
-A llevar la bandera de Colombia en cada proyecto, en cada charla, en cada contribución que haga al mundo tech
-
-
 
 ---
 
