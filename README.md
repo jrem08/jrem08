@@ -73,17 +73,6 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
       
  </p>
   
-#### Diseño gráfico
-<p align="left">
-  &emsp;
-   <a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma%20-BC52EE.svg?style=flat&logo=figma&logoColor=white"/></a>
-  &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white"/></a> 
-  &emsp;
-  <a href="https://www.canva.com/" target="_blank">
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=canva&logoColor=white">
-</a>
- </p>
 
  #### Herramientas
  
