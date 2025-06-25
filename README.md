@@ -67,6 +67,9 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
   &emsp;
     <a href="https://www.oracle.com/database/"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-%23F00000.svg?logo=oracle&logoColor=white"></a>
   &emsp;
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346.svg?style=flat&logo=microsoft-excel&logoColor=white">
+</a>
       
  </p>
   
