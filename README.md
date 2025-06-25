@@ -1,4 +1,4 @@
-# 👨‍🚀 Juan David Rengifo Medranda  
+### 👨🏽‍💻 Juan David Rengifo Medranda  
 ### *"Desde Colombia para el mundo. Programo con propósito, diseño con visión y creo con alma."*
 
 Soy **Juan David Rengifo**, un soñador incansable, creador de soluciones y futuro referente en tecnología.  
