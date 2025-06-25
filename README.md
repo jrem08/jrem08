@@ -12,11 +12,6 @@
 Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y me forme como **Tecnico profesional en Programación de software**, he desarrollado proyectos que combinan creatividad, lógica y propósito. Mi meta es convertirme en un referente en el mundo tech, inspirando a otros con mi historia y mis resultados.
 
 
----
-
-### 🌟 Mi propósito
-
-Ser más que un desarrollador: ser un **agente de transformación**. Inspirar a jóvenes como yo a creer que sí se puede llegar lejos, **incluso comenzando desde abajo**, con esfuerzo, enfoque y valores
 
 ---
 
