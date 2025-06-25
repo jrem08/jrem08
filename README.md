@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Pereira, Colombia 📍</p>
+<p align="center">Pereira 📍</p>
 
 ###
 
