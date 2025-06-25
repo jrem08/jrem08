@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">🚀 Tecnologo en Desarrollo de Software</h3>
+<h3 align="center">👨🏽‍💻 Tecnologo en Desarrollo de Software</h3>
 
 ---
 
