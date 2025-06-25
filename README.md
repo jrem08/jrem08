@@ -22,7 +22,7 @@ Me formé como **Técnico Profesional en Programación de Software** en la insti
 
 ### 🎯 Objetivo profesional
 
-Ser un referente internacional en desarrollo Front-end, diseño UI y tecnología. Crear productos que inspiren, eduquen y aporten valor real. Me enfoco en la innovación constante y el crecimiento personal y profesional
+Ser un referente internacional en desarrollo web, diseño UI y tecnología. Crear productos que inspiren, eduquen y aporten valor real. Me enfoco en la innovación constante y el crecimiento personal y profesional
 
 ---
 
