@@ -105,7 +105,7 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991.svg?style=flat&logo=openai&logoColor=white"></a>
 </p>
 
-<br/>
+
 
 ---
 
