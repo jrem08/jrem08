@@ -107,8 +107,6 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
 
 <br/>
 
-
-
 ---
 
 ### 📫 Conecta conmigo
