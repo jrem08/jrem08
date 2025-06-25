@@ -4,7 +4,7 @@
 
 #### *"Desde Colombia para el mundo. Programo con propósito, diseño con visión y creo con alma."*
 
-Soy **Juan David Rengifo**, un soñador incansable, creador de soluciones y futuro referente en tecnología.  
+Soy un soñador incansable, creador de soluciones y futuro referente en tecnología.  
 Nací en Colombia y llevo en la sangre la resiliencia, el ingenio y el fuego de una generación que no acepta límites.  
 Mi pasión por el código no es casualidad: es destino. Y estoy aquí para **marcar la diferencia**.
 
