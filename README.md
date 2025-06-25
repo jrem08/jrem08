@@ -119,12 +119,3 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
   
 
 ---
-
-### 🙌 Frase que me representa
-
-> “Los sueños no tienen fronteras cuando estás dispuesto a trabajar por ellos.  
-> Vengo desde abajo, pero mi código está subiendo como mis ganas.”
-
----
-
-### 🧠 Let's build the future — one línea de código a la vez.
