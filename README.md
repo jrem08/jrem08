@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">⚡️ I'm 22 years old and I'm from Buenos Aires, Argentina 🇦🇷</p>
+<p align="center">Pereira, Colombia 📍</p>
 
 ###
 
