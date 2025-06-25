@@ -125,11 +125,11 @@ Ser más que un desarrollador: ser un **agente de transformación**. Inspirar a 
 
 ---
 
-## 🙌 Frase que me representa
+### 🙌 Frase que me representa
 
 > “Los sueños no tienen fronteras cuando estás dispuesto a trabajar por ellos.  
 > Vengo desde abajo, pero mi código está subiendo como mis ganas.”
 
 ---
 
-## 🧠 Let's build the future — one línea de código a la vez.
+### 🧠 Let's build the future — one línea de código a la vez.
