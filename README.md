@@ -1,7 +1,8 @@
-# 👨‍💻 Juan David Rengifo Medranda
+<h1 align="center">Hi 👋, I'm Joaco!</h1>
 
-- 🎓 Técnico Profesional en Programación de Software  
-- 🌐 En camino a ser referente global en tecnología
+---
+
+<h3 align="center">🚀 Front-end Developer and Digital Communication student</h3>
 
 ---
 
