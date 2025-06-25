@@ -1,7 +1,6 @@
 ## Hola 👋, Soy Juan!
 
-### Desarrollador de Software profesional 👨🏽‍💻
-
+### Profesional en Programación 👨🏽‍💻
 ---
 
 #### *"Desde Colombia para el mundo. Programo con propósito, diseño con visión y creo con alma."*
