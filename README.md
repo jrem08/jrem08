@@ -4,9 +4,6 @@
 
 <h3 align="center">Ingeniero de Desarrollo 👨🏽‍💻</h3>
 
-###
-
-<p align="center">Pereira 📍</p>
 
 ###
 
