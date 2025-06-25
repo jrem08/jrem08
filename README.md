@@ -1,28 +1,18 @@
-# Hola 👋, Soy Juan!
+# 👨‍💻 Juan David Rengifo Medranda
 
-### Profesional en Programación 👨🏽‍💻
----
-
-#### *"Desde Colombia para el mundo. Programo con propósito, diseño con visión y creo con alma."*
-
-Soy Juan Rengifo un soñador incansable, creador de soluciones y futuro referente en tecnología.  Nací en Colombia y llevo en la sangre la resiliencia, el ingenio y el fuego de una generación que no acepta límites.  Mi pasión por el código no es casualidad, es destino. Y estoy aquí para **marcar la diferencia**.
-Me formé como **Técnico Profesional en Programación de Software** en la institución de educación superior **CIAF**, donde actualmente curso la **Tecnología en Desarrollo de Software**.
+🎓 Técnico Profesional en Programación de Software  
+💻 Desarrollador Front-end | Apasionado por el Diseño UI | Explorador de IA & Datos  
+📍 Colombia | 🌐 En camino a ser referente global en tecnología
 
 ---
 
-### 🌱 Actualmente aprendiendo
+## 🚀 Sobre mí
 
-- Inteligencia Artificial aplicada al desarrollo web
-- Optimización de bases de datos y consultas SQL
-- UI/UX Design avanzado
-- Automatización de procesos y pruebas
-- Inglés para el mundo tecnológico 🌍
+¡Hola! Soy Juan David, un desarrollador de software colombiano con una visión clara: **crear soluciones tecnológicas que impacten al mundo**. Me apasiona el desarrollo web, el diseño digital y la inteligencia artificial. Creo firmemente en la tecnología como motor de cambio y aprendizaje constante.
 
----
+Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y he desarrollado proyectos que combinan creatividad, lógica y propósito. Mi meta es convertirme en un referente en el mundo tech, inspirando a otros con mi historia y mis resultados.
 
-### 🎯 Objetivo profesional
-
-Ser un referente internacional en desarrollo web, diseño UI y tecnología. Crear productos que inspiren, eduquen y aporten valor real. Me enfoco en la innovación constante, el crecimiento personal y profesional
+> “No vengo de la cima, pero estoy escalando con discipl
 
 ---
 
