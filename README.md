@@ -34,27 +34,26 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
 </div>
 
 #### Desarrollo Back-end
-  <div>
-    <img src="https://skillicons.dev/icons?i=py"/>
-    <img src="https://skillicons.dev/icons?i=php"/>
-    <img src="https://skillicons.dev/icons?i=js"/>
-    <img src="https://skillicons.dev/icons?i=nodejs"/>
-    <img src="https://skillicons.dev/icons?i=express"/>
-        <img src="https://skillicons.dev/icons?i=mysql"/>
-  </div>
+ <div>
+  <img src="https://skillicons.dev/icons?i=py" style="width:30px"/>
+  <img src="https://skillicons.dev/icons?i=php" style="width:30px"/>
+  <img src="https://skillicons.dev/icons?i=js" style="width:30px"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" style="width:30px"/>
+  <img src="https://skillicons.dev/icons?i=express" style="width:30px"/>
+  <img src="https://skillicons.dev/icons?i=mysql" style="width:30px"/>
+</div>
   
 
  #### Herramientas
- 
-  <div>
-    <img src="https://skillicons.dev/icons?i=netlify"/>
-            <img src="https://skillicons.dev/icons?i=github"/>
-    <img src="https://skillicons.dev/icons?i=git"/>
-    <img src="https://skillicons.dev/icons?i=vite"/>
-    <img src="https://skillicons.dev/icons?i=vscode"/>
-    <img src="https://skillicons.dev/icons?i=windows"/>
-    <img src="https://skillicons.dev/icons?i=figma"/>
-  </div>
+ <div>
+  <img src="https://skillicons.dev/icons?i=netlify" style="width:30px"/>
+  <img src="https://skillicons.dev/icons?i=github" style="width:30px"/>
+  <img src="https://skillicons.dev/icons?i=git" style="width:30px"/>
+  <img src="https://skillicons.dev/icons?i=vite" style="width:30px"/>
+  <img src="https://skillicons.dev/icons?i=vscode" style="width:30px"/>
+  <img src="https://skillicons.dev/icons?i=windows" style="width:30px"/>
+  <img src="https://skillicons.dev/icons?i=figma" style="width:30px"/>
+</div>
 
 
 ---
