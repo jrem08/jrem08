@@ -10,7 +10,7 @@
   
 ---
 
-## 👨🏽‍🎓👋🏽 Sobre mí
+## 👨🏽‍🎓 Sobre mí
 
 ¡Hola! Soy Juan David, un desarrollador de software junior con 2 años de experiencia academica, con una visión clara, crear soluciones tecnológicas que impacten al mundo. Me apasiona el **desarrollo web y mobile**. Creo firmemente en la tecnología como motor de cambio y aprendizaje constante.
 
