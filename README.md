@@ -31,6 +31,14 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
 <a href="https://www.python.org/doc/" target="_blank">
   <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white">
 </a>
+  &emsp;
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white">
+</a>
+  &emsp;
+  <a href="https://www.php.net/docs.php" target="_blank">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
+</a>
 </p>
 
 #### Desarrollo Front-end
