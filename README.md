@@ -36,22 +36,20 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
   </div>
 
 #### Desarrollo Back-end
-<p align="left"> 
-  &emsp; 
-  <a href="https://nodejs.org/en" target="_blank"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%D90AC5.svg?logo=node.js&logoColor=white"></a>   
-  &emsp; 
-<a href="https://expressjs.com/" target="_blank">
-  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000.svg?style=flat&logo=express&logoColor=white"/>
-</a>
-  &emsp; 
-<a href="https://www.python.org/doc/" target="_blank">
-  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white">
-</a>
- &emsp;
-  <a href="https://www.php.net/docs.php" target="_blank">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
-</a>
-</p>
+  <div>
+    <img src="https://skillicons.dev/icons?i=py"/>
+    <img src="https://skillicons.dev/icons?i=php"/>
+    <img src="https://skillicons.dev/icons?i=js"/>
+    <img src="https://skillicons.dev/icons?i=ts"/>
+    <img src="https://skillicons.dev/icons?i=java"/>
+    <img src="https://skillicons.dev/icons?i=cs"/>
+    <img src="https://skillicons.dev/icons?i=nodejs"/>
+    <img src="https://skillicons.dev/icons?i=fastapi"/>
+    <img src="https://skillicons.dev/icons?i=laravel"/>
+    <img src="https://skillicons.dev/icons?i=express"/>
+    <img src="https://skillicons.dev/icons?i=spring"/>
+    <img src="https://skillicons.dev/icons?i=dotnet"/>
+  </div>
 
 
 #### Bases de datos 
