@@ -44,7 +44,7 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
 </div>
   
 
- ### Herramientas
+### Herramientas
  <div>
   <img src="https://skillicons.dev/icons?i=netlify" style="width:30px"/>
   <img src="https://skillicons.dev/icons?i=github" style="width:30px"/>
