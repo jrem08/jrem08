@@ -23,22 +23,17 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
 ### 🛠️ Tecnologías y herramientas
 
 #### Desarrollo Front-end
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"></a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?logo=css3&logoColor=white"></a> 
-    &emsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=gray"></a>
-    &emsp;
-  <a href="https://es.react.dev" target="_blank"><img alt="React" src="https://img.shields.io/badge/React%20-%2361DAFB.svg?logo=react&logoColor=black"></a> 
-   &emsp;
-  <a href="https://astro.build" target="_blank"><img alt="Astro" src="https://img.shields.io/badge/Astro%20-BC52EE.svg?logo=astro&logoColor=white"></a> 
-   &emsp;
-  <a href="https://tailwindcss.com" target="_blank"> <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss%20-%231572B6.svg?logo=tailwindcss&logoColor=white"/></a>
-  &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/></a>
-</p>
+  <div>
+    <img src="https://skillicons.dev/icons?i=html"/>
+    <img src="https://skillicons.dev/icons?i=css"/>
+    <img src="https://skillicons.dev/icons?i=js"/>
+    <img src="https://skillicons.dev/icons?i=ts"/>
+    <img src="https://skillicons.dev/icons?i=react"/>
+    <img src="https://skillicons.dev/icons?i=vue"/>
+    <img src="https://skillicons.dev/icons?i=angular"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=tailwindcss"/>
+  </div>
 
 #### Desarrollo Back-end
 <p align="left"> 
