@@ -23,15 +23,15 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
 ### 🛠️ Tecnologías y herramientas
 
 #### Desarrollo Front-end
-  <div>
-    <img src="https://skillicons.dev/icons?i=html"/>
-    <img src="https://skillicons.dev/icons?i=css"/>
-    <img src="https://skillicons.dev/icons?i=js"/>
-    <img src="https://skillicons.dev/icons?i=react"/>
-    <img src="https://skillicons.dev/icons?i=astro"/>
-    <img src="https://skillicons.dev/icons?i=bootstrap"/>
-    <img src="https://skillicons.dev/icons?i=tailwindcss"/>
-  </div>
+<div>
+  <img src="https://skillicons.dev/icons?i=html" style="width:30px"/>
+  <img src="https://skillicons.dev/icons?i=css" style="width:30px"/>
+  <img src="https://skillicons.dev/icons?i=js" style="width:30px"/>
+  <img src="https://skillicons.dev/icons?i=react" style="width:30px"/>
+  <img src="https://skillicons.dev/icons?i=astro" style="width:30px"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" style="width:30px"/>
+  <img src="https://skillicons.dev/icons?i=tailwindcss" style="width:30px"/>
+</div>
 
 #### Desarrollo Back-end
   <div>
