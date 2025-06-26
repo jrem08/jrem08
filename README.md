@@ -10,7 +10,7 @@
   
 ---
 
-### 🚀 Sobre mí
+## 🚀 Sobre mí
 
 ¡Hola! Soy Juan David, un desarrollador de software junior con 1/2 de experiencia academica, con una visión clara, crear soluciones tecnológicas que impacten al mundo. Me apasiona el **desarrollo web y mobile**. Creo firmemente en la tecnología como motor de cambio y aprendizaje constante.
 
@@ -20,11 +20,11 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+##🛠️ Tecnologías y herramientas
 
-#### Desarrollo Front-end
+### Desarrollo Front-end
 <div>
-  <img src="https://skillicons.dev/icons?i=html" style="width:30px"/>
+  <img src="https://skillicons.dev/icons?i=html" style="width:40px"/>
   <img src="https://skillicons.dev/icons?i=css" style="width:30px"/>
   <img src="https://skillicons.dev/icons?i=js" style="width:30px"/>
   <img src="https://skillicons.dev/icons?i=react" style="width:30px"/>
@@ -33,7 +33,7 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
   <img src="https://skillicons.dev/icons?i=tailwindcss" style="width:30px"/>
 </div>
 
-#### Desarrollo Back-end
+### Desarrollo Back-end
  <div>
   <img src="https://skillicons.dev/icons?i=py" style="width:30px"/>
   <img src="https://skillicons.dev/icons?i=php" style="width:30px"/>
@@ -44,7 +44,7 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
 </div>
   
 
- #### Herramientas
+ ### Herramientas
  <div>
   <img src="https://skillicons.dev/icons?i=netlify" style="width:30px"/>
   <img src="https://skillicons.dev/icons?i=github" style="width:30px"/>
