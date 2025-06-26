@@ -26,8 +26,8 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
 ---
 
 ### 📡 Conecta conmigo
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zapatamejia/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:medrandajuan843@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-r-6297b32a1?)
 [![Portafolio](https://img.shields.io/badge/Portafolio-000?style=flat&logo=vercel&logoColor=white)](https://tusitio.com)
 
 
