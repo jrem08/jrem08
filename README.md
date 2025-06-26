@@ -41,6 +41,7 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=plastic&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=plastic&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/gitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/openAI-%234A90E2.svg?style=plastic&logo=openai&logoColor=white" alt="OpenAI">
 
 
 
