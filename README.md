@@ -27,10 +27,8 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
     <img src="https://skillicons.dev/icons?i=html"/>
     <img src="https://skillicons.dev/icons?i=css"/>
     <img src="https://skillicons.dev/icons?i=js"/>
-    <img src="https://skillicons.dev/icons?i=ts"/>
     <img src="https://skillicons.dev/icons?i=react"/>
-    <img src="https://skillicons.dev/icons?i=vue"/>
-    <img src="https://skillicons.dev/icons?i=angular"/>
+    <img src="https://skillicons.dev/icons?i=astro"/>
     <img src="https://skillicons.dev/icons?i=bootstrap"/>
     <img src="https://skillicons.dev/icons?i=tailwindcss"/>
   </div>
@@ -40,24 +38,15 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
     <img src="https://skillicons.dev/icons?i=py"/>
     <img src="https://skillicons.dev/icons?i=php"/>
     <img src="https://skillicons.dev/icons?i=js"/>
-    <img src="https://skillicons.dev/icons?i=ts"/>
-    <img src="https://skillicons.dev/icons?i=java"/>
-    <img src="https://skillicons.dev/icons?i=cs"/>
     <img src="https://skillicons.dev/icons?i=nodejs"/>
-    <img src="https://skillicons.dev/icons?i=fastapi"/>
-    <img src="https://skillicons.dev/icons?i=laravel"/>
     <img src="https://skillicons.dev/icons?i=express"/>
-    <img src="https://skillicons.dev/icons?i=spring"/>
-    <img src="https://skillicons.dev/icons?i=dotnet"/>
   </div>
 
 
 #### Bases de datos 
 <div>
     <img src="https://skillicons.dev/icons?i=mysql"/>
-    <img src="https://skillicons.dev/icons?i=postgres"/>
-    <img src="https://skillicons.dev/icons?i=prisma"/>
-    <img src="https://skillicons.dev/icons?i=redis"/>
+    <img src="https://skillicons.dev/icons?i=oracle"/>
   </div>
   
 
@@ -65,17 +54,14 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
  
   <div>
     <img src="https://skillicons.dev/icons?i=firebase"/>
-    <img src="https://skillicons.dev/icons?i=aws"/>
-    <img src="https://skillicons.dev/icons?i=azure"/>
     <img src="https://skillicons.dev/icons?i=netlify"/>
-    <img src="https://skillicons.dev/icons?i=supabase"/>
             <img src="https://skillicons.dev/icons?i=github"/>
     <img src="https://skillicons.dev/icons?i=git"/>
-    <img src="https://skillicons.dev/icons?i=postman"/>
-    <img src="https://skillicons.dev/icons?i=jest"/>
-    <img src="https://skillicons.dev/icons?i=npm"/>
     <img src="https://skillicons.dev/icons?i=vite"/>
-    <img src="https://skillicons.dev/icons?i=docker"/>
+      <img src="https://skillicons.dev/icons?i=visualstudio"/>
+    <img src="https://skillicons.dev/icons?i=vscode"/>
+    <img src="https://skillicons.dev/icons?i=windows"/>
+    <img src="https://skillicons.dev/icons?i=figma"/>
   </div>
 
 
