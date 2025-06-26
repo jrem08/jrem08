@@ -12,7 +12,7 @@
 
 ### 🚀 Sobre mí
 
-¡Hola! Soy Juan David, un desarrollador de software colombiano con una visión clara, crear soluciones tecnológicas que impacten al mundo. Me apasiona el **desarrollo web y análisis de datos**. Creo firmemente en la tecnología como motor de cambio y aprendizaje constante.
+¡Hola! Soy Juan David, un desarrollador de software colombiano con una visión clara, crear soluciones tecnológicas que impacten al mundo. Me apasiona el **desarrollo web y mobile**. Creo firmemente en la tecnología como motor de cambio y aprendizaje constante.
 
 Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y me forme como **Tecnico profesional en Programación de software**, he desarrollado proyectos que combinan creatividad, lógica y propósito. Mi meta es convertirme en un referente en el mundo tech, inspirando a otros con mi historia y mis resultados.
 
