@@ -24,7 +24,7 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
 
 ### Desarrollo Front-end
 <div>
-  <img src="https://skillicons.dev/icons?i=html" style="width:40px"/>
+  <img src="https://skillicons.dev/icons?i=html" style="width:35px"/>
   <img src="https://skillicons.dev/icons?i=css" style="width:30px"/>
   <img src="https://skillicons.dev/icons?i=js" style="width:30px"/>
   <img src="https://skillicons.dev/icons?i=react" style="width:30px"/>
