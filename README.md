@@ -20,41 +20,8 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
 
 ---
 
-##🛠️ Tecnologías y herramientas
-
-### Desarrollo Front-end
-<div>
-  <img src="https://skillicons.dev/icons?i=html" style="width:30px"/>
-  <img src="https://skillicons.dev/icons?i=css" style="width:30px"/>
-  <img src="https://skillicons.dev/icons?i=js" style="width:30px"/>
-  <img src="https://skillicons.dev/icons?i=react" style="width:30px"/>
-  <img src="https://skillicons.dev/icons?i=astro" style="width:30px"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" style="width:30px"/>
-  <img src="https://skillicons.dev/icons?i=tailwindcss" style="width:30px"/>
-</div>
-
-### Desarrollo Back-end
- <div>
-  <img src="https://skillicons.dev/icons?i=py" style="width:30px"/>
-  <img src="https://skillicons.dev/icons?i=php" style="width:30px"/>
-  <img src="https://skillicons.dev/icons?i=js" style="width:30px"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" style="width:30px"/>
-  <img src="https://skillicons.dev/icons?i=express" style="width:30px"/>
-  <img src="https://skillicons.dev/icons?i=mysql" style="width:30px"/>
-</div>
-  
-
-### Herramientas
- <div>
-  <img src="https://skillicons.dev/icons?i=netlify" style="width:30px"/>
-  <img src="https://skillicons.dev/icons?i=github" style="width:30px"/>
-  <img src="https://skillicons.dev/icons?i=git" style="width:30px"/>
-  <img src="https://skillicons.dev/icons?i=vite" style="width:30px"/>
-  <img src="https://skillicons.dev/icons?i=vscode" style="width:30px"/>
-  <img src="https://skillicons.dev/icons?i=windows" style="width:30px"/>
-  <img src="https://skillicons.dev/icons?i=figma" style="width:30px"/>
-</div>
-
+## 💻 Tecnologías y herramientas
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 
 ---
 
