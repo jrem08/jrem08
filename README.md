@@ -22,31 +22,17 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
 
 ### 🛠️ Tecnologías y herramientas
 
-#### Lenguajes de programación
-
-<p align="left"> 
-  &emsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=gray"></a>
-  &emsp;
-<a href="https://www.python.org/doc/" target="_blank">
-  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white">
-</a>
-  &emsp;
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white">
-</a>
-  &emsp;
-  <a href="https://www.php.net/docs.php" target="_blank">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
-</a>
-</p>
-
 #### Desarrollo Front-end
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"></a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?logo=css3&logoColor=white"></a> 
+    &emsp; 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=gray"></a>
+    &emsp;
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white">
    &emsp;
   <a href="https://es.react.dev" target="_blank"><img alt="React" src="https://img.shields.io/badge/React%20-%2361DAFB.svg?logo=react&logoColor=black"></a> 
    &emsp;
@@ -64,6 +50,14 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
   &emsp; 
 <a href="https://expressjs.com/" target="_blank">
   <img alt="Express" src="https://img.shields.io/badge/Express.js-000000.svg?style=flat&logo=express&logoColor=white"/>
+</a>
+  &emsp; 
+<a href="https://www.python.org/doc/" target="_blank">
+  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white">
+</a>
+ &emsp;
+  <a href="https://www.php.net/docs.php" target="_blank">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
 </a>
 </p>
 
