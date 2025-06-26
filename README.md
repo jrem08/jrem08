@@ -37,6 +37,9 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=plastic&logo=netlify&logoColor=white)
+
+
 
 ---
 
