@@ -51,7 +51,6 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
             <img src="https://skillicons.dev/icons?i=github"/>
     <img src="https://skillicons.dev/icons?i=git"/>
     <img src="https://skillicons.dev/icons?i=vite"/>
-      <img src="https://skillicons.dev/icons?i=visualstudio"/>
     <img src="https://skillicons.dev/icons?i=vscode"/>
     <img src="https://skillicons.dev/icons?i=windows"/>
     <img src="https://skillicons.dev/icons?i=figma"/>
