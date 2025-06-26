@@ -40,20 +40,13 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
     <img src="https://skillicons.dev/icons?i=js"/>
     <img src="https://skillicons.dev/icons?i=nodejs"/>
     <img src="https://skillicons.dev/icons?i=express"/>
-  </div>
-
-
-#### Bases de datos 
-<div>
-    <img src="https://skillicons.dev/icons?i=mysql"/>
-    <img src="https://skillicons.dev/icons?i=oracle"/> 
+        <img src="https://skillicons.dev/icons?i=mysql"/>
   </div>
   
 
  #### Herramientas
  
   <div>
-    <img src="https://skillicons.dev/icons?i=firebase"/>
     <img src="https://skillicons.dev/icons?i=netlify"/>
             <img src="https://skillicons.dev/icons?i=github"/>
     <img src="https://skillicons.dev/icons?i=git"/>
