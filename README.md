@@ -46,7 +46,7 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
 #### Bases de datos 
 <div>
     <img src="https://skillicons.dev/icons?i=mysql"/>
-    <img src="https://skillicons.dev/icons?i=oracle"/> Oracle
+    <img src="https://skillicons.dev/icons?i=oracle"/> 
   </div>
   
 
