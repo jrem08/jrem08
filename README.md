@@ -63,19 +63,13 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
 
  #### Herramientas
  
-<p>
-    <a href="https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white"></a>
- &emsp;
-<a href="https://www.notion.so/" target="_blank">
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=notion&logoColor=white"></a>
- &emsp;
-<a href="https://openai.com/" target="_blank">
-  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991.svg?style=flat&logo=openai&logoColor=white"></a>
-</p>
-
+  <div>
+    <img src="https://skillicons.dev/icons?i=firebase"/>
+    <img src="https://skillicons.dev/icons?i=aws"/>
+    <img src="https://skillicons.dev/icons?i=azure"/>
+    <img src="https://skillicons.dev/icons?i=netlify"/>
+    <img src="https://skillicons.dev/icons?i=supabase"/>
+  </div>
 
 
 ---
