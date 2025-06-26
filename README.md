@@ -69,6 +69,13 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
     <img src="https://skillicons.dev/icons?i=azure"/>
     <img src="https://skillicons.dev/icons?i=netlify"/>
     <img src="https://skillicons.dev/icons?i=supabase"/>
+            <img src="https://skillicons.dev/icons?i=github"/>
+    <img src="https://skillicons.dev/icons?i=git"/>
+    <img src="https://skillicons.dev/icons?i=postman"/>
+    <img src="https://skillicons.dev/icons?i=jest"/>
+    <img src="https://skillicons.dev/icons?i=npm"/>
+    <img src="https://skillicons.dev/icons?i=vite"/>
+    <img src="https://skillicons.dev/icons?i=docker"/>
   </div>
 
 
