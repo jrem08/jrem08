@@ -31,8 +31,7 @@ Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y m
     &emsp; 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=gray"></a>
     &emsp;
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white">
+  <a href="https://www.typescriptlang.org/docs/" target="_blank"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white">
    &emsp;
   <a href="https://es.react.dev" target="_blank"><img alt="React" src="https://img.shields.io/badge/React%20-%2361DAFB.svg?logo=react&logoColor=black"></a> 
    &emsp;
