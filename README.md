@@ -11,9 +11,17 @@
 ---
 
 ## 👨🏽‍🎓 Sobre mí
-Desarrollador de software junior con 2 años de experiencia academica, con una visión clara, crear soluciones tecnológicas que impacten al mundo. Me apasiona el **desarrollo web y móvil**. Creo firmemente en la tecnología como motor de cambio y aprendizaje constante.
+Soy **Técnico Profesional en Programación** y actualmente curso la carrera de **Tecnología en Desarrollo de Software**. Me apasiona la creación de soluciones digitales funcionales, escalables y bien estructuradas.
 
-Actualmente, me estoy formando como **Tecnólogo en Desarrollo de Software** y me forme como **Tecnico profesional en Programación de software**, he desarrollado proyectos que combinan creatividad, lógica y propósito. Mi meta es convertirme en un referente en el mundo tech, inspirando a otros con mi historia y mis resultados.
+A lo largo de mi formación he adquirido conocimientos sólidos en lenguajes como **Java**, **PHP**, **JavaScript** y bases de datos como **MySQL** y **Oracle**.
+
+🧠 Me destaco por mi responsabilidad, capacidad de análisis y disposición para el trabajo en equipo.  
+🚀 Mi objetivo es seguir creciendo como desarrollador, especializándome en el diseño y construcción de aplicaciones web y móviles que generen impacto real.  
+📚 Estoy en constante aprendizaje y me motiva enfrentar nuevos retos que me permitan aportar valor y seguir evolucionando como profesional en el mundo del desarrollo de software.
+
+-
+
+
 
 
 
