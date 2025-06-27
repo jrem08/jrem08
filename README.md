@@ -11,7 +11,8 @@
 ---
 
 ## 👨🏽‍🎓 Sobre mí
-Soy **Técnico Profesional en Programación de Software** y actualmente curso la carrera de **Tecnología en Desarrollo de Software**. Me apasiona la creación de soluciones digitales funcionales, escalables y bien estructuradas.
+Soy **Técnico Profesional en Programación de Software** y actualmente curso la carrera de **Tecnología en Desarrollo de Software**. 
+Me apasiona la creación de soluciones digitales funcionales, escalables y bien estructuradas.
 
 A lo largo de mi formación he adquirido conocimientos sólidos en lenguajes como **Python**, **PHP**, **JavaScript** y bases de datos como **MySQL** y **Oracle**.
 
