@@ -13,7 +13,7 @@
 ## 👨🏽‍🎓 Sobre mí
 Soy **Técnico Profesional en Programación** y actualmente curso la carrera de **Tecnología en Desarrollo de Software**. Me apasiona la creación de soluciones digitales funcionales, escalables y bien estructuradas.
 
-A lo largo de mi formación he adquirido conocimientos sólidos en lenguajes como **Java**, **PHP**, **JavaScript** y bases de datos como **MySQL** y **Oracle**.
+A lo largo de mi formación he adquirido conocimientos sólidos en lenguajes como **Python**, **PHP**, **JavaScript** y bases de datos como **MySQL** y **Oracle**.
 
 Me destaco por mi responsabilidad, capacidad de análisis y disposición para el trabajo en equipo.  
 Mi objetivo es seguir creciendo como desarrollador, especializándome en el diseño y construcción de aplicaciones web y móviles que generen impacto real.  
