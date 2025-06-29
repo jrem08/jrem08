@@ -19,7 +19,7 @@ A lo largo de mi formación he adquirido conocimientos sólidos en lenguajes com
 
 Me destaco por mi responsabilidad, capacidad de análisis y disposición para el trabajo en equipo.  
 
-Mi objetivo es seguir creciendo como desarrollador, especializándome en el diseño y construcción de aplicaciones web y móviles que generen impacto real.  
+Mi objetivo es seguir evolucionando como desarrollador full stack, especializándome en el diseño, desarrollo y protección de aplicaciones web y móviles que aporten valor real a los usuarios y generen un impacto positivo en la sociedad.
 
 Estoy en constante aprendizaje y me motiva enfrentar nuevos retos que me permitan aportar valor y seguir evolucionando como profesional en el mundo del desarrollo de software.
 
