@@ -15,8 +15,6 @@ Soy **Técnico Profesional en Programación de Software** y actualmente curso la
 
 Me apasiona la creación de soluciones digitales funcionales, escalables y bien estructuradas.
 
-A lo largo de mi formación he adquirido conocimientos sólidos en lenguajes como **Python**, **PHP**, **JavaScript** y bases de datos como **MySQL** y **Oracle**.
-
 Me destaco por mi responsabilidad, capacidad de análisis y disposición para el trabajo en equipo.  
 
 Mi objetivo es seguir evolucionando como desarrollador full stack, especializándome en el diseño, desarrollo y protección de aplicaciones web y móviles que aporten valor real a los usuarios y generen un impacto positivo en la sociedad.
