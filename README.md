@@ -40,6 +40,7 @@ Además del desarrollo de software, me apasiona el hacking ético. Creo firmemen
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript">
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
 <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=plastic&logo=next.js&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white" alt="Angular">
 ![Tailwind](https://img.shields.io/badge/tailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=plastic&logo=bootstrap&logoColor=white)
 ![Material](https://img.shields.io/badge/material--UI-%230081CB.svg?style=plastic&logo=mui&logoColor=white)
