@@ -45,7 +45,7 @@ Estoy en constante aprendizaje y me motiva enfrentar nuevos retos que me permita
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white" alt="Angular">
 ![Tailwind](https://img.shields.io/badge/tailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=plastic&logo=bootstrap&logoColor=white)
-![Material](https://img.shields.io/badge/material--UI-%230081CB.svg?style=plastic&logo=mui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/express.js-%23000000.svg?style=plastic&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
