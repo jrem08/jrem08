@@ -21,6 +21,8 @@ Mi objetivo es seguir evolucionando como desarrollador full stack, especializán
 
 Estoy en constante aprendizaje y me motiva enfrentar nuevos retos que me permitan aportar valor y seguir evolucionando como profesional en el mundo del desarrollo de software.
 
+ Además del desarrollo, me apasiona el mundo del hacking ético. Siempre estoy explorando la seguridad de sistemas, aprendiendo sobre vulnerabilidades y cómo prevenirlas.
+
 
 
 
