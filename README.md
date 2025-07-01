@@ -50,7 +50,7 @@ Estoy en constante aprendizaje y me motiva enfrentar nuevos retos que me permita
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=plastic&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234ea1db.svg?style=plastic&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-%23F00000.svg?style=plastic&logo=oracle&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
