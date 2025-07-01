@@ -21,15 +21,6 @@ Mi objetivo es seguir evolucionando como desarrollador full stack, especializán
 
 Estoy en constante aprendizaje y me motiva enfrentar nuevos retos que me permitan aportar valor y seguir evolucionando como profesional en el mundo del desarrollo de software.
 
- Además del desarrollo, me apasiona el mundo del hacking ético. Siempre estoy explorando la seguridad de sistemas, aprendiendo sobre vulnerabilidades y cómo prevenirlas.
-
-
-
-
-
-
-
-
 
 ---
 
@@ -53,9 +44,6 @@ Estoy en constante aprendizaje y me motiva enfrentar nuevos retos que me permita
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white)
-
-
-
 
 
 
