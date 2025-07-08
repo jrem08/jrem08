@@ -17,7 +17,7 @@ Me apasiona la creación de soluciones digitales funcionales, escalables y bien 
 
 Me destaco por mi responsabilidad, capacidad de análisis y disposición para el trabajo en equipo.  
 
-Mi objetivo es seguir evolucionando como desarrollador Full Stack, especializándome en el diseño y desarrollo de aplicaciones web y móviles que aporten valor real a los usuarios y generen un impacto positivo en la sociedad.
+Mi objetivo es seguir evolucionando como desarrollador Full Stack, especializándome en el desarrollo de aplicaciones web y móviles que aporten valor real a los usuarios y generen un impacto positivo en la sociedad.
 
 Estoy en constante aprendizaje y me motiva enfrentar nuevos retos que me permitan aportar valor y seguir evolucionando como profesional en el mundo del desarrollo de software.
 
