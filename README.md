@@ -19,7 +19,7 @@ Me destaco por mi responsabilidad, capacidad de análisis y disposición para el
 
 Mi objetivo es seguir evolucionando como desarrollador Full Stack, especializándome en el desarrollo de aplicaciones web y móviles que aporten valor real a los usuarios y generen un impacto positivo en la sociedad.
 
-Aparte del desarrollo me apasiona el analisis de datos, estoy en constante aprendizaje, me motiva enfrentar nuevos retos que me permitan aportar valor y seguir evolucionando como profesional en el mundo del desarrollo de software.
+Estoy en constante aprendizaje, me motiva enfrentar nuevos retos que me permitan aportar valor y seguir evolucionando como profesional en el mundo del desarrollo de software.
 
 
 
