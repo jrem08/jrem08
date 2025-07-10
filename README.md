@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">Ingeniero de Desarrollo 👨🏽‍💻</h3>
+<h3 align="center">Desarrollador 👨🏽‍💻</h3>
 
 
 ###
@@ -19,7 +19,8 @@ Me destaco por mi responsabilidad, capacidad de análisis y disposición para el
 
 Mi objetivo es seguir evolucionando como desarrollador Full Stack, especializándome en el desarrollo de aplicaciones web y móviles que aporten valor real a los usuarios y generen un impacto positivo en la sociedad.
 
-Estoy en constante aprendizaje y me motiva enfrentar nuevos retos que me permitan aportar valor y seguir evolucionando como profesional en el mundo del desarrollo de software.
+Aparte del desarrollo me apasiona el analisis de datos, estoy en constante aprendizaje, me motiva enfrentar nuevos retos que me permitan aportar valor y seguir evolucionando como profesional en el mundo del desarrollo de software.
+
 
 
 ---
@@ -28,12 +29,8 @@ Estoy en constante aprendizaje y me motiva enfrentar nuevos retos que me permita
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-<img src="https://img.shields.io/badge/Typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript">
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
-<img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=plastic&logo=next.js&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white" alt="Angular">
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=plastic&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white)
