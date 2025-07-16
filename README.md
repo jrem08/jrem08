@@ -75,7 +75,6 @@ Beyond development, I actively contribute to the tech community, focusing on ope
 <a target="_blank" href="https://greensock.com/gsap/">
   <img src="https://skillicons.dev/icons?i=gsap&theme=dark" height="40" alt="GSAP logo" />
 </a>
-
 </div>
 
 <div align="center">
