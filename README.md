@@ -9,11 +9,11 @@
 </div>
 
 ## 🎴 About me
-Hello! I’m Juan Rengifo, a passionate software technologist and developer specialized in Full Stack Development. I create intelligent solutions that transform ideas into real, scalable technologies for the web, mobile, and cloud environments.
+Hello! I'm Juan Rengifo, a software development technologist specializing in artificial intelligence and full-stack development. I create intelligent solutions that transform ideas into real, scalable technologies for web, mobile, and cloud environments.
 
-I’ve dedicated my career to building robust systems using modern technologies like React, Node.js, Python, databases, and APIs to solve real-world problems. My goal is to merge creativity and logic to develop impactful tools that empower people and businesses.
+I've dedicated my career to building robust systems using modern technologies such as React, Node.js, Python, databases, and APIs to solve real-world problems. My goal is to combine creativity and logic to develop impactful tools that empower people and businesses.
 
-Beyond development, I actively contribute to the tech community, focusing on open-source projects and building software architectures that push the boundaries of what’s possible in the digital era.
+Beyond development, I actively contribute to the technology community, focusing on open source projects and building software architectures that expand the boundaries of what's possible in the digital age.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
