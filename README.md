@@ -25,7 +25,7 @@ Beyond development, I actively contribute to the tech community, focusing on ope
 <div align="left">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=javascript,mysql,express,astro,nodejs,react,git,linux,python&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=html,css,github,vscode,bootstrap,bash,wordpress&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=html,css,github,vscode,bootstrap,tailwind,mui&theme=dark" />
     </a>
 </div>
 
