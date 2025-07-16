@@ -4,11 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋,+I'm+Juan;" />
 </div>
 
-
-###
-
-  
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
 
 ## 🎴 About me
 Hello! I’m Juan Rengifo, a passionate software technologist and developer specialized in Full Stack Development. I create intelligent solutions that transform ideas into real, scalable technologies for the web, mobile, and cloud environments.
@@ -17,9 +15,9 @@ I’ve dedicated my career to building robust systems using modern technologies 
 
 Beyond development, I actively contribute to the tech community, focusing on open-source projects and building software architectures that push the boundaries of what’s possible in the digital era.
 
-
-
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
 
 ## 🀄️ Languages | Frameworks 
 <div align="left">
@@ -80,16 +78,15 @@ Beyond development, I actively contribute to the tech community, focusing on ope
 
 </div>
 
-
-
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
 
 ### 📡 Connect with me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:medrandajuan843@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-r-6297b32a1?)
 [![Portafolio](https://img.shields.io/badge/Portafolio-000?style=flat&logo=vercel&logoColor=white)](https://juanre.netlify.app)
 
-
-  
-
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
