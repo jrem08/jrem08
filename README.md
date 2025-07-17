@@ -22,7 +22,7 @@ Beyond development, I actively contribute to the technology community, focusing 
 <div align="left">
     <!-- Primera fila -->
 <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="50" alt="JavaScript logo" />
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="30" alt="JavaScript logo" />
 </a>
 <a target="_blank" href="https://www.mysql.com/">
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" alt="MySQL logo" />
