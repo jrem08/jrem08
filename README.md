@@ -64,4 +64,11 @@ My goal is to become a professional capable of creating smart, scalable, and sec
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
 
+## Links:
+[![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://ingcapadev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AlvaroCapaceta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-r-6297b32a1?)
+[![Blog](https://img.shields.io/badge/Blog-INGCapaDev-F89901?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)](https://blog.ingcapadev.com)
 
+## Contact:
+
+[![Email](https://img.shields.io/badge/ingcapadev@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ingcapadev@gmail.com)
