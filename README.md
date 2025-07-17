@@ -17,7 +17,7 @@ My goal is to become a professional capable of creating smart, scalable, and sec
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
@@ -29,9 +29,9 @@ My goal is to become a professional capable of creating smart, scalable, and sec
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
@@ -41,13 +41,13 @@ My goal is to become a professional capable of creating smart, scalable, and sec
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
+  <img src="https://skillicons.dev/icons?i=mui" height="40" alt="mui logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
@@ -55,17 +55,17 @@ My goal is to become a professional capable of creating smart, scalable, and sec
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
 </div>
 
 ## Links:
-[![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://ingcapadev.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@JuanR-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-r-6297b32a1?)
 
 ## Contact:
