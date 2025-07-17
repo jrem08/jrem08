@@ -43,9 +43,6 @@ Beyond development, I actively contribute to the technology community, focusing 
 <a target="_blank" href="https://git-scm.com/">
   <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" alt="Git logo" />
 </a>
-<a target="_blank" href="https://www.linux.org/">
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40" alt="Linux logo" />
-</a>
 <a target="_blank" href="https://www.python.org/">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="Python logo" />
 </a>
