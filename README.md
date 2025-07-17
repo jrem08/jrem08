@@ -8,70 +8,9 @@
 </div>
 
 ## 🎴 About me
-Hello! I'm Juan Rengifo, a computer science and software development technologist specializing in full-stack development and cybersecurity. I create intelligent solutions that transform ideas into real, scalable technologies for web and mobile.
+Hello! I'm Juan Rengifo, a computer science and software development technologist with a strong specialization in full-stack development. My passion for technology goes beyond code; I'm deeply interested in cybersecurity and ethical hacking, fields where I seek to understand, protect, and responsibly challenge digital systems.
 
-I've dedicated my career to building robust systems using modern technologies such as React, Node.js, Python, databases, and APIs to solve real-world problems. My goal is to combine creativity and logic to develop impactful tools that empower people and businesses.
-
-Beyond development, I actively contribute to the technology community, focusing on open source projects and building software architectures that expand the boundaries of what's possible in the digital age.
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-</div>
-
-## 🀄️ Languages | Frameworks 
-<div align="left">
-    <!-- Primera fila -->
-<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="30" alt="JavaScript logo" />
-</a>
-<a target="_blank" href="https://www.mysql.com/">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="30" alt="MySQL logo" />
-</a>
-<a target="_blank" href="https://expressjs.com/">
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="30" alt="Express logo" />
-</a>
-<a target="_blank" href="https://astro.build/">
-  <img src="https://skillicons.dev/icons?i=astro&theme=dark" height="30" alt="Astro logo" />
-</a>
-<a target="_blank" href="https://nodejs.org/">
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="30" alt="Node.js logo" />
-</a>
-<a target="_blank" href="https://react.dev/">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="30" alt="React logo" />
-</a>
-<a target="_blank" href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="30" alt="Git logo" />
-</a>
-<a target="_blank" href="https://www.python.org/">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="30" alt="Python logo" />
-</a>
-
-<!-- Segunda fila -->
-<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="30" alt="HTML5 logo" />
-</a>
-<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/CSS">
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="30" alt="CSS3 logo" />
-</a>
-<a target="_blank" href="https://github.com/">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="30" alt="GitHub logo" />
-</a>
-<a target="_blank" href="https://code.visualstudio.com/">
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="30" alt="VSCode logo" />
-</a>
-<a target="_blank" href="https://getbootstrap.com/">
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="30" alt="Bootstrap logo" />
-</a>
-<a target="_blank" href="https://tailwindcss.com/">
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="30" alt="Tailwind CSS logo" />
-</a>
-<a target="_blank" href="https://mui.com/">
-  <img src="https://skillicons.dev/icons?i=mui&theme=dark" height="30" alt="Material UI logo" />
-</a>
-<a target="_blank" href="https://greensock.com/gsap/">
-  <img src="https://skillicons.dev/icons?i=gsap&theme=dark" height="30" alt="GSAP logo" />
-</a>
-</div>
+My goal is to become a professional capable of creating smart, scalable, and secure solutions for both the web and mobile devices. I'm also interested in contributing to the growth of the technology community, sharing knowledge, and being part of initiatives that generate a positive impact on society.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
