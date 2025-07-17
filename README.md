@@ -9,7 +9,7 @@
 </div>
 
 ## 🎴 About me
-Hello! I'm Juan Rengifo, a software development technologist specializing in artificial intelligence and full-stack development. I create intelligent solutions that transform ideas into real, scalable technologies for web, mobile, and cloud environments.
+Hello! I'm Juan Rengifo, a software development technologist specializing in artificial intelligence and full-stack development. I create intelligent solutions that transform ideas into real, scalable technologies for web and mobile.
 
 I've dedicated my career to building robust systems using modern technologies such as React, Node.js, Python, databases, and APIs to solve real-world problems. My goal is to combine creativity and logic to develop impactful tools that empower people and businesses.
 
