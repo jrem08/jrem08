@@ -25,51 +25,51 @@ Beyond development, I actively contribute to the technology community, focusing 
   <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="30" alt="JavaScript logo" />
 </a>
 <a target="_blank" href="https://www.mysql.com/">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" alt="MySQL logo" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="30" alt="MySQL logo" />
 </a>
 <a target="_blank" href="https://expressjs.com/">
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="40" alt="Express logo" />
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="30" alt="Express logo" />
 </a>
 <a target="_blank" href="https://astro.build/">
-  <img src="https://skillicons.dev/icons?i=astro&theme=dark" height="40" alt="Astro logo" />
+  <img src="https://skillicons.dev/icons?i=astro&theme=dark" height="30" alt="Astro logo" />
 </a>
 <a target="_blank" href="https://nodejs.org/">
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40" alt="Node.js logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="30" alt="Node.js logo" />
 </a>
 <a target="_blank" href="https://react.dev/">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="40" alt="React logo" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="30" alt="React logo" />
 </a>
 <a target="_blank" href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" alt="Git logo" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="30" alt="Git logo" />
 </a>
 <a target="_blank" href="https://www.python.org/">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="Python logo" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="30" alt="Python logo" />
 </a>
 
 <!-- Segunda fila -->
 <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="40" alt="HTML5 logo" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="30" alt="HTML5 logo" />
 </a>
 <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/CSS">
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="40" alt="CSS3 logo" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="30" alt="CSS3 logo" />
 </a>
 <a target="_blank" href="https://github.com/">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="GitHub logo" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="30" alt="GitHub logo" />
 </a>
 <a target="_blank" href="https://code.visualstudio.com/">
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40" alt="VSCode logo" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="30" alt="VSCode logo" />
 </a>
 <a target="_blank" href="https://getbootstrap.com/">
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="40" alt="Bootstrap logo" />
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="30" alt="Bootstrap logo" />
 </a>
 <a target="_blank" href="https://tailwindcss.com/">
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="40" alt="Tailwind CSS logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="30" alt="Tailwind CSS logo" />
 </a>
 <a target="_blank" href="https://mui.com/">
-  <img src="https://skillicons.dev/icons?i=mui&theme=dark" height="40" alt="Material UI logo" />
+  <img src="https://skillicons.dev/icons?i=mui&theme=dark" height="30" alt="Material UI logo" />
 </a>
 <a target="_blank" href="https://greensock.com/gsap/">
-  <img src="https://skillicons.dev/icons?i=gsap&theme=dark" height="40" alt="GSAP logo" />
+  <img src="https://skillicons.dev/icons?i=gsap&theme=dark" height="30" alt="GSAP logo" />
 </a>
 </div>
 
