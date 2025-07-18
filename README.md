@@ -4,7 +4,7 @@
         <h1 align="center">Welcome 👋, I'm Juan</h1>
 </div>
 
-<p align="center">From Pereira, Colombia 🇨🇴 </p>
+<p align="center"> 🇨🇴 </p>
 
 <div align="center">
     
