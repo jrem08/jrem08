@@ -4,7 +4,7 @@
         <h1 align="center">Welcome 👋, I'm Juan</h1>
 </div>
 
-center">⚡️ I'm 22 years old and I'm from Buenos Aires, Argentina 🇦🇷</p>
+<center">⚡️ I'm 22 years old and I'm from Buenos Aires, Argentina 🇦🇷</p>
 
 <div align="center">
     
