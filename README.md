@@ -4,6 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋,+I'm+Juan;" />
 </div>
 
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=F7F7F7&random=false&width=490&lines=The+best+way+to+predict+the+future+is+to+program+it.+;La+mejor+forma+de+predecir+el+futuro+es+programarlo.+)](https://02ip.ru/applepie)
+</div>
+
 ## About Me
 
 Hello! I'm Juan Rengifo, a computer science and software development technologist with a strong specialization in full-stack development. My passion for technology goes beyond code; I'm deeply interested in cybersecurity and ethical hacking, fields where I seek to understand, protect, and responsibly challenge digital systems.
