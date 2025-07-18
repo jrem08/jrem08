@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
-## About Me
+## About Me: 
 
 Hello! I'm Juan Rengifo, a computer science and software development technologist with a strong specialization in full-stack development. My passion for technology goes beyond code; I'm deeply interested in cybersecurity and ethical hacking, fields where I seek to understand, protect, and responsibly challenge digital systems.
 
