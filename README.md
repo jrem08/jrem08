@@ -4,6 +4,8 @@
         <h1 align="center">Welcome 👋, I'm Juan</h1>
 </div>
 
+center">⚡️ I'm 22 years old and I'm from Buenos Aires, Argentina 🇦🇷</p>
+
 <div align="center">
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=F7F7F7&random=false&width=490&lines=The+best+way+to+predict+the+future+is+to+program+it.+;La+mejor+forma+de+predecir+el+futuro+es+programarlo.+)](https://02ip.ru/applepie)
