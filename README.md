@@ -15,9 +15,9 @@
 
 ## About Me: 
 
-A computer scientist and software developer with a strong focus on full-stack development. My passion for technology goes beyond code; I'm deeply interested in cybersecurity and ethical hacking, fields in which I seek to understand, protect, and responsibly challenge digital systems.
+A computer scientist and software developer with a strong focus on full-stack development. My passion for technology goes beyond code; I'm deeply interested in artificial intelligence, fields in which I seek to understand, protect, and responsibly challenge digital systems.
 
-My goal is to become a professional capable of creating smart, scalable, and secure solutions for both the web and mobile devices. I'm also interested in contributing to the growth of the technology community, sharing knowledge, and being part of initiatives that generate a positive impact on society.
+My goal is to become a professional capable of creating intelligent, scalable, and secure solutions for both the web and mobile devices. I'm also interested in contributing to the growth of the technology community, sharing knowledge, and being part of initiatives that generate a positive impact on society.
 
 
 <div align="center">
