@@ -4,8 +4,6 @@
         <h1 align="center">Welcome 👋, I'm Juan</h1>
 </div>
 
-<p align="center"> 🇨🇴 </p>
-
 <div align="center">
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=F7F7F7&random=false&width=490&lines=The+best+way+to+predict+the+future+is+to+program+it.+;La+mejor+forma+de+predecir+el+futuro+es+programarlo.+)](https://02ip.ru/applepie)
@@ -17,9 +15,9 @@
 
 ## About Me: 
 
-A computer scientist and software developer with a strong focus on full-stack development. My passion for technology goes beyond code; I'm deeply interested in artificial intelligence, fields in which I seek to understand, protect, and responsibly challenge digital systems.
+I'm a computer scientist and software developer with a strong focus on end-to-end development. My passion for technology goes beyond code; I'm deeply interested in web development, mobile development, and data analytics, fields in which I seek to understand, protect, and responsibly challenge digital systems.
 
-My goal is to become a professional capable of creating intelligent, scalable, and secure solutions for both the web and mobile devices. I'm also interested in contributing to the growth of the technology community, sharing knowledge, and being part of initiatives that generate a positive impact on society.
+My goal is to become a professional capable of creating smart, scalable, and secure solutions for both the web and mobile devices. I'm also interested in contributing to the growth of the technology community, sharing knowledge, and being part of initiatives that generate a positive impact on society.
 
 
 <div align="center">
