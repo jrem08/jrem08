@@ -15,7 +15,7 @@
 
 ## About Me: 
 
-I'm a computer scientist and software developer with a strong focus on end-to-end development. My passion for technology goes beyond code; I'm deeply interested in web development, mobile development, and data analytics, fields in which I seek to understand, protect, and responsibly challenge digital systems.
+I'm a computer scientist and software developer with a strong focus on end-to-end development. My passion for technology goes beyond code. I'm deeply interested in web development, mobile development, and data analytics, fields in which I seek to understand, protect, and responsibly challenge digital systems.
 
 My goal is to become a professional capable of creating smart, scalable, and secure solutions for both the web and mobile devices. I'm also interested in contributing to the growth of the technology community, sharing knowledge, and being part of initiatives that generate a positive impact on society.
 
