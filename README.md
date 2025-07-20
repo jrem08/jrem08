@@ -21,7 +21,7 @@ My goal is to become a professional capable of creating intelligent, scalable, a
 
 - 🎓 Professional technician in software programming
 - 📚 Computer Technologist and Software Development
-- 💻 I am currently studying in (https://www.ciaf.edu.co/)
+- 💻 I am currently studying in [CIAF Higher Education](https://www.ciaf.edu.co/inicio)
 - 📍 Pereira, Colombia
 
 
