@@ -15,13 +15,11 @@
 
 ## About Me: 
 
-I am a professional software programmer currently practicing computer technology and software development, with a strong focus on end-to-end development. My passion for technology goes beyond code. I am deeply interested in web development, mobile development, and data analytics, fields in which I seek to understand, protect, and responsibly challenge digital systems.
-
-My goal is to become a professional capable of creating intelligent, scalable, and secure solutions for both the web and mobile devices. I am also interested in contributing to the growth of the technology community, sharing knowledge, and being part of initiatives that generate a positive impact on society.
+I am a Technical Professional in Software Programming and currently pursuing a degree in Computer Science and Software Development Technology. I specialize in web development, combining creativity and functionality to build effective digital solutions. I am also passionate about data analysis and mobile development—areas I integrate to create intelligent, modern, and results-oriented applications.
 
 - 🎓 Professional technician in software programming
 - 📚 Computer Technologist and Software Development
-- 💻 I am currently studying in [CIAF Higher Education](https://www.ciaf.edu.co/inicio)
+- 💻 I am currently studying in [CIAF](https://www.ciaf.edu.co/)
 - 📍 Pereira, Colombia
 
 
