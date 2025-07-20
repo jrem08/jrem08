@@ -21,7 +21,8 @@ My goal is to become a professional capable of creating intelligent, scalable, a
 
 - 🎓 Professional technician in software programming
 - 📚 Computer Technologist and Software Development
-- 📍 Pereira, colombia 
+- 💻 I am currently studying in (https://www.ciaf.edu.co/)
+- 📍 Pereira, Colombia
 
 
 <div align="center">
