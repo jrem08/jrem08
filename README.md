@@ -19,6 +19,9 @@ I am a professional software programmer currently practicing computer technology
 
 My goal is to become a professional capable of creating intelligent, scalable, and secure solutions for both the web and mobile devices. I am also interested in contributing to the growth of the technology community, sharing knowledge, and being part of initiatives that generate a positive impact on society.
 
+- 🎓 Professional technician in software programming
+- 📚 Computer Technologist and Software Development
+
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
