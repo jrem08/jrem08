@@ -15,7 +15,7 @@
 
 ## About Me: 
 
-I am a Technical Professional in Software Programming and currently pursuing a degree in Computer Science and Software Development Technology. I specialize in web development, combining creativity and functionality to build effective digital solutions. I am also passionate about data analysis and mobile development—areas I integrate to create intelligent, modern, and results-oriented applications.
+I am a Technical Professional in Software Programming and currently pursuing a degree in Computer Science and Software Development Technology. I specialize in web development, combining creativity and functionality to build effective digital solutions. I am also passionate about data analysis and mobile development. areas I integrate to create intelligent, modern, and results-oriented applications.
 
 - 🎓 Professional technician in software programming
 - 📚 Computer Technologist and Software Development
