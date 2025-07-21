@@ -85,14 +85,6 @@ I am a Technical Professional in Software Programming and currently pursuing a d
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
-## Networks: 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@JuanR-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-r-6297b32a1?)
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-</div>
-
 
 ## Contact:
 
