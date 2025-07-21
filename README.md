@@ -15,7 +15,7 @@
 
 ## About Me: 
 
-I am a Technical Professional in Software Programming and currently pursuing a degree in Computer Science and Software Development Technology. I specialize in web development, combining creativity and functionality to build effective digital solutions. I’m passionate about artificial intelligence, an area I integrate to create intelligent, modern, visually appealing, and results driven applications. I am constantly learning and evolving to develop technology that makes a real impact.
+I am a Technical Professional in Software Programming and currently pursuing a degree in Computer Science and Software Development Technology. I specialize in software development, combining creativity and functionality to build effective digital solutions. I’m passionate about the digital world in all its forms: artificial intelligence, ethical hacking, and design. areas I integrate to create intelligent, modern, visually appealing, and results driven applications. I am constantly learning and evolving to develop technology that makes a real impact.
 
 - 🎓 Professional technician in software programming
 - 📚 Computer Technologist and Software Development
