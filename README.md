@@ -41,8 +41,6 @@ I am a Technical Professional in Software Programming and currently pursuing a d
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-      <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
      <img width="12" />
   <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
   <img width="12" />
