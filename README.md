@@ -75,18 +75,11 @@ I am a Technical Professional in Software Programming and currently pursuing a d
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
-  <img width="12" />
-<img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="photoshop logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=illustrator" height="40" alt="illustrator logo" />
-
-
-
-
+ 
 </div>
 
 <div align="center">
