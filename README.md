@@ -15,7 +15,7 @@
 
 ## About Me: 
 
-I am a Technical Professional in Software Programming and currently pursuing a degree in Computer Science and Software Development Technology. I specialize in artificial intelligence, combining creativity and functionality to build effective digital solutions. I am passionate about UX/UI design and application development. Disciplines I integrate to create intelligent, modern, visually appealing, and results driven experiences. I am constantly learning and evolving to develop technology that makes a real impact.
+I am a Technical Professional in Software Programming and currently studying Computer Science and Software Development Technology. I specialize in web development, combining creativity and functionality to build effective digital solutions. I am passionate about UX/UI design, graphic design, and artificial intelligence, disciplines I integrate to create intelligent, modern, visually appealing, and results driven experiences. I am constantly learning and evolving, committed to developing technology that creates real impact.
 
 - 🎓 Professional technician in software programming
 - 📚 Computer Technologist and Software Development
