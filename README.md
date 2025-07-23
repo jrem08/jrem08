@@ -67,6 +67,12 @@ I am a Technical Professional in Software Programming and currently studying Com
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+    <img width="12" />
+<img src="https://skillicons.dev/icons?i=ps" height="40" alt="photoshop logo" />
+    <img width="12" />
+<img src="https://skillicons.dev/icons?i=ai" height="40" alt="illustrator logo" />
+    <img width="12" />
+<img src="https://skillicons.dev/icons?i=xd" height="40" alt="adobe xd logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
