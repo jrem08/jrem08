@@ -15,7 +15,7 @@
 
 ## About Me: 
 
-I am a Technical Professional in Software Programming and currently studying Computer Science and Software Development Technology. I specialize in **web design**, combining **creativity and functionality** to build effective digital solutions. I am passionate about **web development**, disciplines I integrate to create intelligent, modern, visually appealing, and results driven experiences. I am constantly learning and evolving, committed to developing technology that generates **real impact**.
+Soy Técnico Profesional en Programación de Software y actualmente estudio la Tecnología en Computación y Desarrollo de Software. Me especializo en el desarrollo web, combinando creatividad y funcionalidad para crear soluciones digitales efectivas. Apasionado por el diseño web, y el desarrollo de apps móviles, diseño experiencias modernas, inteligentes y visualmente atractivas que generan resultados. Estoy en constante aprendizaje y evolución, comprometido con la creación de tecnología que genere un verdadero impacto.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
