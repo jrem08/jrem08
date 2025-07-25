@@ -15,7 +15,7 @@
 
 ## About Me: 
 
-I am a Technical Professional in Software Programming and currently studying Computer Science and Software Development Technology. I specialize in graphic/web design, combining creativity and functionality to build effective digital solutions. I am passionate about web development, disciplines I integrate to create intelligent, modern, visually appealing, and results driven experiences. I am constantly learning and evolving, committed to developing technology that generates real impact.
+I am a Technical Professional in Software Programming and currently studying Computer Science and Software Development Technology. I specialize in web design, combining creativity and functionality to build effective digital solutions. I am passionate about web development, disciplines I integrate to create intelligent, modern, visually appealing, and results driven experiences. I am constantly learning and evolving, committed to developing technology that generates real impact.
 
 - 🎓 Professional technician in software programming
 - 📚 Computer Technologist and Software Development
