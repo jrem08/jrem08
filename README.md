@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
-## About Me: 
+## Sobre mí: 
 
 Soy Técnico Profesional en Programación de Software y actualmente estudio la Tecnología en Computación y Desarrollo de Software. Me especializo en el desarrollo web, combinando creatividad y funcionalidad para crear soluciones digitales efectivas. Apasionado por el diseño web, y el desarrollo de apps móviles, diseño experiencias modernas, inteligentes y visualmente atractivas que generan resultados. Estoy en constante aprendizaje y evolución, comprometido con la creación de tecnología que genere un verdadero impacto.
 
@@ -21,7 +21,7 @@ Soy Técnico Profesional en Programación de Software y actualmente estudio la T
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
-## Technologies:
+## Tec:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
