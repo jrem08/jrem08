@@ -61,6 +61,8 @@ Soy Técnico Profesional en Programación de Software y actualmente estudio la T
 <img src="https://skillicons.dev/icons?i=xd" height="40" alt="adobe xd logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=framer" height="40" alt="framer logo" />
 
 
 <div align="center">
