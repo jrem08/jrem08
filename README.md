@@ -68,7 +68,7 @@ Soy Técnico Profesional en Programación de Software y actualmente estudio la T
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-<img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
  
 </div>
 
