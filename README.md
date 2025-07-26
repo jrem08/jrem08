@@ -65,7 +65,7 @@ Técnico Profesional en Programación de Software y actualmente estudio la Tecno
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-<img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" />
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="react native logo" />
 
 
 <div align="center">
