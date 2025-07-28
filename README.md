@@ -1,5 +1,5 @@
 <div id="header" align="center">
-        <h1 align="center">Juan David Rengifo</h1>
+        <h1 align="center">Juan David Rengifo Medranda</h1>
 </div>
 
 
