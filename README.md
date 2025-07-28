@@ -9,11 +9,6 @@
 </div>
 
 
-## Formacion academica
-
-- Tecnologo en Desarrollo de Software - CIAF(2026)
-
-
 ## Sobre mí: 
 
 Soy un estudiante apasionado por la tecnología y el
@@ -26,6 +21,16 @@ procesos tanto técnicos y organizacionales. Estoy motivado
 por el aprendizaje continuo, el trabajo en equipo y la
 aplicación de mis conocimientos en entornos reales para
 aportar soluciones innovadoras y eficientes.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
+
+## Formacion academica
+
+- Tecnologo en Desarrollo de Software - CIAF(2026)
+- Tecnico Profesional en Programacion de Software - CIAF(2025)
+- Bachiller con Enfasis empresarial - Iph(2021) 
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
