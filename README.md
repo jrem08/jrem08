@@ -2,10 +2,6 @@
         <h1 align="center">Hola! 👋, mi nombre es Juan</h1>
 </div>
 
-<div align="center">
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=F7F7F7&random=false&width=490&lines=The+best+way+to+predict+the+future+is+to+program+it.+;La+mejor+forma+de+predecir+el+futuro+es+programarlo.+)](https://02ip.ru/applepie)
-</div>
 
 
 <div align="center">
