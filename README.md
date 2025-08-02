@@ -1,4 +1,4 @@
-<h1 align="center">Juan Rengifo</h3>
+<h1 align="center">Juan David Rengifo</h3>
 
 ###
 
