@@ -1,11 +1,3 @@
-<h1 align="center">Juan David Rengifo</h3>
-
-###
-
-<h3 align="center">Desarrollador de Software</h3>
-
-###
-
 <h2 align="center">🀄️ Languages | Frameworks </h2>
 <div align="center">
     <a href="https://skillicons.dev">
