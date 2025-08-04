@@ -3,9 +3,7 @@
     <h1 align="center">Hi 👋, I'm Juan!</h1>
     <br>
 
-   <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-</div>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=F7F7F7&random=false&width=490&lines=The+best+way+to+predict+the+future+is+to+program+it.+;La+mejor+forma+de+predecir+el+futuro+es+programarlo.+)](https://02ip.ru/applepie)
 </div>
