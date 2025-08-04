@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=F7F7F7&random=false&width=490&lines=The+best+way+to+predict+the+future+is+to+program+it.+;La+mejor+forma+de+predecir+el+futuro+es+programarlo.+)](https://02ip.ru/applepie)
 </div>
 
-<h2 align="center">🀄️ Languages | Frameworks & DB's |</h2>
+<h2 align="center">🀄️ Languages | Frameworks </h2>
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=javascript,typescript,mysql,express,angular,nodejs,react,git,jquery,linux,php&theme=dark" />
