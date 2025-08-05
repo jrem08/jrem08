@@ -14,4 +14,8 @@
 
 <h1 align="left">💻 Intereses </h1>
 
+- 📲 **Diseño UX/UI** para productos digitales funcionales y atractivos  
+- 🎯 **Marketing digital** para potenciar proyectos con impacto real  
+- 🎨 **Diseño gráfico** como medio para comunicar ideas de forma creativa  
+
 
