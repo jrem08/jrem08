@@ -25,7 +25,6 @@ Currently, I have a strong interest in backend development, digital marketing, a
 
 <h2 align="left">🌐 Social </h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rengifo-6297b32a1) ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:medrandajuan843@gmail.com)  
 
 
 
