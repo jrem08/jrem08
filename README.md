@@ -23,7 +23,7 @@ Currently, I have a strong interest in backend development, digital marketing, a
 
 --- 
 
-<h2 align="left">🌐 Social </h2>
+<h2 align="left">🌐 Socials </h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rengifo-6297b32a1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=flat&logo=netlify&logoColor=white)](http://juanre.netlify.app)
