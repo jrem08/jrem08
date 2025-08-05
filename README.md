@@ -1,6 +1,5 @@
 <h1 align="center">
-ñ<?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="150" viewBox="0 0 800 150"><defs><linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#ff00cc;stop-opacity:1" /><stop offset="100%" style="stop-color:#3333ff;stop-opacity:1" /></linearGradient><filter id="shadow"><feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.5" /></filter></defs><text x="50%" y="50%" fill="url(#grad2)" style="font-family:'Arial Black', sans-serif; font-size:52px; font-weight:bold; letter-spacing:1px;" text-anchor="middle" dominant-baseline="middle" filter="url(#shadow)">JuanDavidRengifo</text></svg>
+    <h2> Juan David </h2>
 </h1>
         
 
