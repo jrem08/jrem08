@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center">🀄️ Languages | Frameworks </h2>
+<h2 align="center">🀄️ Tech Stack </h2>
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=javascript,typescript,mysql,express,astro,nodejs,react,git,python&theme=dark" />
