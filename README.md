@@ -23,9 +23,9 @@ Currently, I have a strong interest in backend development, digital marketing, a
 
 --- 
 
-<h2 align="left">🎯 Personal goal </h2>
+<h2 align="left">🌐 Social </h2>
 
-My goal is to become an internationally recognized software developer, standing out for my technical skills, commitment, and passion for technology. I aim to be a role model and an inspiration for those who dream of changing the world through development.
+
 
 
 
