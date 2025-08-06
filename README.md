@@ -8,9 +8,9 @@
 
 <h2 align="left">🎓 About me </h2>
 
-I am a Software Programming Technician, graduated from CIAF Pereira, and currently in the fifth semester of my degree in Computing and Software Development.
-I stand out for being an analytical, proactive, and solution oriented person. Throughout my academic journey, I have developed strong skills in web development and solid foundations in programming.
-Currently, I have a strong interest in back-end development. My approach combines logical thinking, creativity, and a results driven mindset.
+I am a Software Programming Technician, a graduate of CIAF Pereira, and currently in my fifth semester of the Computer Technology and Software Development program. I stand out for being analytical, proactive, and solutions-oriented. Throughout my academic career, I have developed solid web development skills and programming knowledge. Currently, I have a keen interest in creating technologies, design, and AI. My approach combines logical thinking, creativity, and a results oriented mindset.
+
+
 
 
 ---
