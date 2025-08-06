@@ -46,7 +46,6 @@ I am a Software Programming Technician, a graduate of CIAF Pereira, and currentl
 <h2 align="left">🌐 Socials </h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rengifo-6297b32a1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=flat&logo=netlify&logoColor=white)](http://juanre.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:medrandajuan843@gmail.com)
 
 
