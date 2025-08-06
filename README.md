@@ -8,7 +8,7 @@
 
 <h2 align="left">🎓 About me </h2>
 
-I am a Software Programming Technician, a graduate of CIAF, and currently in my fifth semester of the Computer Technology and Software Development program. I stand out for being analytical, proactive, and solutions oriented. Throughout my academic career, I have developed solid web development skills and programming knowledge. Currently, I have a keen interest in creating technologies. My approach combines logical thinking, creativity, and a results oriented mindset.
+I am a Software Engineering student currently in my fifth semester, with a strong passion for technology, innovation, and the development of digital solutions. I specialize in web application development, both frontend and backend, and have solid knowledge of databases and programming languages. My main motivation is to apply what I’ve learned in real-world environments, creating functional, efficient, and impactful technological solutions. I enjoy working in teams and tackling challenges that help me grow both professionally and personally.
 
 
 
