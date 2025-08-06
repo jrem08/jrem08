@@ -10,7 +10,7 @@
 
 I am a Software Programming Technician, graduated from CIAF Pereira, and currently in the fifth semester of my degree in Computing and Software Development.
 I stand out for being an analytical, proactive, and solution oriented person. Throughout my academic journey, I have developed strong skills in web development and solid foundations in programming.
-Currently, I have a strong interest in full stack development, digital marketing, and graphic design. My approach combines logical thinking, creativity, and a results driven mindset.
+Currently, I have a strong interest in full stack development and digital marketing. My approach combines logical thinking, creativity, and a results driven mindset.
 
 
 ---
