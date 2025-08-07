@@ -38,6 +38,7 @@ I am a Software Engineering student currently in my fifth semester, with a stron
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=Framer&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=Webflow&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=Shopify&logoColor=white)
 
 --- 
 
