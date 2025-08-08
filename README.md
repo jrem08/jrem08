@@ -8,7 +8,8 @@
 
 <h2 align="left">🎓 About me </h2>
 
-I'm a Software Engineering student, currently in my fifth semester, with a deep passion for technology and innovation. I specialize in front-end development, creating responsive interfaces and UX/UI design, creating intuitive, engaging, and user-centered digital experiences. I combine creativity with technical skills to transform ideas into functional and modern products. I'm motivated by applying my knowledge to real-world projects that add value, by working as a team, and by taking on challenges that drive my professional and personal growth.
+A Software Programming Technician, currently in the fifth semester of the Computer Technology and Software Development program, I have three years of academic experience and a strong passion for technology. I specialize in front-end development, with practical experience in HTML5, CSS3, JavaScript (ES6+), and TypeScript, as well as mastery of frameworks such as React and Redux for state management. I have also explored modern tools such as Next.js and have basic knowledge of Astro.js.
+I have a solid background in back-end development, using Node.js and Express.js to create secure, efficient, and scalable web applications. I have a deep interest in mobile development using React Native.
 
 
 
