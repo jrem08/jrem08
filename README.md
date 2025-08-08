@@ -8,7 +8,7 @@
 
 <h2 align="left">🎓 About me </h2>
 
-I'm a Software Engineering student, currently in my fifth semester, with a deep passion for technology and innovation. I specialize in web development, front-end design, and UX/UI interface design, creating intuitive, engaging, and user-centered digital experiences. I combine creativity with technical skills to transform ideas into functional and modern products. I'm motivated by applying my knowledge to real-world projects that add value, working as a team, and tackling challenges that drive my professional and personal growth.
+I'm a Software Engineering student, currently in my fifth semester, with a deep passion for technology and innovation. I specialize in front-end development, creating responsive interfaces and UX/UI design, creating intuitive, engaging, and user-centered digital experiences. I combine creativity with technical skills to transform ideas into functional and modern products. I'm motivated by applying my knowledge to real-world projects that add value, by working as a team, and by taking on challenges that drive my professional and personal growth.
 
 
 
