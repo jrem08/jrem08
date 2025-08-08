@@ -8,7 +8,7 @@
 
 <h2 align="left">🎓 About me </h2>
 
-I am a Software Engineering student currently in my fifth semester, with a strong passion for technology, innovation, and the development of digital solutions. I specialize in web application development, both frontend and backend, and have solid knowledge of databases and programming languages. My main motivation is to apply what I’ve learned in real-world environments, creating functional, efficient, and impactful technological solutions. I enjoy working in teams and tackling challenges that help me grow both professionally and personally.
+I'm a Software Engineering student, currently in my fifth semester, with a deep passion for technology and innovation. I specialize in web development, front-end design, and UX/UI interface design, creating intuitive, engaging, and user-centered digital experiences. I combine creativity with technical skills to transform ideas into functional and modern products. I'm motivated by applying my knowledge to real-world projects that add value, working as a team, and tackling challenges that drive my professional and personal growth.
 
 
 
@@ -18,13 +18,10 @@ I am a Software Engineering student currently in my fifth semester, with a stron
 <h2 align="left">💻 Tech stack </h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
