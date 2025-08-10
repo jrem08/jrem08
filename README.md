@@ -8,7 +8,7 @@
 
 <h2 align="left">🧔🏽‍♂️ About me </h2>
 
-A Software Programming Technician, currently in the fifth semester of the Computer Technology and Software Development program, I have three years of academic experience and a strong passion for technology. I specialize in front-end development, with practical experience in HTML5, CSS3, JavaScript (ES6+), and TypeScript, as well as mastery of frameworks such as React and Redux for state management. I have also explored modern tools such as Next.js and have basic knowledge of Astro.js.
+A Software Programming Technician, currently in the fifth semester of the Computer Technology and Software Development program, I have three years of academic experience and a strong passion for technology. I specialize in front-end development, with practical experience in HTML5, CSS3, JavaScript, and TypeScript, as well as mastery of frameworks such as React and Redux for state management. I have also explored modern tools such as Next.js and have basic knowledge of Astro.js.
 I have a solid background in back-end development, using Node.js and Express.js to create secure, efficient, and scalable web applications. I have a deep interest in mobile development using Ionic.
 
 
