@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I'm Juan David <br>Rengifo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=QA+Engineer;t&color=BC52EE&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=QA+Engineer;+Software+Testing+Enthusiast&color=BC52EE&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">💻I am a programmer and web developer. Programming lover looking for new projects, ideas and knowledge.</h4>
+<h4 align="center">🧪 I am a QA enthusiast and software tester in training. Passionate about ensuring quality at every stage of software development, I am always looking for new projects, ideas, and knowledge to improve testing processes.</h4>
 <br>
-After finishing high school, I began my career as a programmer by taking a full stack course at Coderhouse where I acquired part of my knowledge that currently continues to be updated daily.
+After finishing high school, I began my career in technology at CIAF, where I gained solid foundations in programming, web development, software quality, and requirements gathering. 
 <br>
-Now, while I am studying as a systems analyst at university, I am looking for all kinds of work and projects that continue to train me in what I like.
+Over time, I discovered my passion for Quality Assurance (QA), an area that allows me to combine my technical background with analytical thinking to detect, prevent, and solve problems, ensuring better user experiences.
 <br>
