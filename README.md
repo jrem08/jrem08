@@ -6,9 +6,9 @@
 <div align="center">
  <br>
     <h3>MY CREDENTIAL</h3>
-    <a href="https://juan-tamayo.vercel.app/">
-    <img src="https://img.shields.io/badge/Portafolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
+   <a href="https://link-a-tu-credencial.com" target="_blank">
+    <img src="https://img.shields.io/badge/University%20Credential-333333?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</a>
 </div>
 
 <div align="center">
