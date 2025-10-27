@@ -3,3 +3,21 @@
     <br>
     <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Juan;" />
 </div>
+<div align="center">
+    <a href="mailto:sebastiantamacuadrado2005@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+    </a> <br>
+    <h3>MY PORTAFOLIO</h3>
+    <a href="https://juan-tamayo.vercel.app/">
+    <img src="https://img.shields.io/badge/Portafolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
+
+### 🎴 About Me: 
+<br>
+💻 I specialize in: **C#, NEXTJS, REACT.JS, .NET, ANGULAR.JS, PHP, SYMFONY, LARAVEL, NODEJS, DRUPAL, REACT NATIVE, TWIG**
+
