@@ -4,10 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Juan;" />
 </div>
 <div align="center">
-    <a href="mailto:sebastiantamacuadrado2005@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
-    </a> <br>
-    <h3>MY PORTAFOLIO</h3>
+ <br>
+    <h3>MY CREDENTIAL</h3>
     <a href="https://juan-tamayo.vercel.app/">
     <img src="https://img.shields.io/badge/Portafolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
