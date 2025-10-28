@@ -17,13 +17,13 @@
 
 ### 👨🏽‍🎓 About Me: 
 <br>
-- 💻 I'm a **Junior Software Developer**, currently focused on building modern and scalable web applications.  
-<br>
-- 🚀 I’m passionate about creating efficient solutions using technologies such as **React.js and Node.js**.  
-<br>
-- 🌱 I'm always learning new tools and best practices to improve my skills as a developer.  
-<br>
-- 🎯 My goal is to keep growing professionally and contribute to projects that make a positive impact.
+Hello, I'm Juan, a passionate and multidisciplinary technology student with a strong interest in management.
+
+I graduated from CIAF in Pereira, where I am currently pursuing a degree in Software Development Technology.
+
+I have the ability to analyze, design, and develop technological solutions, applying best programming practices with a focus on quality, scalability, and user experience.
+
+I have experience in developing modern web applications using technologies such as React, Node.js, Express, and MySQL. Additionally, I am proficient with Git and GitHub for version control. I also have training in agile methodologies (Scrum), which allows me to work collaboratively and results oriented.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
