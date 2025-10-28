@@ -37,3 +37,28 @@
     </a>
 </div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
+
+### 🎴 Connect with me:   
+<br>
+<div align="center">
+
+<a href="mailto:sebastiantamacuadrado2005@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tuusuario/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://github.com/tamayo2" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/573001234567" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-333333?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
+</a>
+
+</div>
