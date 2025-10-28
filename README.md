@@ -17,13 +17,13 @@
 
 ### 🎴 About Me: 
 <br>
-💻 I'm a **Junior Software Developer**, currently focused on building modern and scalable web applications.  
+- 💻 I'm a **Junior Software Developer**, currently focused on building modern and scalable web applications.  
 <br>
-🚀 I’m passionate about creating efficient solutions using technologies such as **React.js and Node.js**.  
+- 🚀 I’m passionate about creating efficient solutions using technologies such as **React.js and Node.js**.  
 <br>
-🌱 I'm always learning new tools and best practices to improve my skills as a developer.  
+- 🌱 I'm always learning new tools and best practices to improve my skills as a developer.  
 <br>
-🎯 My goal is to keep growing professionally and contribute to projects that make a positive impact.
+- 🎯 My goal is to keep growing professionally and contribute to projects that make a positive impact.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
