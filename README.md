@@ -32,7 +32,7 @@
 <h2 align="center">🀄️ Skillset</h2>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=javascript,mysql,express,nodejs,react,git,postman,vite&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=javascript,mysql,express,nodejs,react,git,postman,vite,figma&theme=dark" />
         <img src="https://skillicons.dev/icons?i=html,css,github,vscode,bootstrap,tailwind,python&theme=dark" />
     </a>
 </div>
@@ -51,14 +51,6 @@
 
 <a href="https://www.linkedin.com/in/tuusuario/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="https://github.com/tamayo2" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/573001234567" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-333333?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
 </a>
 
 </div>
