@@ -29,7 +29,7 @@ I am a student passionate about technology and digital product management. I am 
 <div align="center">
     <a href="https://skillicons.dev">
         <img  height="40" src="https://skillicons.dev/icons?i=javascript,mysql,express,nodejs,react,git,postman,vite,figma&theme=dark" />
-        <img  height="40" src="https://skillicons.dev/icons?i=html,css,github,vscode,bootstrap,tailwind,python&theme=dark" />
+        <img  height="40" src="https://skillicons.dev/icons?i=html,css,github,vscode,bootstrap,tailwind,python,express,vscode&theme=dark" />
     </a>
 </div>
 
