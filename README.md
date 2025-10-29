@@ -17,13 +17,7 @@
 
 ### 👨🏽‍🎓 About Me: 
 <br>
-Hello, I'm Juan, a passionate and multidisciplinary technology student with a strong interest in management.
-
-I graduated from CIAF in Pereira, where I am currently pursuing a degree in Software Development Technology.
-
-I have the ability to analyze, design, and develop technological solutions, applying best programming practices with a focus on quality, scalability, and user experience.
-
-I have experience in developing modern web applications using technologies such as React, Node.js, Express, and MySQL. Additionally, I am proficient with Git and GitHub for version control. I also have training in agile methodologies (Scrum), which allows me to work collaboratively and results oriented.
+I am a student passionate about technology and digital product management. I am currently in my fifth semester of Software Engineering at CIAF. My training in this area has allowed me to develop an analytical mindset, problem solving skills, and a comprehensive understanding of organizational processes. I am motivated by continuous learning, teamwork, and applying my knowledge in real world environments to contribute innovative and efficient solutions. I consider myself a responsible and highly adaptable person.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
