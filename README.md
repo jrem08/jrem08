@@ -5,6 +5,9 @@
 </div>
 <div align="center">
  <br>
+    <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Product+Management&color=BC52EE&center=true&width=500&height=50"></a>
+</p>
     <h3>MY CREDENTIAL</h3>
    <a href="https://www.acreditta.com/credential/b4387d05-c4db-4b9b-9ec2-e6d002ffa126" target="_blank">
     <img src="https://img.shields.io/badge/University%20Credential-333333?style=for-the-badge&logo=google-scholar&logoColor=white" />
