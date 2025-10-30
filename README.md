@@ -6,20 +6,9 @@
 <div align="center">
  <br>
     <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Product+Management&color=BC52EE&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;&color=BC52EE&center=true&width=500&height=50"></a>
 </p>
-    <h3>MY CREDENTIAL</h3>
-   <a href="https://www.acreditta.com/credential/b4387d05-c4db-4b9b-9ec2-e6d002ffa126" target="_blank">
-    <img src="https://img.shields.io/badge/University%20Credential-333333?style=for-the-badge&logo=google-scholar&logoColor=white" />
-</a>
 </div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-</div>
-
-<br>
-I am a student passionate about technology and digital product management. I am currently in my fifth semester of Software Engineering at CIAF. My training in this area has allowed me to develop an analytical mindset, problem solving skills, and a comprehensive understanding of organizational processes. I am motivated by continuous learning, teamwork, and applying my knowledge in real world environments to contribute innovative and efficient solutions. I consider myself a responsible and highly adaptable person.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
@@ -28,8 +17,8 @@ I am a student passionate about technology and digital product management. I am 
 <h2 align="center">🀄️ Languages | Technologies </h2>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img  height="40" src="https://skillicons.dev/icons?i=javascript,mysql,express,nodejs,react,git,postman,vite,figma&theme=dark" />
-        <img  height="40" src="https://skillicons.dev/icons?i=html,css,github,vscode,bootstrap,tailwind,python,express,vscode&theme=dark" />
+        <img  height="40" src="https://skillicons.dev/icons?i=html,css,javascript,ts,python,react,tailwind,vite,git,github&theme=dark" />
+        <img  height="40" src="https://skillicons.dev/icons?i=mui,netlify,nodejs,express,npm,vscode,mysql,postman,figma,windows&theme=dark" />
     </a>
 </div>
 
