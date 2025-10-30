@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
-<h2 align="center">🀄️ Languages | Technologies </h2>
+<h2 align="center">🀄️ Technologies: </h2>
 <div align="center">
     <a href="https://skillicons.dev">
         <img  height="40" src="https://skillicons.dev/icons?i=html,css,javascript,ts,python,react,tailwind,vite,git,github&theme=dark" />
@@ -26,7 +26,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
-<h2 align="center">📬 Connect with me </h2>
+<h2 align="center">📬 Socials: </h2>
 <br>
 <div align="center">
 
