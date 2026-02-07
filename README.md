@@ -12,8 +12,12 @@
 
 <h2 align="center">💻 Sobre mi </h2>
 <div align="center">
-    Soy desarrollador web junior, tengo 23 años, apasionado por la tecnología y el desarrollo frontend y diseño UI/UX
-    <br> estudiante de la carrera tecnologica en Desarrollo de Software en CIAF
+    Soy desarrollador web junior, tengo 23 años, apasionado por la tecnología, el desarrollo frontend y el diseño UI/UX. 
+    <br> Actualmente soy estudiante de la carrera tecnológica en Desarrollo de Software en CIAF, donde he desarrollado una 
+    sólida mentalidad analítica, habilidades para la resolución de problemas y una visión integral de procesos técnicos y 
+    organizacionales. 
+    <br> Me caracterizo por mi motivación hacia el aprendizaje continuo, el trabajo en equipo y la aplicación práctica de mis 
+    conocimientos en entornos reales, con el objetivo de aportar soluciones innovadoras, eficientes y de alta calidad.
 </div>
 
 
