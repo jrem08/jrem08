@@ -10,7 +10,7 @@
 </p>
 </div>
 
-<h2 align="center">💻 Sobre mi </h2>
+<h2 align="center">👤 Sobre mi </h2>
 <div align="center">
     Soy desarrollador web junior, tengo 23 años, apasionado por la tecnología, el desarrollo frontend y el diseño UI/UX. 
     <br> Actualmente soy estudiante de la carrera tecnológica en Desarrollo de Software en CIAF, donde he desarrollado una 
