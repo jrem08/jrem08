@@ -27,7 +27,7 @@
     - Herramientas multiplataformas <br>
     - Sistemas operativos <br>
     - Programación web <br>
-    - Programación de redes 
+    - Programación de redes <br>
     - Bases de datos
 </div>
 
