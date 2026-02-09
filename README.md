@@ -12,10 +12,8 @@
 
 <h2 align="center">👤 Sobre mi </h2>
 <div align="left">
-    Soy desarrollador web junior y apasionado por la tecnología.
-    <br> Actualmente soy estudiante de la carrera tecnológica en Desarrollo de Software en CIAF, donde he desarrollado una 
-    sólida mentalidad analítica, habilidades para la resolución de problemas y una visión integral de procesos técnicos y 
-    organizacionales. 
+    Soy desarrollador web junior y apasionado por la tecnología, actualmente soy estudiante de la carrera tecnológica en Desarrollo de Software en CIAF, donde he desarrollado una 
+    sólida mentalidad analítica, habilidades para la resolución de problemas y una visión integral de procesos técnicos y organizacionales. 
     <br> Me caracterizo por mi motivación hacia el aprendizaje continuo, el trabajo en equipo y la aplicación práctica de mis 
     conocimientos en entornos reales, con el objetivo de aportar soluciones innovadoras, eficientes y de alta calidad.
 </div>
