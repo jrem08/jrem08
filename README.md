@@ -24,11 +24,11 @@
 
 <h2 align="center">📚 Conocimientos </h2>
 <div align="left">
-    - Herramientas multiplataformas <br>
-    - Sistemas operativos <br>
-    - Programación web <br>
-    - Programación de redes <br>
-    - Bases de datos
+    🧰 Herramientas multiplataformas <br>
+    💻 Sistemas operativos <br>
+    🌐 Programación web <br>
+    🌍 Programación de redes <br>
+    🗄️ Bases de datos
 </div>
 
 <div align="center">
