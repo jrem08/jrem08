@@ -37,7 +37,7 @@
 
 <h2 align="center">📚 Certificaciones </h2>
 <div align="left">
-🎓 Seminario base de datos <br>
+🎓 Seminario base de datos Oracle<br>
 📍 CIAF Educación Superior <br>
 🔗 Ver certificado: <a href="https://ciaf.digital/files/certificados/2025-10-30-JUAN%20DAVID%20RENGIFO%20MEDRANDA.pdf" target="_blank">Ver certificado</a>
 </div>
