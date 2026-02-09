@@ -11,7 +11,7 @@
 </div>
 
 <h2 align="center">👤 Sobre mi </h2>
-<div align="center">
+<div align="left">
     Soy desarrollador web junior y apasionado por la tecnología.
     <br> Actualmente soy estudiante de la carrera tecnológica en Desarrollo de Software en CIAF, donde he desarrollado una 
     sólida mentalidad analítica, habilidades para la resolución de problemas y una visión integral de procesos técnicos y 
