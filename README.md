@@ -85,7 +85,7 @@
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
 </a>
 
-<a href="https://www.linkedin.com/in/juan-david-r-42a5b4381?" target="_blank">
+<a href="https://www.linkedin.com/in/juan-rengifo-42a5b4381/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
