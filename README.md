@@ -28,6 +28,7 @@
     - Sistemas operativos <br>
     - Programación web <br>
     - Programación de redes 
+    - Bases de datos
 </div>
 
 
