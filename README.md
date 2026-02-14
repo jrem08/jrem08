@@ -24,7 +24,7 @@
 
 <h2 align="center">📚 Conocimientos </h2>
 <div align="left">
-    🧰 Herramientas multiplataformas <br>
+    🧰 Herramientas multiplataformas Redes II<br>
     💻 Sistemas operativos <br>
     🌐 Programación web <br>
     🌍 Programación de redes <br>
