@@ -22,13 +22,18 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
-<h2 align="center">📚 Conocimientos </h2>
+<h2 align="center">📚 Educación </h2>
 <div align="left">
-    🧰 Herramientas multiplataformas Redes II<br>
-    💻 Sistemas operativos <br>
-    🌐 Programación web <br>
-    🌍 Programación de redes <br>
-    🗄️ Bases de datos
+     <ul>
+          <li>🎓 Técnico Profesional en Programación de Software</li>
+          <li>📚 Tecnología en Desarrollo de Software</li>
+          <li>🛠️ Enfocado en <strong>Soporte de Software y Aplicaciones</strong></li>
+          <li>🔍 Diagnóstico y resolución de incidencias en sistemas y aplicaciones web</li>
+          <li>📊 Manejo básico de bases de datos (consultas SQL para soporte)</li>
+          <li>🔌 Pruebas y validación de APIs con Postman</li>
+          <li>📄 Documentación técnica clara y orientada a solución de problemas</li>
+          <li>🚀 En constante aprendizaje en soporte, calidad y operación de software</li>
+      </ul>
 </div>
 
 <div align="center">
@@ -37,25 +42,25 @@
 
 <h2 align="center">📚 Certificaciones </h2>
 <div align="left">
-🎓 Seminario base de datos Oracle<br>
+<li>🎓 Seminario base de datos Oracle<br></li>
 📍 CIAF Educación Superior <br>
 🔗 Ver certificado: <a href="https://ciaf.digital/files/certificados/2025-10-30-JUAN%20DAVID%20RENGIFO%20MEDRANDA.pdf" target="_blank">Ver certificado</a>
 </div>
 ---
 <div align="left">
-🎓 Cómo resolver problemas <br>
+<li>🎓 Cómo resolver problemas <br></li>
 📍 Coursera <br>
 🔗 Ver certificado: <a href="https://www.coursera.org/account/accomplishments/verify/VDWHOAGYGLL2" target="_blank">Ver certificado</a>
 </div>
 ---
 <div align="left">
-🎓 Introducción al Desarrollo de front-end <br>
+<li>🎓 Introducción al Desarrollo de front-end <br></li>
 📍 Coursera <br>
 🔗 Ver certificado: <a href="https://www.coursera.org/account/accomplishments/verify/AOD36MP82O6C" target="_blank">Ver certificado</a>
 </div>
 ---
 <div align="left">
-🎓 Técnico profesional en programación <br>
+<li>🎓 Técnico profesional en programación <br></li>
 📍 CIAF Educación Superior <br>
 🔗 Ver certificado: <a href="https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?utm_source=linkedin_profile&resource_type=badge&resource=d0308150-59a0-4751-b3b9-e12c065d2361" target="_blank">Ver certificado</a>
 </div>
@@ -68,8 +73,14 @@
 <h2 align="center">💻 Tecnologías </h2>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img  height="40" src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite,git,github&theme=dark" />
-        <img  height="40" src="https://skillicons.dev/icons?i=mui,nodejs,express,vscode,mysql,postman,figma&theme=dark" />
+       <img src="https://skillicons.dev/icons?i=html" height="45"/>
+       <img src="https://skillicons.dev/icons?i=css" height="45"/>
+       <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+       <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+       <img src="https://skillicons.dev/icons?i=figma" height="45"/>
+       <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+       <img src="https://skillicons.dev/icons?i=git" height="45"/>
+       <img src="https://skillicons.dev/icons?i=github" height="45"/>
     </a>
 </div>
 
