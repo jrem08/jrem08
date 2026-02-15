@@ -6,13 +6,13 @@
 <div align="center">
  <br>
     <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+de+Software;&color=BC52EE&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tecnólogo+en+Desarrollo;&color=BC52EE&center=true&width=500&height=50"></a>
 </p>
 </div>
 
 <h2 align="center">👤 Sobre mi </h2>
 <div align="left">
-    Soy un estudiante apasionado por la tecnología y el aseguramiento de calidad, actualmente cursando el sexto semestre de ingeniería en Software en CIAF. Mi formación en esta área complementaria me ha permitido desarrollar una 
+    Soy un estudiante apasionado por la tecnología y la ingeniería de soporte, actualmente cursando el sexto semestre de ingeniería en Software en CIAF. Mi formación en esta área complementaria me ha permitido desarrollar una 
     sólida mentalidad analítica, habilidades para la resolución de problemas y una visión integral de procesos técnicos y organizacionales. 
     <br> Me caracterizo por mi motivación hacia el aprendizaje continuo, el trabajo en equipo y la aplicación práctica de mis 
     conocimientos en entornos reales, con el objetivo de aportar soluciones innovadoras, eficientes y de alta calidad.
