@@ -76,6 +76,7 @@
        <img src="https://skillicons.dev/icons?i=html" height="45"/>
        <img src="https://skillicons.dev/icons?i=css" height="45"/>
        <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+       <img src="https://skillicons.dev/icons?i=react" height="45"/>
        <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
        <img src="https://skillicons.dev/icons?i=figma" height="45"/>
        <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
@@ -84,6 +85,7 @@
        <img src="https://skillicons.dev/icons?i=windows" height="45"/>
        <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
        <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+       <img src="https://skillicons.dev/icons?i=linux" height="45"/>
     </a>
 </div>
 
