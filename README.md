@@ -40,7 +40,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
-<h2 align="center">📚 Certificaciones </h2>
+<h2 align="center">📑 Certificaciones </h2>
 <div align="left">
 <li>🎓 Seminario base de datos Oracle<br></li>
 📍 CIAF Educación Superior <br>
@@ -81,6 +81,9 @@
        <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
        <img src="https://skillicons.dev/icons?i=git" height="45"/>
        <img src="https://skillicons.dev/icons?i=github" height="45"/>
+       <img src="https://skillicons.dev/icons?i=windows" height="45"/>
+       <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+       <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
     </a>
 </div>
 
