@@ -27,7 +27,7 @@
      <ul>
           <li>🎓 Técnico Profesional en Programación de Software</li>
           <li>📚 Tecnología en Desarrollo de Software</li>
-          <li>🛠️ Enfocado en <strong>Soporte de Software y Aplicaciones</strong></li>
+          <li>🛠️ Me especializo en <strong>Soporte de Software y Aplicaciones</strong></li>
           <li>🔍 Diagnóstico y resolución de incidencias en sistemas y aplicaciones web</li>
           <li>📊 Manejo básico de bases de datos (consultas SQL para soporte)</li>
           <li>🔌 Pruebas y validación de APIs con Postman</li>
