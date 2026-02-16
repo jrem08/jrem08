@@ -12,7 +12,7 @@
 
 <h2 align="center">👤 Sobre mi </h2>
 <div align="left">
-    Soy un estudiante apasionado por la tecnología y la ingeniería de soporte, actualmente cursando el sexto semestre de ingeniería en Software en CIAF. Mi formación en esta área complementaria me ha permitido desarrollar una 
+    Soy un estudiante apasionado por la tecnología y el soporte de software, actualmente cursando el sexto semestre de ingeniería en Software en CIAF. Mi formación en esta área complementaria me ha permitido desarrollar una 
     sólida mentalidad analítica, habilidades para la resolución de problemas y una visión integral de procesos técnicos y organizacionales. 
     <br> Me caracterizo por mi motivación hacia el aprendizaje continuo, el trabajo en equipo y la aplicación práctica de mis 
     conocimientos en entornos reales, con el objetivo de aportar soluciones innovadoras, eficientes y de alta calidad.
