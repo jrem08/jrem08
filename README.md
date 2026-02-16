@@ -36,35 +36,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
-<h2 align="center">📑 Certificaciones </h2>
-<div align="left">
-<li>🎓 Seminario base de datos Oracle<br></li>
-📍 CIAF Educación Superior <br>
-🔗 Ver certificado: <a href="https://ciaf.digital/files/certificados/2025-10-30-JUAN%20DAVID%20RENGIFO%20MEDRANDA.pdf" target="_blank">Click aquí</a>
-</div>
----
-<div align="left">
-<li>🎓 Cómo resolver problemas <br></li>
-📍 Coursera <br>
-🔗 Ver certificado: <a href="https://www.coursera.org/account/accomplishments/verify/VDWHOAGYGLL2" target="_blank">Click aquí</a>
-</div>
----
-<div align="left">
-<li>🎓 Introducción al Desarrollo de front-end <br></li>
-📍 Coursera <br>
-🔗 Ver certificado: <a href="https://www.coursera.org/account/accomplishments/verify/AOD36MP82O6C" target="_blank">Click aquí</a>
-</div>
----
-<div align="left">
-<li>🎓 Técnico profesional en programación <br></li>
-📍 CIAF Educación Superior <br>
-🔗 Ver certificado: <a href="https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?utm_source=linkedin_profile&resource_type=badge&resource=d0308150-59a0-4751-b3b9-e12c065d2361" target="_blank">Click aquí</a>
-</div>
-
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-</div>
 
 <h2 align="center">💻 Tecnologías </h2>
 <div align="center">
