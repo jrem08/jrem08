@@ -44,25 +44,25 @@
 <div align="left">
 <li>🎓 Seminario base de datos Oracle<br></li>
 📍 CIAF Educación Superior <br>
-🔗 Ver certificado: <a href="https://ciaf.digital/files/certificados/2025-10-30-JUAN%20DAVID%20RENGIFO%20MEDRANDA.pdf" target="_blank">Ver certificado</a>
+🔗 Ver certificado: <a href="https://ciaf.digital/files/certificados/2025-10-30-JUAN%20DAVID%20RENGIFO%20MEDRANDA.pdf" target="_blank">Click aquí</a>
 </div>
 ---
 <div align="left">
 <li>🎓 Cómo resolver problemas <br></li>
 📍 Coursera <br>
-🔗 Ver certificado: <a href="https://www.coursera.org/account/accomplishments/verify/VDWHOAGYGLL2" target="_blank">Ver certificado</a>
+🔗 Ver certificado: <a href="https://www.coursera.org/account/accomplishments/verify/VDWHOAGYGLL2" target="_blank">Click aquí</a>
 </div>
 ---
 <div align="left">
 <li>🎓 Introducción al Desarrollo de front-end <br></li>
 📍 Coursera <br>
-🔗 Ver certificado: <a href="https://www.coursera.org/account/accomplishments/verify/AOD36MP82O6C" target="_blank">Ver certificado</a>
+🔗 Ver certificado: <a href="https://www.coursera.org/account/accomplishments/verify/AOD36MP82O6C" target="_blank">Click aquí</a>
 </div>
 ---
 <div align="left">
 <li>🎓 Técnico profesional en programación <br></li>
 📍 CIAF Educación Superior <br>
-🔗 Ver certificado: <a href="https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?utm_source=linkedin_profile&resource_type=badge&resource=d0308150-59a0-4751-b3b9-e12c065d2361" target="_blank">Ver certificado</a>
+🔗 Ver certificado: <a href="https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?utm_source=linkedin_profile&resource_type=badge&resource=d0308150-59a0-4751-b3b9-e12c065d2361" target="_blank">Click aquí</a>
 </div>
 
 
