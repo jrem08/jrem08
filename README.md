@@ -83,7 +83,6 @@
        <img src="https://skillicons.dev/icons?i=github" height="45"/>
        <img src="https://skillicons.dev/icons?i=windows" height="45"/>
        <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
-       <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
        <img src="https://skillicons.dev/icons?i=linux" height="45"/>
     </a>
 </div>
