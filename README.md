@@ -28,7 +28,7 @@
           <li>🎓 Técnico Profesional en Programación de Software</li>
           <li>📚 Tecnología en Desarrollo de Software</li>
           <li>🛠️ Me especializo en pruebas de Software</li>
-          <li>📍 Abierto a trabajo remoto</li>
+          <li>📍 Abierto a trabajo remoto o híbrido</li>
       </ul>
 </div>
 
