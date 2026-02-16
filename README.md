@@ -12,7 +12,7 @@
 
 <h2 align="center">👤 Sobre mi </h2>
 <div align="left">
-    Soy un estudiante apasionado por la tecnología y el soporte de software, actualmente cursando el sexto semestre de ingeniería en Software en CIAF. Mi formación en esta área complementaria me ha permitido desarrollar una 
+    Soy un estudiante apasionado por la tecnología y las pruebas de software (QA), actualmente cursando el sexto semestre de ingeniería en Software en CIAF. Mi formación en esta área complementaria me ha permitido desarrollar una 
     sólida mentalidad analítica, habilidades para la resolución de problemas y una visión integral de procesos técnicos y organizacionales. 
     <br> Me caracterizo por mi motivación hacia el aprendizaje continuo, el trabajo en equipo y la aplicación práctica de mis 
     conocimientos en entornos reales, con el objetivo de aportar soluciones innovadoras, eficientes y de alta calidad.
@@ -27,12 +27,8 @@
      <ul>
           <li>🎓 Técnico Profesional en Programación de Software</li>
           <li>📚 Tecnología en Desarrollo de Software</li>
-          <li>🛠️ Me especializo en <strong>Soporte de Software y Aplicaciones</strong></li>
-          <li>🔍 Diagnóstico y resolución de incidencias en sistemas y aplicaciones web</li>
-          <li>📊 Manejo básico de bases de datos (consultas SQL para soporte)</li>
-          <li>🔌 Pruebas y validación de APIs con Postman</li>
-          <li>📄 Documentación técnica clara y orientada a solución de problemas</li>
-          <li>🚀 En constante aprendizaje en soporte, calidad y operación de software</li>
+          <li>🛠️ Me especializo en pruebas de software</li>
+          <li>📍 Abierto a trabajo remoto</li>
       </ul>
 </div>
 
@@ -76,9 +72,12 @@
        <img src="https://skillicons.dev/icons?i=html" height="45"/>
        <img src="https://skillicons.dev/icons?i=css" height="45"/>
        <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+       <img src="https://skillicons.dev/icons?i=python" height="45"/>
        <img src="https://skillicons.dev/icons?i=react" height="45"/>
        <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-       <img src="https://skillicons.dev/icons?i=figma" height="45"/>
+       <img src="https://skillicons.dev/icons?i=postman" height="45"/>
+       <img src="https://skillicons.dev/icons?i=cypress" height="45"/>
+        <img src="https://skillicons.dev/icons?i=selenium" height="45"/>
        <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
        <img src="https://skillicons.dev/icons?i=git" height="45"/>
        <img src="https://skillicons.dev/icons?i=github" height="45"/>
