@@ -16,9 +16,9 @@ Curious and self-taught, I love exploring **emerging technologies** such as Arti
 
 ## 🚀 Tech Stack
 
-| C# | .NET | Rider | MySQL | Git | GitHub | Linux | Postman |
+| Python | JavaScript | Node.js | MySQL | Git | GitHub | Linux | Postman |
 |----|------|-------|-------|-----|--------|-------|---------|
-| <img src="https://skillicons.dev/icons?i=cs" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=rider" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=postman" width="48" height="48"/> |
+| <img src="https://skillicons.dev/icons?i=python" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=postman" width="48" height="48"/> |
 
 ---
 
