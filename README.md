@@ -1,6 +1,6 @@
 # Juan David Rengifo
 
-**Software Engineering | Software Developer | Frontend Developer | Python Specialist**
+**Software Engineering | Software Developer | Backend Developer | Python Specialist**
 
 📧 [medrandajuan843@gmail.com](mailto:medrandajuan843qgmail.com) • 🌐 [LinkedIn](https://www.linkedin.com/in/juan-rengifo-42a5b4381/)
 
