@@ -9,18 +9,18 @@
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
     </a> 
     <br>
-  
-<h3>MY LINKEDIN</h3>
+
+ ----
+
 <a href="https://www.linkedin.com/in/TU-USUARIO-AQUI/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
-   
+
+   <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=8A2BE2&size=22&center=true&vCenter=true&width=600&height=50&duration=2800&lines=Web+Developer;Mobile+Developer;IT+Support;Marketing;UX+Designer" />
 </div>
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=F7F7F7&random=false&width=490&lines=The+best+way+to+predict+the+future+is+to+program+it.+;La+mejor+forma+de+predecir+el+futuro+es+programarlo.+)](https://02ip.ru/applepie)
-</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
