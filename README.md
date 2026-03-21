@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-333333?style=for-the-badge&logo=vercel&logoColor=white"/>
     <br><br>
 
- <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=8A2BE2&size=22&center=true&vCenter=true&width=600&height=50&duration=2800&lines=Software+Developer;" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=8A2BE2&size=22&center=true&vCenter=true&width=600&height=50&duration=2800&lines=Software+Developer;Multimedia+Developer" />
 </div>
 
 <div align="center">
