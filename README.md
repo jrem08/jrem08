@@ -5,22 +5,11 @@
 </div>
 
 <div align="center">
-    <a href="mailto:medrandajuan843@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
-    </a> 
-    <br>
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-333333?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <br><br>
 
- ----
-
-<a href="https://www.linkedin.com/in/TU-USUARIO-AQUI/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-
-   <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=8A2BE2&size=22&center=true&vCenter=true&width=600&height=50&duration=2800&lines=Web+Developer;Mobile+Developer;IT+Support;Marketing;UX+Designer" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=8A2BE2&size=22&center=true&vCenter=true&width=600&height=50&duration=2800&lines=Software+Developer;" />
 </div>
-
-<div align="center">
-    
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
@@ -29,26 +18,41 @@
 ### 🎴 About Me:
 <br>
 
-Soy un estudiante apasionado por la tecnología, con enfoque en el desarrollo frontend, donde cuento con sólidos conocimientos en HTML5, CSS, JavaScript (ES6+) y TypeScript, así como React.  
+Soy *Técnico Profesional en Programación de Software, con formación en el desarrollo de código de programación y en la creación de **páginas web dinámicas, aplicando **lógica de programación, **algoritmos, **estructuras de datos* y *buenas prácticas*.
 
-Más allá del frontend, poseo sólidos conocimientos en desarrollo backend, utilizando Node.js con Express y Python para construir aplicaciones web seguras, eficientes y escalables.  
+Tengo experiencia académica utilizando *Java, JavaScript y Python, así como en el uso de **Git para control de versiones* y la elaboración de *documentación técnica clara y organizada*. Me enfoco en escribir código estructurado, comprensible y fácil de mantener.
 
-Tengo un fuerte interés por la calidad de software (QA), con enfoque en pruebas funcionales, validación de requerimientos y aseguramiento del correcto funcionamiento de las aplicaciones.  
+Me caracterizo por mi *pensamiento crítico*, capacidad de análisis y resolución de problemas técnicos, además de una buena adaptación a nuevas tecnologías y entornos de desarrollo.
 
-Adicionalmente, tengo interés en aprender desarrollo móvil, utilizando Flutter para la creación de aplicaciones multiplataforma, con el objetivo de ampliar mi perfil hacia soluciones completas y versátiles.
+Actualmente me encuentro construyendo proyectos académicos y prácticos para fortalecer mis bases en desarrollo de software, desarrollo web y soporte de aplicaciones.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
-<h2 align="center">🀄️ Languages | Frameworks </h2>
+<h2 align="center">🀄️ Languages | Tools | Fundamentals</h2>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=javascript,typescript,mysql,express,angular,nodejs,react,git,jquery,linux,php&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=html,css,java,github,vscode,bootstrap,vue,c,cs,cpp,dotnet,azure,powershell,bash,wordpress&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=java,javascript,python,html,css,git,github,mysql,vscode&theme=dark" />
     </a>
 </div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
+
+### 📫 Contact & Links
+<div align="center">
+    <a href="mailto:medrandajuan843@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+    </a>
+    <a href="https://www.linkedin.com/in/TU-USUARIO-AQUI/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    </a>
+</div>
+
+---
+
+<p align="center">
+<strong>Programming is logic, analysis and building well-structured solutions.</strong>
+</p>
