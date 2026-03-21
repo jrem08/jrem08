@@ -41,8 +41,10 @@ I am currently working on academic and practical projects to strengthen my knowl
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
-### 📫 Contact & Links
+
+
 <div align="center">
+    <br>
     <a href="mailto:medrandajuan843@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
     </a>
@@ -54,5 +56,5 @@ I am currently working on academic and practical projects to strengthen my knowl
 ---
 
 <p align="center">
-<strong>Programming is logic, analysis and building well-structured solutions.</strong>
+<strong>Programming is logic, analysis and building well structured solutions.</strong>
 </p>
