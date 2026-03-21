@@ -18,13 +18,13 @@
 ### 🎴 About Me:
 <br>
 
-I am a *Professional Software Programmer*, trained in code development and the creation of **dynamic websites, applying **programming logic, **algorithms, **data structures*, and *best practices*.
+I am a professional software programmer, skilled in code development and the creation of dynamic websites, applying programming logic, algorithms, data structures, and best practices.
 
-I have academic experience using *JavaScript, and Python*, as well as using **Git for version control* and creating *clear and organized technical documentation*. I focus on writing structured, understandable, and maintainable code.
+I have academic experience in JavaScript and Python, as well as in using Git for version control and creating clear and organized technical documentation. I specialize in writing structured, understandable, and maintainable code.
 
-I am characterized by my *critical thinking*, analytical and problem-solving skills, and adaptability to new technologies and development environments.
+I am characterized by my critical thinking, analytical and problem solving skills, and adaptability to new technologies and development environments.
 
-I am currently working on academic and practical projects to strengthen my foundation in software development, web development, and application support.
+I am currently working on academic and practical projects to strengthen my knowledge in software development, web development, and application support.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
