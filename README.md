@@ -18,13 +18,13 @@
 ### 🎴 About Me:
 <br>
 
-Soy *Técnico Profesional en Programación de Software, con formación en el desarrollo de código de programación y en la creación de **páginas web dinámicas, aplicando **lógica de programación, **algoritmos, **estructuras de datos* y *buenas prácticas*.
+I am a *Professional Software Programmer*, trained in code development and the creation of **dynamic websites, applying **programming logic, **algorithms, **data structures*, and *best practices*.
 
-Tengo experiencia académica utilizando *Java, JavaScript y Python, así como en el uso de **Git para control de versiones* y la elaboración de *documentación técnica clara y organizada*. Me enfoco en escribir código estructurado, comprensible y fácil de mantener.
+I have academic experience using *JavaScript, and Python*, as well as using **Git for version control* and creating *clear and organized technical documentation*. I focus on writing structured, understandable, and maintainable code.
 
-Me caracterizo por mi *pensamiento crítico*, capacidad de análisis y resolución de problemas técnicos, además de una buena adaptación a nuevas tecnologías y entornos de desarrollo.
+I am characterized by my *critical thinking*, analytical and problem-solving skills, and adaptability to new technologies and development environments.
 
-Actualmente me encuentro construyendo proyectos académicos y prácticos para fortalecer mis bases en desarrollo de software, desarrollo web y soporte de aplicaciones.
+I am currently working on academic and practical projects to strengthen my foundation in software development, web development, and application support.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
@@ -46,7 +46,7 @@ Actualmente me encuentro construyendo proyectos académicos y prácticos para fo
     <a href="mailto:medrandajuan843@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
     </a>
-    <a href="https://www.linkedin.com/in/TU-USUARIO-AQUI/" target="_blank">
+    <a href="https://www.linkedin.com/in/juan-rengifo-42a5b4381/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
     </a>
 </div>
