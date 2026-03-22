@@ -5,8 +5,10 @@
 </div>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-333333?style=for-the-badge&logo=vercel&logoColor=white"/>
-    <br><br>
+  <a href="https://www.canva.com/design/DAGGRFZgZpE/HgeD3vug95gyTP0gMvVPxQ/edit" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Click%20Here-333333?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Click Here"/>
+  </a>
+</div>
 
  <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=8A2BE2&size=22&center=true&vCenter=true&width=600&height=50&duration=2800&lines=Full-Stack+Developer;" />
 </div>
