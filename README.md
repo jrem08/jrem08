@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.canva.com/design/DAGGRFZgZpE/HgeD3vug95gyTP0gMvVPxQ/edit?utm_content=DAGGRFZgZpE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+  <a href="https://drive.google.com/file/d/1T3CyzSIMsjIP2EQ-0dYpgJVQRVAZ_2b8/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Click%20Here-333333?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Click Here"/>
   </a>
 </div>
