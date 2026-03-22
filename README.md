@@ -10,6 +10,8 @@
   </a>
 </div>
 
+<br>
+
  <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=8A2BE2&size=22&center=true&vCenter=true&width=600&height=50&duration=2800&lines=Full-Stack+Developer;" />
 </div>
 
