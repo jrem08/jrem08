@@ -35,8 +35,7 @@ Mi objetivo profesional es evolucionar hacia un rol de Full-Stack Developer, dis
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=javascript,python,html,css,git,github,mysql,vscode,postman,nodejs,react,linux,tailwind&theme=dark" />
-            <img src="https://skillicons.dev/icons?i=figma,bootstrap,&theme=dark" />
-    </a>
+            </a>
 </div>
 
 <div align="center">
