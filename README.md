@@ -24,7 +24,7 @@
 
 Desarrollador de Software con experiencia en la creación, mantenimiento y optimización de interfaces de usuario y una fuerte pasión por la tecnología. Me especializo en desarrollo frontend, utilizando tecnologías como HTML5, CSS3, JavaScript y React, enfocado en construir experiencias digitales eficientes, intuitivas y escalables.
 Cuento además con conocimientos en desarrollo backend mediante Node.js, Express y Python, manejo de bases de datos MySQL, consumo y creación de APIs REST, y uso de Excel para la estructuración y modelado de datos.
-Más allá del desarrollo web, tengo un gran interés en el desarrollo mobile, buscando ampliar mis habilidades hacia soluciones multiplataforma.
+Más allá del desarrollo de aplicaciones web, tengo un gran interés en el desarrollo de aplicaciones móviles, buscando ampliar mis habilidades hacia soluciones multiplataforma.
 Mi objetivo profesional es evolucionar hacia un rol de Full-Stack Developer, disfruto enfrentar desafíos, resolver problemas y colaborar en equipos dinámicos para construir soluciones robustas, innovadoras y de alto impacto.
 
 <div align="center">
