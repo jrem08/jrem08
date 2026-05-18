@@ -23,7 +23,7 @@ $ cat role.txt
 $ cat certifications.txt
   ☁️  coursera -> how to solve problems                                  ·  oct 2025
   🔵  coursera -> introduction to frontend development                   ·  oct 2025
-  🌐  ciaf -> professional technician in software programming            ·  aug 2025
+  🌐  ciaf -> professional technician in software programming            ·  oct 2025
 
 $ cat stack.txt
   languages  →  python · typescript · javascript
