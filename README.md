@@ -65,7 +65,7 @@ $ cat interests.txt
 
 <div align="center">
 
-## ☁️ google cloud certified
+## ☁️ certifications
 
 <br/>
 
@@ -74,36 +74,6 @@ $ cat interests.txt
 ![Cloud Digital Leader](https://img.shields.io/badge/Cloud_Digital_Leader-a78bfa?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
-
----
-<div align="center">
-
-## 📊 github stats
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdevalen&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=9896b8&langs_count=10&hide=html,css"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 community
-
-<br/>
-
-![GDG](https://img.shields.io/badge/GDG_Medellín_Leader-a78bfa?style=for-the-badge&logo=google&logoColor=white)
-![TechFem](https://img.shields.io/badge/TechFem_Award_2025-f472b6?style=for-the-badge&logo=starship&logoColor=white)
-![CityJS](https://img.shields.io/badge/CityJS_Medellín_Volunteer-60a5fa?style=for-the-badge&logo=javascript&logoColor=white)
-![IWD](https://img.shields.io/badge/IWD_Women_Techmakers-a78bfa?style=for-the-badge&logo=google&logoColor=white)
-
-<br/>
-
-`building · leading · creating · growing ✨`
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=80&section=footer" width="100%"/>
 
