@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-p-86b3b913a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rengifo-?)
 [![GitHub](https://img.shields.io/badge/GitHub-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jrem08)
 
 </div>
@@ -61,19 +61,6 @@ $ cat interests.txt
 
 </div>
 
----
-
-<div align="center">
-
-## ☁️ certifications
-
-<br/>
-
-![Professional Cloud Developer](https://img.shields.io/badge/Professional_Cloud_Developer-fbbf24?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Associate Cloud Engineer](https://img.shields.io/badge/Associate_Cloud_Engineer-60a5fa?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Cloud Digital Leader](https://img.shields.io/badge/Cloud_Digital_Leader-a78bfa?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=80&section=footer" width="100%"/>
 
