@@ -20,6 +20,16 @@ $ whoami
 $ cat role.txt
   full stack developer
 
+$ cat about_me.txt
+  as a software developer, i have experience in building modern web 
+  applications, covering both front-end and back-end. i am proactive, 
+  highly adaptable, and a continuous learner. i have solid experience 
+  with technologies like react, node.js, express, and typescript, as 
+  well as managing relational databases with mysql, applying best practices 
+  for structuring and optimization. additionally, i use git for collaborative 
+  work and server management. my focus is on creating scalable, 
+  maintainable, and high-quality solutions.
+
 $ cat certifications.txt
   ☁️  coursera -> how to solve problems                                  ·  oct 2025
   🔵  coursera -> introduction to frontend development                   ·  oct 2025
@@ -33,8 +43,8 @@ $ cat stack.txt
   databases  →  mysql · excel · postgresql
 
 $ cat interests.txt
-  it support · web design · edit videos
-  marketing · Advertising design 
+  it support · web design · Advertising design
+
 ```
 
 ---
