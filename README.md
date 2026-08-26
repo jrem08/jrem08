@@ -51,16 +51,16 @@
 
 ### 📜 Certificaciones
 
-* **CS50: Introduction to Computer Science** - Harvard University | [Curso](https://pll.harvard.edu/course/cs50-introduction-computer-science)
-* **Introducción al Desarrollo front-end** - Coursera | [Completado](https://www.coursera.org/account/accomplishments/verify/AOD36MP82O6C)
-* **Cómo resolver problemas y tomar decisiones** - Coursera | [Completado](https://www.coursera.org/account/accomplishments/verify/VDWHOAGYGLL2)
-* **Manejo de bases de datos Oracle** - Coursera | [Completado](https://ciaf.digital/files/certificados/2025-10-30-JUAN%20DAVID%20RENGIFO%20MEDRANDA.pdf)
+* **CS50: Introduction to Computer Science** - Harvard University [Curso](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+* **Introducción al Desarrollo front-end** - Coursera [Completado](https://www.coursera.org/account/accomplishments/verify/AOD36MP82O6C)
+* **Cómo resolver problemas y tomar decisiones** - Coursera [Completado](https://www.coursera.org/account/accomplishments/verify/VDWHOAGYGLL2)
+* **Manejo de bases de datos Oracle** - Coursera [Completado](https://ciaf.digital/files/certificados/2025-10-30-JUAN%20DAVID%20RENGIFO%20MEDRANDA.pdf)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
-<h2 align="center">🀄️ Lenguajes | Herramientas|</h2>
+<h2 align="center">🀄️ Lenguajes | Herramientas</h2>
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=javascript,mysql,express,nodejs,react,git,python&theme=dark" />
