@@ -24,7 +24,7 @@
 
 ### 🎴 Acerca de mí: 
 
-¡Hola! Soy Juan Rengifo, desarrollador y creador de tecnología. Me especializo en desarrollo web, enfocándome principalmente en la creación de aplicaciones. El mundo tecnológico me ha fascinado desde los 14 años. Más allá del desarrollo de software, me interesa profundamente el marketing digital. Mi objetivo es desafiar los límites de lo posible en el espacio digital mediante la construcción de software robusto.
+¡Hola! Soy Juan Rengifo, estudiante y creador de tecnología. Me especializo en desarrollo web, enfocándome principalmente en frontend. Aunque tengo sólidos conocimientos en backend. El mundo tecnológico me ha fascinado desde los 14 años. Más allá del desarrollo de software, me interesa profundamente el marketing digital. Mi objetivo es desafiar los límites de lo posible en el espacio digital mediante la construcción de software robusto.
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
