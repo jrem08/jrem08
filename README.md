@@ -24,7 +24,10 @@
 
 ### 🎴 Acerca de mí: 
 
-¡Hola! Soy Juan, estudiante y creador de tecnología apasionado por el desarrollo de software. Mi enfoque principal está en el desarrollo Backend utilizando Python, aprovechando su versatilidad para construir arquitecturas robustas, escalables y eficientes. Cuento con una base sólida en el desarrollo de interfaces web dinámicas mediante HTML, CSS, JavaScript y React, lo que me permite colaborar eficazmente en todo el ciclo de vida del software y entender el producto de principio a fin. Además, me interesa profundamente el marketing digital, combinando la visión estratégica de negocio con la capacidad técnica necesaria para construir soluciones que desafíen los límites de lo posible en el entorno digital.
+Soy un estudiante apasionado por la tecnología y el backend. Mi enfoque principal esta en diseñar y desarrollar
+aplicaciones backend con Python. Cuento con solidos conocimientos con FastAPI, aplicando arquitectura cliente-servidor, HTPP y principios REST. Asimismo como el manejo de bases de datos relacionados como MySQL.
+También cuento con conocimientos en construir interfaces web con HTML, CSS, JavaScript, React y Postman para probar, documentar y presentar soluciones funcionales. Asi como en el manejo de control de versiones Git y
+GitHub para el trabajo en equipo.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
