@@ -24,7 +24,8 @@
 
 ### 🎴 Acerca de mí: 
 
-¡Hola! Soy Juan Rengifo, estudiante y creador de tecnología. Me especializo en desarrollo web, enfocándome principalmente en backend. Aunque tengo sólidos conocimientos en frontend. El mundo tecnológico me ha fascinado desde los 14 años. Más allá del desarrollo de software, me interesa profundamente el marketing digital. Mi objetivo es desafiar los límites de lo posible en el espacio digital mediante la construcción de software robusto.
+¡Hola! Soy Juan, estudiante y creador de tecnología apasionado por el desarrollo de software. Mi enfoque principal está en el desarrollo Backend utilizando Python, aprovechando su versatilidad para construir arquitecturas robustas, escalables y eficientes. Cuento con una base sólida en el desarrollo de interfaces web dinámicas mediante HTML, CSS, JavaScript y React, lo que me permite colaborar eficazmente en todo el ciclo de vida del software y entender el producto de principio a fin. Además, me interesa profundamente el marketing digital, combinando la visión estratégica de negocio con la capacidad técnica necesaria para construir soluciones que desafíen los límites de lo posible en el entorno digital.
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
