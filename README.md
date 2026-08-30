@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="400" />
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola,+Soy+Juan;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+I'm+Juan;Backend+Engineer;" />
 </div>
 
 <div align="center">
@@ -9,9 +9,9 @@
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
     </a>
     <br><br>
-    <span><strong>⚡ Conectemos en LinkedIn! 🚀 👇</strong></span>
+    <span><strong>⚡ Let's connect on LinkedIn! 🚀 👇</strong></span>
     <br><br>
-    <a href="www.linkedin.com/in/juan-rengifo-?" target="_blank">
+    <a href="https://www.linkedin.com/in/juan-rengifo-?" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </div>
@@ -22,52 +22,52 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
-### 🎴 Acerca de mí: 
+### 🎴 About Me: 
 
-Soy un estudiante apasionado por la tecnología y el backend. Mi enfoque principal esta en diseñar y desarrollar
-aplicaciones backend con Python. Cuento con solidos conocimientos con FastAPI, aplicando arquitectura cliente-servidor, HTPP y principios REST. Asimismo como el manejo de bases de datos relacionados como MySQL.
-También cuento con conocimientos en construir interfaces web con HTML, CSS, JavaScript, React y Postman para probar, documentar y presentar soluciones funcionales. Asi como en el manejo de control de versiones Git y
-GitHub para el trabajo en equipo.
+Developer focused on the **design and construction of backend applications using Python**. Experienced in **REST API** development with **FastAPI**, applying client-server architecture, efficient HTTP protocol handling, and data persistence in relational databases such as **MySQL**.
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-</div>
-
-### 📚 Educación
-
-* **Técnico Profesional en Programación de Software** - [Egresado](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?utm_source=linkedin_profile&resource_type=badge&resource=d0308150-59a0-4751-b3b9-e12c065d2361)
-* **Tenología en Desarrollo de Software** - [Curso](https://www.ciaf.edu.co/software)
-* **Profesional en Ingeniería de Software** - [Curso](https://www.ciaf.edu.co/software)
-
+Additionally, I have experience integrating web interfaces using **HTML, CSS, JavaScript, and React**, as well as endpoint testing and documentation with **Postman**. I use **Git and GitHub** as essential tools for version control and collaborative teamwork.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
-### 💼 Experiencia laboral
+### 📜 Certifications
 
-* **Digitador** | ODEMAP Mosquera Sur
- <br>[Certificado laboral](https://drive.google.com/drive/folders/1WWkDUuvJjELYUMXJ8zfJzWxo9fyXcRra?hl=es-419)
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-</div>
-
-### 📜 Certificaciones
-
-* **CS50: Introduction to Computer Science** - Harvard University [Curso](https://pll.harvard.edu/course/cs50-introduction-computer-science)
-* **Introducción al Desarrollo front-end** - Coursera [Completado](https://www.coursera.org/account/accomplishments/verify/AOD36MP82O6C)
-* **Cómo resolver problemas y tomar decisiones** - Coursera [Completado](https://www.coursera.org/account/accomplishments/verify/VDWHOAGYGLL2)
-* **Manejo de bases de datos Oracle** - Coursera [Completado](https://ciaf.digital/files/certificados/2025-10-30-JUAN%20DAVID%20RENGIFO%20MEDRANDA.pdf)
+* **CS50: Introduction to Computer Science** - Harvard University | [View Course](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+* **Oracle Database Management** - Coursera | [View Certificate](https://ciaf.digital/files/certificados/2025-10-30-JUAN%20DAVID%20RENGIFO%20MEDRANDA.pdf)
+* **Introduction to Front-End Development** - Coursera | [View Certificate](https://www.coursera.org/account/accomplishments/verify/AOD36MP82O6C)
+* **Effective Problem Solving and Decision Making** - Coursera | [View Certificate](https://www.coursera.org/account/accomplishments/verify/VDWHOAGYGLL2)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
-<h2 align="center">🀄️ Lenguajes | Herramientas</h2>
+### 📚 Education
+
+* **Professional Technician in Software Programming** - [Graduated](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?utm_source=linkedin_profile&resource_type=badge&resource=d0308150-59a0-4751-b3b9-e12c065d2361)
+* **Associate Degree in Software Development** - [In progress](https://www.ciaf.edu.co/software)
+* **B.S. in Software Engineering** - [In progress](https://www.ciaf.edu.co/software)
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
+
+### 💼 Work Experience
+
+* **Data Entry Specialist** | ODEMAP Mosquera Sur  
+  Data management, information integrity verification, and system data entry.  
+  <a href="https://drive.google.com/drive/folders/1WWkDUuvJjELYUMXJ8zfJzWxo9fyXcRra?hl=es-419" target="_blank">📄 Employment Certificate</a>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
+
+<h2 align="center">🀄️ Languages | Tools</h2>
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=javascript,mysql,express,nodejs,react,git,python&theme=dark" />
+        <br>
         <img src="https://skillicons.dev/icons?i=html,css,github,vscode,bootstrap,tailwind,fastapi&theme=dark" />
     </a>
 </div>
