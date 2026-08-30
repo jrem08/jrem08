@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="400" />
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+I'm+Juan;Backend+Engineer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola,+soy+Juan;Ingeniero+Backend;" />
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
     </a>
     <br><br>
-    <span><strong>⚡ Let's connect on LinkedIn! 🚀 👇</strong></span>
+    <span><strong>⚡ ¡Conectemos en LinkedIn! 🚀 👇</strong></span>
     <br><br>
     <a href="https://www.linkedin.com/in/juan-rengifo-?" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -22,48 +22,48 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
-### 🎴 About Me: 
+### 🎴 Sobre mí: 
 
-Developer focused on the **design and construction of backend applications using Python**. Experienced in **REST API** development with **FastAPI**, applying client-server architecture, efficient HTTP protocol handling, and data persistence in relational databases such as **MySQL**.
+Desarrollador enfocado en el **diseño y construcción de aplicaciones backend con Python**. Con experiencia en el desarrollo de **APIs REST** con **FastAPI**, aplicando arquitectura cliente-servidor, manejo eficiente del protocolo HTTP y persistencia de datos en bases de datos relacionales como **MySQL**.
 
-Additionally, I have experience integrating web interfaces using **HTML, CSS, JavaScript, and React**, as well as endpoint testing and documentation with **Postman**. I use **Git and GitHub** as essential tools for version control and collaborative teamwork.
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-</div>
-
-### 📜 Certifications
-
-* **CS50: Introduction to Computer Science** - Harvard University | [View Course](https://pll.harvard.edu/course/cs50-introduction-computer-science)
-* **Oracle Database Management** - Coursera | [View Certificate](https://ciaf.digital/files/certificados/2025-10-30-JUAN%20DAVID%20RENGIFO%20MEDRANDA.pdf)
-* **Introduction to Front-End Development** - Coursera | [View Certificate](https://www.coursera.org/account/accomplishments/verify/AOD36MP82O6C)
-* **Effective Problem Solving and Decision Making** - Coursera | [View Certificate](https://www.coursera.org/account/accomplishments/verify/VDWHOAGYGLL2)
+Adicionalmente, cuento con experiencia en la integración de interfaces web usando **HTML, CSS, JavaScript y React**, así como en la documentación y prueba de endpoints con **Postman**. Utilizo **Git y GitHub** como herramientas fundamentales para el control de versiones y el trabajo colaborativo.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
-### 📚 Education
+### 📜 Certificaciones
 
-* **Professional Technician in Software Programming** - [Graduated](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?utm_source=linkedin_profile&resource_type=badge&resource=d0308150-59a0-4751-b3b9-e12c065d2361)
-* **Associate Degree in Software Development** - [In progress](https://www.ciaf.edu.co/software)
-* **B.S. in Software Engineering** - [In progress](https://www.ciaf.edu.co/software)
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-</div>
-
-### 💼 Work Experience
-
-* **Data Entry Specialist** | ODEMAP Mosquera Sur  
-  Data management, information integrity verification, and system data entry.  
-  <a href="https://drive.google.com/drive/folders/1WWkDUuvJjELYUMXJ8zfJzWxo9fyXcRra?hl=es-419" target="_blank">📄 Employment Certificate</a>
+* **CS50: Introducción a la Ciencia de la Computación** - Universidad de Harvard | [Ver Curso](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+* **Gestión de Bases de Datos Oracle** - Coursera | [Ver Certificado](https://ciaf.digital/files/certificados/2025-10-30-JUAN%20DAVID%20RENGIFO%20MEDRANDA.pdf)
+* **Introducción al Desarrollo Front-End** - Coursera | [Ver Certificado](https://www.coursera.org/account/accomplishments/verify/AOD36MP82O6C)
+* **Resolución Efectiva de Problemas y Toma de Decisiones** - Coursera | [Ver Certificado](https://www.coursera.org/account/accomplishments/verify/VDWHOAGYGLL2)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
-<h2 align="center">🀄️ Languages | Tools</h2>
+### 📚 Educación
+
+* **Técnico Profesional en Programación de Software** - [Graduado](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?utm_source=linkedin_profile&resource_type=badge&resource=d0308150-59a0-4751-b3b9-e12c065d2361)
+* **Tecnología en Desarrollo de Software** - [En curso](https://www.ciaf.edu.co/software)
+* **Ingeniería de Software** - [En curso](https://www.ciaf.edu.co/software)
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
+
+### 💼 Experiencia Laboral
+
+* **Especialista de Digitación de Datos** | ODEMAP Mosquera Sur  
+  Gestión de datos, verificación de la integridad de la información e ingreso de datos al sistema.  
+  <a href="https://drive.google.com/drive/folders/1WWkDUuvJjELYUMXJ8zfJzWxo9fyXcRra?hl=es-419" target="_blank">📄 Certificado Laboral</a>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
+
+<h2 align="center">🀄️ Lenguajes | Herramientas</h2>
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=javascript,mysql,express,nodejs,react,git,python&theme=dark" />
