@@ -34,7 +34,7 @@ Ingeniero de Software enfocado en el desarrollo web Full-Stack (Python, FastAPI,
 ### 📜 Certificaciones
 
 * **CS50: Introducción a la Ciencia de la Computación** - Universidad de Harvard | [Ver Curso](https://pll.harvard.edu/course/cs50-introduction-computer-science)
-* **Gestión de Bases de Datos Oracle** - Coursera | [Ver Certificado](https://ciaf.digital/files/certificados/2025-10-30-JUAN%20DAVID%20RENGIFO%20MEDRANDA.pdf)
+* **Gestión de Bases de Datos Oracle** - Coursera | [Ver Certificado](https://ciaf.digital/files/certificados/2025-10-30-JUAN%20DAVID%20RENGIFO%20MEDRANDA.pdf)https://pll.harvard.edu/course/cs50s-introduction-programming-python
 * **Introducción al Desarrollo Front-End** - Coursera | [Ver Certificado](https://www.coursera.org/account/accomplishments/verify/AOD36MP82O6C)
 * **Resolución Efectiva de Problemas y Toma de Decisiones** - Coursera | [Ver Certificado](https://www.coursera.org/account/accomplishments/verify/VDWHOAGYGLL2)
 
@@ -54,7 +54,7 @@ Ingeniero de Software enfocado en el desarrollo web Full-Stack (Python, FastAPI,
 
 ### 💼 Experiencia Laboral
 
-* **Especialista de Digitación de Datos** | ODEMAP Mosquera Sur  
+* **Digitador de Datos** | ODEMAP Mosquera Sur  
   Gestión de datos, verificación de la integridad de la información e ingreso de datos al sistema.  
   <a href="https://drive.google.com/drive/folders/1WWkDUuvJjELYUMXJ8zfJzWxo9fyXcRra?hl=es-419" target="_blank">📄 Certificado Laboral</a>
 
