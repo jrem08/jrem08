@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="400" />
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola,+soy+Juan;Ingeniero+Backend;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola,+soy+Juan;" />
 </div>
 
 <div align="center">
@@ -24,9 +24,8 @@
 
 ### 🎴 Sobre mí: 
 
-Desarrollador enfocado en el **diseño y construcción de aplicaciones backend con Python**. Con experiencia en el desarrollo de **APIs REST** con **FastAPI**, aplicando arquitectura cliente-servidor, manejo eficiente del protocolo HTTP y persistencia de datos en bases de datos relacionales como **MySQL**.
+Ingeniero de Software enfocado en el desarrollo web Full-Stack (Python, FastAPI, Node.js, React) y la gestión de bases de datos relacionales (MySQL). Proactivo y con alta capacidad de aprendizaje, orientado a la resolución de problemas técnicos, la depuración de código (debugging), el análisis de APIs y la estructuración de consultas SQL. Destaco por mi capacidad para analizar la causa raíz de fallas en proyectos web, comunicarme eficazmente y adaptarme rápidamente a nuevos entornos tecnológicos para apoyar el mantenimiento y estabilidad del software.
 
-Adicionalmente, cuento con experiencia en la integración de interfaces web usando **HTML, CSS, JavaScript y React**, así como en la documentación y prueba de endpoints con **Postman**. Utilizo **Git y GitHub** como herramientas fundamentales para el control de versiones y el trabajo colaborativo.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
