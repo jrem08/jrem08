@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
     </a>
     <br><br>
-    <span><strong>⚡ ¡Let's connect on LinkedIn! 🚀 👇</strong></span>
+    <span><strong>⚡ ¡Let's connect! 👇</strong></span>
     <br><br>
     <a href="https://www.linkedin.com/in/juan-rengifo-?" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -29,7 +29,7 @@
 
 ### 🎴 About Me: 
 <br>
-💻 I'm a Software Engineering student at CIAF Higher Education University. I'm passionate about building modern, high-performance web interfaces that solve real-world problems. I specialize in ensuring the stability, availability, and performance of business-critical applications. My key differentiator is my background in software development: I not only identify and resolve infrastructure and log-level incidents, but I can also read code, track bugs in the stack trace, and speak the same language as engineering teams.
+💻 Software Engineer with experience in web interface development using Python, SQLAlchemy, Node.js, Express, Postman, Git, and React. I specialize in application support and manage relational databases such as MySQL, applying best practices for structuring and optimization. I am a proactive individual with a strong capacity for adaptation and continuous learning.
 
 
 <div align="center">
