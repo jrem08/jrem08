@@ -29,14 +29,43 @@
 
 ### 🎴 About Me: 
 <br>
-💻 Software Engineering Student with experience in web interface development using Python, Node.js, Express, Postman, Git, and React. I specialize in application support and relational database management, such as MySQL, applying best practices for structuring and optimization. Additionally, I have experience in the software lifecycle, addressing technical requirements and resolving incidents. I am a proactive individual with a strong capacity for adaptation and continuous learning.
+Software Engineering Student with experience in web interface development using Python, Node.js, Express, Postman, Git, and React. I specialize in application support and relational database management, such as MySQL, applying best practices for structuring and optimization. Additionally, I have experience in the software lifecycle, addressing technical requirements and resolving incidents. I am a proactive individual with a strong capacity for adaptation and continuous learning.
 
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </div>
 
+### 📚 Education
 
+* **Professional Technician in Software Programming** - [Graduated](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?utm_source=linkedin_profile&resource_type=badge&resource=d0308150-59a0-4751-b3b9-e12c065d2361)
+* **Associate Degree in Software Development** - [In progress](https://www.ciaf.edu.co/software)
+* **B.S. in Software Engineering** - [In progress](https://www.ciaf.edu.co/software)
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
+
+### 💼 Work Experience
+
+* **Data Entry** | ODEMAP Mosquera Sur  
+  Data management, information integrity verification, and system data entry.  
+  <a href="https://drive.google.com/drive/folders/1WWkDUuvJjELYUMXJ8zfJzWxo9fyXcRra?hl=es-419" target="_blank">Certificate</a>
+
+  <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
+
+### 📜 Certifications
+
+* **CS50: Introduction to Programming with Python** - Harvard University | [View Course](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+* **Oracle Database Management** - Coursera | [View Certificate](https://ciaf.digital/files/certificados/2025-10-30-JUAN%20DAVID%20RENGIFO%20MEDRANDA.pdf)
+* **Introduction to Front-End Development** - Coursera | [View Certificate](https://www.coursera.org/account/accomplishments/verify/AOD36MP82O6C)
+* **Effective Problem Solving and Decision Making** - Coursera | [View Certificate](https://www.coursera.org/account/accomplishments/verify/VDWHOAGYGLL2)
+
+    <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
 
 <h2 align="center">🀄️ Languages | Frameworks & DB's |</h2>
 <div align="center">
