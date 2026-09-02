@@ -38,9 +38,9 @@ Software Engineering Student with experience in web interface development using 
 
 ### 📚 Education
 
-* **Professional Technician in Software Programming** - [Graduated](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?utm_source=linkedin_profile&resource_type=badge&resource=d0308150-59a0-4751-b3b9-e12c065d2361)
-* **Associate Degree in Software Development** - [In progress](https://www.ciaf.edu.co/software)
-* **B.S. in Software Engineering** - [In progress](https://www.ciaf.edu.co/software)
+* **Professional Technician in Software Programming** <br>[Graduated](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?utm_source=linkedin_profile&resource_type=badge&resource=d0308150-59a0-4751-b3b9-e12c065d2361)
+* **Associate Degree in Software Development** <br> [In progress](https://www.ciaf.edu.co/software)
+* **B.S. in Software Engineering** <br> [In progress](https://www.ciaf.edu.co/software)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
@@ -57,10 +57,10 @@ Software Engineering Student with experience in web interface development using 
 
 ### 📜 Certifications
 
-* **CS50: Introduction to Programming with Python** - Harvard University | [View Course](https://pll.harvard.edu/course/cs50-introduction-computer-science)
-* **Oracle Database Management** - Coursera | [View Certificate](https://ciaf.digital/files/certificados/2025-10-30-JUAN%20DAVID%20RENGIFO%20MEDRANDA.pdf)
-* **Introduction to Front-End Development** - Coursera | [View Certificate](https://www.coursera.org/account/accomplishments/verify/AOD36MP82O6C)
-* **Effective Problem Solving and Decision Making** - Coursera | [View Certificate](https://www.coursera.org/account/accomplishments/verify/VDWHOAGYGLL2)
+* **CS50: Introduction to Programming with Python** - Harvard University <br>[View Course](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+* **Oracle Database Management** - Coursera <br> [View Certificate](https://ciaf.digital/files/certificados/2025-10-30-JUAN%20DAVID%20RENGIFO%20MEDRANDA.pdf)
+* **Introduction to Front-End Development** - Coursera <br> [View Certificate](https://www.coursera.org/account/accomplishments/verify/AOD36MP82O6C)
+* **Effective Problem Solving and Decision Making** - Coursera <br> [View Certificate](https://www.coursera.org/account/accomplishments/verify/VDWHOAGYGLL2)
 
     <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
