@@ -49,7 +49,6 @@ Software Engineering Student with experience in web interface development using 
 ### 💼 Work Experience
 
 * **Data Entry** | ODEMAP Mosquera Sur  
-  Data management, information integrity verification, and system data entry.  
   <a href="https://drive.google.com/drive/folders/1WWkDUuvJjELYUMXJ8zfJzWxo9fyXcRra?hl=es-419" target="_blank">Certificate</a>
 
   <div align="center">
