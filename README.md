@@ -29,7 +29,7 @@
 
 ### 🎴 About Me: 
 <br>
-💻 Software Engineer with experience in web interface development using Python, SQLAlchemy, Node.js, Express, Postman, Git, and React. I specialize in application support and manage relational databases such as MySQL, applying best practices for structuring and optimization. I am a proactive individual with a strong capacity for adaptation and continuous learning.
+💻 Software Engineering Student with experience in web interface development using Python, Node.js, Express, Postman, Git, and React. I specialize in application support and relational database management, such as MySQL, applying best practices for structuring and optimization. Additionally, I have experience in the software lifecycle, addressing technical requirements and resolving incidents. I am a proactive individual with a strong capacity for adaptation and continuous learning.
 
 
 <div align="center">
