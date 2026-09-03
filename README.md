@@ -39,7 +39,7 @@ I am known for my continuous learning ability, analytical thinking, and results-
 ### 📚 Education
 
 * **Professional Technician in Software Programming** - CIAF <br>[Graduated](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?utm_source=linkedin_profile&resource_type=badge&resource=d0308150-59a0-4751-b3b9-e12c065d2361)
-* **Software Development Technology** - CIAF <br> [In progress](https://www.ciaf.edu.co/software)
+* **Software Development Technology** - CIAF <br> [In progress](https://drive.google.com/drive/folders/1-113pn7jZL5YGRKg-Xk1s9ziQbhjn8rn?hl=es)
 * **Software Engineering** - CIAF <br> [In progress](https://www.ciaf.edu.co/software)
 
 <div align="center">
@@ -49,7 +49,7 @@ I am known for my continuous learning ability, analytical thinking, and results-
 ### 💼 Work Experience
 
 * **Data Entry** - ODEMAP Mosquera Sur  
-  <a href="https://drive.google.com/drive/folders/1WWkDUuvJjELYUMXJ8zfJzWxo9fyXcRra?hl=es-419" target="_blank">Certificate</a>
+  <a href="https://drive.google.com/drive/folders/1WWkDUuvJjELYUMXJ8zfJzWxo9fyXcRra?hl=es" target="_blank">Certificate</a>
 
   <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
