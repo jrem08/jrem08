@@ -29,8 +29,8 @@
 
 ### 🎴 About Me: 
 <br>
-Software Engineering Student with experience in web interface development using Python, Node.js, Express, Postman, Git, and React. I specialize in application support and relational database management, such as MySQL, applying best practices for structuring and optimization. Additionally, I have experience in the software lifecycle, addressing technical requirements and resolving incidents. I am a proactive individual with a strong capacity for adaptation and continuous learning.
-
+Software Engineering student (7th semester), interested in software development, application support, and digital marketing. I have academic experience in Python and the JavaScript ecosystem, working with technologies like React, Node.js, and Express, as well as tools like Postman, Git, and databases. 
+I am known for my continuous learning ability, analytical thinking, and results-oriented approach, with an interest in applying technology to develop solutions and solve real problems in business environments.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
