@@ -57,7 +57,7 @@ I am known for my continuous learning ability, analytical thinking, and results-
 
 ### 📜 Certifications
 
-* **CS50: Introduction to Programming with Python** - Harvard University <br>[View Course](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
+* **CS50: Introduction to Programming with Python** - Harvard University <br>[In progress](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
 * **Oracle Database Management** - Coursera <br> [View Certificate](https://ciaf.digital/files/certificados/2025-10-30-JUAN%20DAVID%20RENGIFO%20MEDRANDA.pdf)
 * **Introduction to Front-End Development** - Coursera <br> [View Certificate](https://www.coursera.org/account/accomplishments/verify/AOD36MP82O6C)
 * **Effective Problem Solving and Decision Making** - Coursera <br> [View Certificate](https://www.coursera.org/account/accomplishments/verify/VDWHOAGYGLL2)
