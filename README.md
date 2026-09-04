@@ -29,7 +29,7 @@
 
 ### 🎴 About Me: 
 <br>
-Software Engineering student (7th semester), interested in software development, application support, and digital marketing. I have academic experience in Python and the JavaScript ecosystem, working with technologies like React, Node.js, and Express, as well as tools like Postman, Git, and databases. 
+Software Engineering Student (7th semester), interested in software development, application support, and digital marketing. I have academic experience in Python and the JavaScript ecosystem, working with technologies like React, Node.js, and Express, as well as tools like Postman, Git, and databases. 
 I am known for my continuous learning ability, analytical thinking, and results-oriented approach, with an interest in applying technology to develop solutions and solve real problems in business environments.
 
 <div align="center">
