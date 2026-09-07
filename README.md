@@ -51,12 +51,12 @@ I am known for my continuous learning ability, analytical thinking, and results-
 <br>
 
 * **CS50: Introduction to Programming with Python** - Harvard University <br>[In progress](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
-* **Oracle Database Management** - Coursera <br> [View Certificate](https://ciaf.digital/files/certificados/2025-10-30-JUAN%20DAVID%20RENGIFO%20MEDRANDA.pdf)
-* **Introduction to Front-End Development** - Coursera <br> [View Certificate](https://www.coursera.org/account/accomplishments/verify/AOD36MP82O6C)
+* **Oracle Database Management** - CIAF <br> [View Certificate](https://ciaf.digital/files/certificados/2025-10-30-JUAN%20DAVID%20RENGIFO%20MEDRANDA.pdf)
+* **Introduction to Front-End Development** - Meta <br> [View Certificate](https://www.coursera.org/account/accomplishments/verify/AOD36MP82O6C)
 * **Effective Problem Solving and Decision Making** - Coursera <br> [View Certificate](https://www.coursera.org/account/accomplishments/verify/VDWHOAGYGLL2)
 * **Product Management Job Simulation** - Siemens <br> [View Certificate](https://www.theforage.com/completion-certificates/HgpPSsyQpzob6HEh9/copy-5genWYpfo5b57G7yv_HgpPSsyQpzob6HEh9_6a9ec293de60ad9e08785c9d_1788801683025_completion_certificate.pdf?trk=public_profile_see-credential)
 * **Service Desk Job Simulation** - Datacom <br> [View Certificate](https://www.theforage.com/completion-certificates/gCW7Xki5Y3vNpBmnn/5qbJ4a5aDAPqM6tHD_gCW7Xki5Y3vNpBmnn_6a9ec293de60ad9e08785c9d_1788791945570_completion_certificate.pdf?trk=public_profile_see-credential)
-* **Software Development Job Simulation** - Coursera <br> [View Certificate](https://www.theforage.com/completion-certificates/gCW7Xki5Y3vNpBmnn/L3NcyCoAjLno9d3T9_gCW7Xki5Y3vNpBmnn_6a9ec293de60ad9e08785c9d_1788796306680_completion_certificate.pdf?trk=public_profile_see-credential)
+* **Software Development Job Simulation** - Datacom <br> [View Certificate](https://www.theforage.com/completion-certificates/gCW7Xki5Y3vNpBmnn/L3NcyCoAjLno9d3T9_gCW7Xki5Y3vNpBmnn_6a9ec293de60ad9e08785c9d_1788796306680_completion_certificate.pdf?trk=public_profile_see-credential)
 
     <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
