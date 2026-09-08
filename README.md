@@ -61,6 +61,7 @@ I am known for my continuous learning ability, analytical thinking, and results-
 * **Front-End Software Engineering** - Skyscanner <br> [View Certificate](https://www.theforage.com/completion-certificates/skoQmxqhtgWmKv2pm/km4rw7dihDr3etqom_skoQmxqhtgWmKv2pm_6a9ec293de60ad9e08785c9d_1788829474016_completion_certificate.pdf?trk=public_profile_see-credential)
 * **Front-End Software Engineering** - Skyscanner <br> [View Certificate](https://www.theforage.com/completion-certificates/skoQmxqhtgWmKv2pm/km4rw7dihDr3etqom_skoQmxqhtgWmKv2pm_6a9ec293de60ad9e08785c9d_1788829474016_completion_certificate.pdf)
 * **Software Engineering** - Hewlett Packard Enterprise <br> [View Certificate](https://www.theforage.com/completion-certificates/fgHAi6dLhpRsGKyyN/da2T3WZCbMAJD7bNB_fgHAi6dLhpRsGKyyN_6a9ec293de60ad9e08785c9d_1788833668010_completion_certificate.pdf)
+* **Working as a Software Engineer at a Start Up** - Y Combinator <br> [View Certificate](https://www.theforage.com/completion-certificates/3rjEZnibAFydi6noa/oRMogWRHeewqHzA7u_3rjEZnibAFydi6noa_6a9ec293de60ad9e08785c9d_1788828331802_completion_certificate.pdf)
 
     <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
