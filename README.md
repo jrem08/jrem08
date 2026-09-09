@@ -29,7 +29,7 @@
 
 ### 🎴 About Me: 
 <br>
-Software Developer with an interest in application support. I have academic experience in Python and the JavaScript ecosystem, working with technologies such as React, Node.js, and Express, as well as tools like Postman, Git, and databases. I am characterized by my continuous learning ability, analytical thinking, and results-oriented approach, with an interest in applying technology to develop solutions and solve real-world problems in business environments.
+Junior developer interested in web and mobile application development and support. I have an academic background in Python and the JavaScript ecosystem, working with technologies such as React, Node.js, and Express, as well as tools like Postman, Git, and databases. I am characterized by my continuous learning ability, analytical thinking, and results-oriented approach, with an interest in applying technology to develop solutions and solve real-world problems in business environments.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
