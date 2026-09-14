@@ -29,7 +29,7 @@
 
 ### 🎴 Acerca de mí: 
 <br>
-Desarrollador Junior apasionado por construir soluciones web sólidas y bien estructuradas utilizando JavaScript, Python y React. Con Full interes en la automatizacion. Cuento con experiencia en APIs REST, bases de datos relacionales como MySQL, control de versiones como Git y sistemas operativos como Windows Server. Me caracterizo por ser una persona proactiva, con una solida capacidad de adaptacion y aprendizaje continuo. 
+Desarrollador Junior apasionado por construir soluciones web y sólidas y bien estructuradas utilizando JavaScript, Python y React. Con Full interes en la automatizacion. Cuento con experiencia en APIs REST, bases de datos relacionales como MySQL, control de versiones como Git y sistemas operativos como Windows Server. Me caracterizo por ser una persona proactiva, con una solida capacidad de adaptacion y aprendizaje continuo. 
 
 
 
@@ -51,7 +51,8 @@ Desarrollador Junior apasionado por construir soluciones web sólidas y bien est
 ### 📜 Certificaciones:
 <br>
 
-* **CS50: Introducción a la programación con Python** - Harvard University <br>[Completado](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
+* **CS50: Introduction to Programming with Python** - Harvard University <br>[Completado](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/course-end)
+* **CS50: Mobile App Development with React Native** - Harvard University <br>[Completado](https://learning.edx.org/course/course-v1:HarvardX+CS50M+Mobile/course-end)
 * **Introducción al desarrollo front-end** - Meta <br> [Ver certificación](https://www.coursera.org/account/accomplishments/verify/AOD36MP82O6C)
 * **Resolución de problemas y toma de decisiones** - Coursera <br> [Ver certificación](https://www.coursera.org/account/accomplishments/verify/VDWHOAGYGLL2)
 * **Product Management** - Siemens <br> [Ver certificación](https://www.theforage.com/completion-certificates/HgpPSsyQpzob6HEh9/copy-5genWYpfo5b57G7yv_HgpPSsyQpzob6HEh9_6a9ec293de60ad9e08785c9d_1788801683025_completion_certificate.pdf?trk=public_profile_see-credential)
