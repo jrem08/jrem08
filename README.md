@@ -3,7 +3,7 @@ Juan David Rengifo
 
 Software Developer 
 ---
-Hello! I'm Juan Rengifo, a junior software developer passionate about building structured, scalable web solutions using JavaScript and Python. My background includes developing REST APIs, optimizing databases like MySQL, and using Git for version control. Specialized in Level 2 (L2) Technical Support, I focus on incident diagnosis, system configuration, maintenance, and software stability. I bring a solid foundation in operating systems such as Windows and Linux, remote support tools like AnyDesk, basic Windows Server administration, command-line interfaces, and scripting with PowerShell and Bash. I am a proactive, highly adaptable individual committed to continuous learning.
+Hello! I'm Juan Rengifo, a junior software developer passionate about building structured, scalable web solutions using JavaScript and Python. My background includes developing REST APIs, optimizing databases like MySQL, and using Git for version control. Specialized in Level 2 Technical Support, I focus on incident diagnosis, system configuration, maintenance, and software stability. I bring a solid foundation in operating systems such as Windows and Linux, remote support tools like AnyDesk, basic Windows Server administration, command line interfaces, and scripting with PowerShell and Bash. I am a proactive, highly adaptable individual committed to continuous learning.
 
 * 🌍  I'm based in Pereira, Risaralda
 * 🎓  Degree obtained: [Técnico Profesional](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?)
