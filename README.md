@@ -1,14 +1,14 @@
 Juan David Rengifo
 ========================================================================================================================================================
 
-Software Developer 
+Desarrollador de software 
 ---
-Hello! I'm Juan Rengifo, a junior software developer passionate about building structured, scalable web solutions using JavaScript and Python. My background includes developing REST APIs, optimizing databases like MySQL, and using Git for version control. Specialized in Level 2 Technical Support, I focus on incident diagnosis, system configuration, maintenance, and software stability. I bring a solid foundation in operating systems such as Windows and Linux, remote support tools like AnyDesk, basic Windows Server administration, command line interfaces, and scripting with PowerShell and Bash. I am a proactive, highly adaptable individual committed to continuous learning.
+Desarrollador de software Full Stack, cuento con experiencia en el desarrollo de aplicaciones web y móviles utilizando React, Node.js, Express, JavaScript y React Native. Cuento con solidos conocimientos en MySQL, APIs REST, Postman y Git. Tengo interes en soporte técnico, cuento con sólida base en sistemas operativos como Windows y Linux utilizando Windows Server, PowerShell, Bash y Nginx. Me caracterizo por ser una persona proactiva, con gran capacidad de adaptación y aprendizaje continuo. 
 
-* 🌍  I'm based in Pereira, Risaralda
-* 🎓  Degree obtained: [Técnico Profesional](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?)
-* 🚀  I am currently studying on [CIAF](https://www.ciaf.edu.co/software)
-* 🧠  I am learning Python and FastAPI
+* 🌍  Vivo en Pereira, Risaralda
+* 🎓  Título obtenido: [Técnico Profesional](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?)
+* 🚀  Actualmente estoy estudiando en [CIAF](https://www.ciaf.edu.co/software)
+* 🧠  Estoy aprendiendo Soporte IT
 
 
 Skills 
