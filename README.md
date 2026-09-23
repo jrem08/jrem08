@@ -16,6 +16,7 @@ Desarrollador de software Full Stack, cuento con experiencia en el desarrollo de
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=javascript,mysql,nodejs,react,git,linux,python&theme=dark" />
         <img src="https://skillicons.dev/icons?i=html,css,github,vscode,bootstrap,powershell,bash&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=postman,windows,materialui,express,npm,notion,tailwind&theme=dark" />
     </a>
 </div>
 </div>
