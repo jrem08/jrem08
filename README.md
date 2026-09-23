@@ -3,7 +3,7 @@ Juan David Rengifo
 
 Desarrollador de software 
 ---
-Desarrollador de software Full Stack, cuento con experiencia en el desarrollo de aplicaciones web y móviles utilizando React, Node.js, Express, JavaScript y React Native. Cuento con solidos conocimientos en MySQL, APIs REST, Postman y Git. Tengo interes en soporte técnico, cuento con sólida base en sistemas operativos como Windows y Linux utilizando Windows Server, PowerShell, Bash y Nginx. Me caracterizo por ser una persona proactiva, con gran capacidad de adaptación y aprendizaje continuo. 
+Desarrollador de software Full Stack, cuento con experiencia en el desarrollo de aplicaciones web y móviles utilizando React, Node.js, Express, JavaScript y React Native. Cuento con sólidos conocimientos en MySQL, APIs REST, Postman y Git. Tengo interés en soporte técnico, cuento con sólida base en sistemas operativos como Windows y Linux utilizando Windows Server, PowerShell, Bash y Nginx. Me caracterizo por ser una persona proactiva, con gran capacidad de adaptación y aprendizaje continuo. 
 
 * 🌍  Vivo en Pereira, Risaralda
 * 🎓  Título obtenido: [Técnico Profesional](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?)
@@ -11,7 +11,7 @@ Desarrollador de software Full Stack, cuento con experiencia en el desarrollo de
 * 🧠  Estoy aprendiendo Soporte IT
 
 
-Skills 
+Habilidades 
 ----
 <div align="left">
     <a href="https://skillicons.dev">
