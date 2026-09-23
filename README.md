@@ -11,6 +11,7 @@ Desarrollador de software Full Stack, cuento con experiencia en el desarrollo de
 
 
 Habilidades 
+
 ----
 <div align="left">
     <a href="https://skillicons.dev">
@@ -19,7 +20,6 @@ Habilidades
     </a>
 </div>
 </div>
-<div align="center"> <br>
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=F7F7F7&random=false&width=490&lines=The+best+way+to+predict+the+future+is+to+program+it.+;La+mejor+forma+de+predecir+el+futuro+es+programarlo.+)](https://02ip.ru/applepie)
-</div>
+
+---
+
