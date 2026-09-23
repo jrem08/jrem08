@@ -1,7 +1,6 @@
-Juan David Rengifo
-========================================================================================================================================================
+<h1 align="center">Hola 👋, Soy Juan </h1>
+<h3 align="center">Ing de Software</h3>
 
-Desarrollador de software 
 ---
 Desarrollador de software Full Stack, cuento con experiencia en el desarrollo de aplicaciones web y móviles utilizando React, Node.js, Express, JavaScript y React Native. Cuento con sólidos conocimientos en MySQL, APIs REST, Postman y Git. Tengo interés en soporte técnico, cuento con sólida base en sistemas operativos como Windows y Linux utilizando Windows Server, PowerShell, Bash y Nginx. Me caracterizo por ser una persona proactiva, con gran capacidad de adaptación y aprendizaje continuo. 
 
