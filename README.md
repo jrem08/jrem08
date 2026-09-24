@@ -2,13 +2,13 @@
 <h3 align="center">Frontend Engineer </h3>
 
 ---
-Ingeniero frontend, cuento con experiencia en el desarrollo de aplicaciones web utilizando React, Redux, Tailwind, Bootstrap y JavaScript. Cuento con sólidos conocimientos desarrollo backend utilizando Node.js, Express, APIs REST y Postman. Asi como en el manejo de base de datos relacionales como MySQL y control de versiones como Git. Tengo full interes en QA, garantizando la calidad, el rendimiento y la estabilidad de las aplicaciones mediante la detección de errores y la funcionalidad de las aplicaciones. Me caracterizo por ser una persona proactiva, con gran capacidad de adaptación y aprendizaje continuo. 
+Frontend Engineer with experience developing web applications using React, Redux, Tailwind, Bootstrap, and JavaScript. I have a strong background in backend development using Node.js, Express, REST APIs, and Postman, as well as relational database management systems like MySQL and version control systems like Git. I am particularly interested in Quality Assurance (QA), ensuring the quality, performance, and stability of applications through bug detection and functionality testing. I am a proactive individual with a strong capacity for adaptation and continuous learning.
 
-* 🌍  Vivo en Pereira, Risaralda
-* 🎓  Título obtenido [Técnico Profesional](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?)
-* 💻  Trabajé en  [ODEMAP Mosquera Sur](https://drive.google.com/drive/folders/1WWkDUuvJjELYUMXJ8zfJzWxo9fyXcRra?hl=es-419)
-* 🚀  Estudiante de 7º semestre en [CIAF](https://www.ciaf.edu.co/software)
-* 🧠  Estoy aprendiendo Python  
+* 🌍  I'm based in Pereira, Risaralda
+* 🎓  Title obtained [Técnico Profesional](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?)
+* 💻  Worked at  [ODEMAP Mosquera Sur](https://drive.google.com/drive/folders/1WWkDUuvJjELYUMXJ8zfJzWxo9fyXcRra?hl=es-419)
+* 🚀  Currently studying at [CIAF](https://www.ciaf.edu.co/software)
+* 🧠  I'm learning English 🇺🇸
 
 
 
