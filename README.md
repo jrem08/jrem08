@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I´m Juan </h1>
-<h3 align="center">Full-Stack Engineer </h3>
+<h3 align="center">Development Engineer </h3>
 
 ---
-Full-Stack Engineer with experience developing web applications using React, Redux, Tailwind, Bootstrap, and JavaScript. I have a strong background in backend development using Node.js, Express, REST APIs, and Postman, as well as relational database management systems like MySQL and version control systems like Git. I am particularly interested in Quality Assurance, ensuring the quality, performance, and stability of applications through bug detection and functionality testing. I am a proactive individual with a strong capacity for adaptation and continuous learning.
+Development Engineer with experience in building modern web applications across both front-end and back-end development. Proficient in technologies and languages including Node.js, Express, JavaScript, Postman, and React, alongside relational databases like MySQL and version control systems using Git. Particularly focused on Quality Assurance, ensuring application stability, performance, and reliability through continuous error detection and functional testing. Proactive professional with strong adaptability and a commitment to continuous learning.
+
+Versión optimizada
 
 * 🌍  I'm based in Pereira, Risaralda
 * 🎓  Title obtained [Técnico Profesional](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?)
