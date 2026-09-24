@@ -1,8 +1,8 @@
-<h1 align="center">Hola 👋, Soy Juan </h1>
-<h3 align="center">Ing de Software </h3>
+<h1 align="center">Hi 👋, I´m Juan </h1>
+<h3 align="center">Frontend Engineer </h3>
 
 ---
-Desarrollador de software Full Stack, cuento con experiencia en el desarrollo de aplicaciones web y móviles utilizando React, Node.js, Express, JavaScript y React Native. Cuento con sólidos conocimientos en MySQL, APIs REST, Postman y Git. Me especializo en pruebas de Software (QA), garantizando la calidad, el rendimiento y la estabilidad de las aplicaciones mediante la detección de errores y la funcionalidad tanto en web como en móvil. Me caracterizo por ser una persona proactiva, con gran capacidad de adaptación y aprendizaje continuo. 
+Ingeniero frontend, cuento con experiencia en el desarrollo de aplicaciones web utilizando React, Redux, Tailwind, Bootstrap y JavaScript. Cuento con sólidos conocimientos desarrollo backend utilizando Node.js, Express, APIs REST y Postman. Asi como en el manejo de base de datos relacionales como MySQL y control de versiones como Git. Tengo full interes en QA, garantizando la calidad, el rendimiento y la estabilidad de las aplicaciones mediante la detección de errores y la funcionalidad de las aplicaciones. Me caracterizo por ser una persona proactiva, con gran capacidad de adaptación y aprendizaje continuo. 
 
 * 🌍  Vivo en Pereira, Risaralda
 * 🎓  Título obtenido [Técnico Profesional](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?)
