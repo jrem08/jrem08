@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Engineer </h3>
 
 ---
-Frontend Engineer with experience developing web applications using React, Redux, Tailwind, Bootstrap, and JavaScript. I have a strong background in backend development using Node.js, Express, REST APIs, and Postman, as well as relational database management systems like MySQL and version control systems like Git. I am particularly interested in Quality Assurance (QA), ensuring the quality, performance, and stability of applications through bug detection and functionality testing. I am a proactive individual with a strong capacity for adaptation and continuous learning.
+Frontend Engineer with experience developing web applications using React, Redux, Tailwind, Bootstrap, and JavaScript. I have a strong background in backend development using Node.js, Express, REST APIs, and Postman, as well as relational database management systems like MySQL and version control systems like Git. I am particularly interested in Quality Assurance, ensuring the quality, performance, and stability of applications through bug detection and functionality testing. I am a proactive individual with a strong capacity for adaptation and continuous learning.
 
 * 🌍  I'm based in Pereira, Risaralda
 * 🎓  Title obtained [Técnico Profesional](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?)
@@ -33,14 +33,14 @@ Frontend Engineer with experience developing web applications using React, Redux
     </td>
   </tr>
   <tr>
-    <td><b>Bases de datos</b></td>
+    <td><b>Databases</b></td>
     <td>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>Control versiones</b></td>
+    <td><b>Version Contro</b></td>
     <td>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
