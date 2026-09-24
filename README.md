@@ -8,7 +8,7 @@ Desarrollador de software Full Stack, cuento con experiencia en el desarrollo de
 * 🎓  Título obtenido [Técnico Profesional](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?)
 * 💻  Trabajé en  [ODEMAP Mosquera Sur](https://drive.google.com/drive/folders/1WWkDUuvJjELYUMXJ8zfJzWxo9fyXcRra?hl=es-419)
 * 🚀  Estudiante de 7º semestre en [CIAF](https://www.ciaf.edu.co/software)
-* 🧠  Estoy aprendiendo Pruebas de Software 
+* 🧠  Estoy aprendiendo Python  
 
 
 
