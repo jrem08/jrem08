@@ -34,27 +34,27 @@ Desarrollador de software Full Stack, cuento con experiencia en el desarrollo de
     </td>
   </tr>
   <tr>
-    <td><b>Base de datos</b></td>
+    <td><b>Bases de datos</b></td>
     <td>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>Control versión</b></td>
+    <td><b>Control versiones</b></td>
     <td>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>Soporte</b></td>
+    <td><b>Sistemas operativos</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat&logo=windowsserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
 <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white" />
     </td>
   </tr>
 </table>
