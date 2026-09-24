@@ -13,7 +13,6 @@ Desarrollador de software Full Stack, cuento con experiencia en el desarrollo de
 
 
 ----
-### Tecnologías
 
 <table>
   <tr>
