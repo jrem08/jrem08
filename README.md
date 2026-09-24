@@ -23,6 +23,7 @@ Desarrollador de software Full Stack, cuento con experiencia en el desarrollo de
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
     </td>
   </tr>
     <td><b>Back-end</b></td>
@@ -48,13 +49,12 @@ Desarrollador de software Full Stack, cuento con experiencia en el desarrollo de
     </td>
   </tr>
   <tr>
-    <td><b>Soporte técnico</b></td>
+    <td><b>Soporte</b></td>
     <td>
       <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat&logo=windowsserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
 <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
-        <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
     </td>
   </tr>
 </table>
