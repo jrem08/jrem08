@@ -2,7 +2,7 @@
 <h3 align="center">Development Engineer </h3>
 
 ---
-Development Engineer with experience in building modern web applications across both front-end and back-end development. Proficient in technologies and languages including Node.js, Express, JavaScript, Postman, and React, alongside relational databases like MySQL and version control systems using Git. Particularly focused on Quality Assurance, ensuring application stability, performance, and reliability through continuous error detection and functional testing. Proactive professional with strong adaptability and a commitment to continuous learning.
+Development Engineer with experience building modern web applications, covering both front-end and back-end development. I have solid experience in languages and technologies such as Node.js, Express, JavaScript, Postman, and React. Additionally, I handle relational databases like MySQL, as well as version control management using Git. Furthermore, I have experience as a Data Entry Specialist, with 6 months of experience in capturing, validating, and systematizing high volumes of information using Microsoft Excel, Word, and digital file management. I am characterized by being proactive, with a great capacity for adaptability and continuous learning.
 
 Versión optimizada
 
