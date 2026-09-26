@@ -8,7 +8,7 @@ Versión optimizada
 
 * 🌍  I'm based in Pereira, Risaralda
 * 🎓  Title obtained [Técnico Profesional](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?)
-* 💻  Worked at  [ODEMAP Mosquera Sur](https://drive.google.com/drive/folders/1WWkDUuvJjELYUMXJ8zfJzWxo9fyXcRra?hl=es-419)
+* 💻  I worked at  [ODEMAP Mosquera Sur](https://drive.google.com/drive/folders/1WWkDUuvJjELYUMXJ8zfJzWxo9fyXcRra?hl=es-419)
 * 🚀  Currently studying at [CIAF](https://www.ciaf.edu.co/software)
 * 🧠  I'm learning English 🇺🇸
 
