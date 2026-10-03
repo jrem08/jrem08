@@ -2,7 +2,7 @@
 <h3 align="center">Analista de Soporte de Aplicaciones </h3>
 
 ---
-Analista de Soporte de Aplicaciones Junior con sólida formación en desarrollo de software y capacidades para la atención, diagnóstico y resolución de incidentes técnicos. Conocimientos prácticos en Python, JavaScript, Node.js, Express, React y MySQL aplicados al análisis de código, depuración de errores (debugging), pruebas de APIs y consultas en bases de datos. Me caracterizo por ser una persona proactiva, con una sólida capacidad de adaptación y aprendizaje continuo.
+Analista de Soporte Junior con sólida formación en programación y capacidad para la atención, diagnóstico y resolución de incidentes técnicos. Conocimientos prácticos en Python, JavaScript, Node.js, Express, React y MySQL aplicados al análisis de código, depuración de errores (debugging), pruebas de APIs y consultas en bases de datos. Me caracterizo por ser una persona proactiva, con una sólida capacidad de adaptación y aprendizaje continuo.
 
 
 * 🌍  Resido en Pereira, Risaralda
