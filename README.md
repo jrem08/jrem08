@@ -1,16 +1,13 @@
-<h1 align="center">Hi 👋, I´m Juan </h1>
-<h3 align="center">Development Engineer </h3>
+<h1 align="center">Hola 👋, Soy Juan </h1>
+<h3 align="center">Analista de Soporte de Aplicaciones </h3>
 
 ---
-Development Engineer with experience building modern web applications, covering both front-end and back-end development. I have solid experience in languages and technologies such as Node.js, Express, JavaScript, Postman, and React. Additionally, I handle relational databases like MySQL, as well as version control management using Git. Furthermore, I have experience as a Data Entry Specialist, with 6 months of experience in capturing, validating, and systematizing high volumes of information using Microsoft Excel, Word, and digital file management. I am characterized by being proactive, with a great capacity for adaptability and continuous learning.
+Analista de Soporte de Aplicaciones con sólida formación en Programación de Software y experiencia en el ecosistema JavaScript (Node.js, Express, React), Python y bases de datos relacionales (MySQL). Especializado en la resolución eficiente de incidentes N2/N3, análisis de logs, optimización de consultas SQL y debugging de código. Caracterizado por una alta capacidad de adaptación, aprendizaje continuo y un enfoque proactivo orientado a garantizar la disponibilidad, rendimiento y escalabilidad de los sistemas.
 
-Versión optimizada
 
-* 🌍  I'm based in Pereira, Risaralda
-* 🎓  Title obtained [Técnico Profesional](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?)
-* 💻  I worked at  [ODEMAP Mosquera Sur](https://drive.google.com/drive/folders/1WWkDUuvJjELYUMXJ8zfJzWxo9fyXcRra?hl=es-419)
-* 🚀  Currently studying at [CIAF](https://www.ciaf.edu.co/software)
-* 🧠  I'm learning English 🇺🇸
+* 🌍  Resido en Pereira, Risaralda
+* 🎓  Título obtenido: [Técnico Profesional](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?)
+* 🧠  Actualmente aprendiendo inglés 🇺🇸
 
 
 
@@ -18,37 +15,37 @@ Versión optimizada
 
 <table>
   <tr>
-    <td width="200"><b>Front-end</b></td>
+    <td width="160"><b>Front-end</b></td>
     <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
     </td>
   </tr>
+  <tr>
     <td><b>Back-end</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-0055DA?style=flat&logo=openapiinitiative&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>Databases</b></td>
+    <td><b>Bases de Datos</b></td>
     <td>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>Version Control</b></td>
+    <td><b>Herramientas & Control</b></td>
     <td>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
     </td>
-  </tr>
-  <tr>
-  
   </tr>
 </table>
 
