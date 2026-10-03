@@ -2,14 +2,12 @@
 <h3 align="center">Analista de Soporte de Aplicaciones </h3>
 
 ---
-
-Analista de Soporte de Aplicaciones con sólida formación en Programación de Software y experiencia en el ecosistema JavaScript (Node.js, Express, React), Python y bases de datos relacionales (MySQL). Especializado en la resolución eficiente de incidentes N2/N3, análisis de logs, optimización de consultas SQL y debugging de código. Caracterizado por una alta capacidad de adaptación, aprendizaje continuo y un enfoque proactivo orientado a garantizar la disponibilidad, rendimiento y escalabilidad de los sistemas.
+Analista de Soporte de Aplicaciones Junior con sólida formación en desarrollo de software y capacidades para la atención, diagnóstico y resolución de incidentes técnicos. Conocimientos prácticos en Python, JavaScript, Node.js, Express, React y MySQL aplicados al análisis de código, depuración de errores (debugging), pruebas de APIs y consultas en bases de datos. Me caracterizo por ser una persona proactiva, con una sólida capacidad de adaptación y aprendizaje continuo.
 
 
 * 🌍  Resido en Pereira, Risaralda
 * 🎓  Título obtenido: [Técnico Profesional](https://www.acreditta.com/credential/d0308150-59a0-4751-b3b9-e12c065d2361?)
 * 🧠  Actualmente aprendiendo inglés 🇺🇸
-
 
 
 ----
