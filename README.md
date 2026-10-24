@@ -8,4 +8,3 @@
 
 <p align="center">⚡️ I'm 24 years old and I'm from Pereira, Colombia 🇨🇴</p>
 
-
