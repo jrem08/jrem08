@@ -10,3 +10,13 @@ Soy un estudiante apasionado por la tecnología y la automatización, actualment
 * ✉️  Puedes contactarme en [jd.rengifo08@ciaf.edu.co](mailto:jd.rengifo08@ciaf.edu.co)
 * 🚀  Actualmente estoy estudiando en [Ciaf](https://www.ciaf.edu.co/software)
 * 🧠  Estoy aprendiendo Make, n8n y Python
+
+🌍 Certificados
+-------------------------------------------
+
+Cargando...
+
+🚀 Tecnologías 
+-------------------------------------------
+
+Cargando...
