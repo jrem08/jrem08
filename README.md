@@ -4,11 +4,10 @@ Hola, 👋 Soy Juan
 Ing. de Software
 -------------------------------------------
 
-Soy un estudiante apasionado por la tecnología, el análisis de datos y el soporte, actualmente cursando el septimo semestre de Ingeniería en Software, cuento con experiencia en áreas administrativas, desempeñandome en funciones de digitación, gestión de base de datos, reporte de novedades, soporte, gestión administrativa,  documental y manejo de tickets. Estoy motivado por el aprendizaje continuo, el trabajo en equipo y la aplicación de mis conocimientos en entornos reales para aportar soluciones innovadoras y eficientes.
+Soy un estudiante apasionado por la tecnología y el análisis de datos, actualmente cursando el séptimo semestre de Ingeniería en Software, cuento con experiencia en áreas administrativas, desempeñandome en digitación, géstion de base de datos, reporte de novedades, soporte, gestión administrativa y documental. Cuento con conocimientos en sistemas operativos especialmente en Linux (Debian). Apasionado por el aprendizaje continuo y la creación de soluciones prácticas, me destaco por mi capacidad para resolver problemas, adaptarme a nuevos retos y colaborar eficazmente en equipos multidisciplinarios.
 
 * 🌍 Estoy radicado en Pereira, Risaralda
-* 🎓 [Técnico profesional en Programación](https://www.acreditta.com/credential/b4387d05-c4db-4b9b-9ec2-e6d002ffa126?utm_source=copy&resource_type=badge&resource=b4387d05-c4db-4b9b-9ec2-e6d002ffa126)
-* 📚 Actualmente estoy estudiando el [Tecnólogo](https://www.ciaf.edu.co/software)
+* 📚 Actualmente estoy estudiando en [Ciaf](https://www.ciaf.edu.co/software)
 * 🚀 Trabajé en [ODEMAP](https://drive.google.com/drive/u/1/folders/12uu0qAStoKiaDNg9vJelvYyW4Gy3rtb3)
 * 🧠 [Certificaciones](https://drive.google.com/drive/u/1/folders/1Gn2tyZjwhL2HGZlaGdPIpxTJGkJtnJrV)
 
