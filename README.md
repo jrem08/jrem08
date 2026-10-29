@@ -24,4 +24,4 @@ Soy un estudiante apasionado por la tecnología y el análisis de datos, actualm
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+
