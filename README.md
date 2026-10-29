@@ -4,26 +4,15 @@ Hola, 👋 Soy Juan
 Ing. de Software
 -------------------------------------------
 
-Soy un estudiante apasionado por la tecnología, la automatización y el desarrollo de software, actualmente cursando el septimo semestre de Ingeniería en Software, mi formación en esta área complementaria me ha permitido desarrollar una mentalidad analítica, habilidades para la resolución de problemas y una visión integral de los procesos tanto técnicos como organizacionales. Utilizo inteligencia artficial como apoyo al desarrollo para acelerar análisis técnico, documentación, generación de código y optimización de soluciones. Estoy motivado por el aprendizaje continuo, el trabajo en equipo y la aplicación de mis conocimientos en entornos reales para aportar soluciones innovadoras y eficientes.
+Soy un estudiante apasionado por la tecnología, el análisis de datos y soporte de aplicaciones, actualmente cursando el septimo semestre de Ingeniería en Software, mi formación en esta área complementaria me ha permitido desarrollar una mentalidad analítica, habilidades para la resolución de problemas y una visión integral de los procesos tanto técnicos como organizacionales. Utilizo inteligencia artficial como apoyo al desarrollo para acelerar análisis técnico, documentación, generación de código y optimización de soluciones. Estoy motivado por el aprendizaje continuo, el trabajo en equipo y la aplicación de mis conocimientos en entornos reales para aportar soluciones innovadoras y eficientes.
 
-* 🌍  Estoy radicado en Pereira, Risaralda
-* 🪖  Libreta militar de segunda clase
-* 🚀  Trabajé en [ODEMAP](https://drive.google.com/drive/u/0/folders/12uu0qAStoKiaDNg9vJelvYyW4Gy3rtb3?hl=es-419)
-* 🧠  Estoy aprendiendo Python y frameworks de Python
-
----
-
-🎓​ Certificaciones
--------------------------------------------
-* Trabajando como Ingeniero de Software – Y Combinator
-* Simulación de puesto de Ingeniería de Software – Hewlett Packard Enterprise – 2026
-* Simulación de puesto de Ingeniero de Software Front-End – Skyscanner – 2026
-
-[Más certificaciones](https://drive.google.com/drive/u/0/folders/1Gn2tyZjwhL2HGZlaGdPIpxTJGkJtnJrV?hl=es-419)
+* 🌍 Estoy radicado en Pereira, Risaralda
+* 📚 Actualmente estoy estudiando en [Ciaf](https://www.ciaf.edu.co/software)
+* 🚀 Trabajé en [ODEMAP](https://drive.google.com/drive/u/0/folders/12uu0qAStoKiaDNg9vJelvYyW4Gy3rtb3?hl=es-419)
 
 ---
 
-🛠️ Stack 
+🛠️ Stack tecnológico
 -------------------------------------------
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
