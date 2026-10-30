@@ -4,7 +4,7 @@ Hola, 👋 Soy Juan
 Ing. de Software
 -------------------------------------------
 
-Soy un estudiante apasionado por la tecnología y el análisis de datos, actualmente cursando el séptimo semestre de Ingeniería en Software, cuento con experiencia en áreas administrativas, desempeñandome en digitación, géstion de base de datos, reporte de novedades, soporte, gestión administrativa y documental. Cuento con conocimientos en la creación de aplicaciones web, automatización, bases de datos y sistemas operativos. Apasionado por el aprendizaje continuo y la creación de soluciones prácticas, me destaco por mi capacidad para resolver problemas, adaptarme a nuevos retos y colaborar eficazmente en equipos multidisciplinarios.
+Soy un estudiante apasionado por la tecnología y el análisis de datos, actualmente cursando el séptimo semestre de Ingeniería en Software, cuento con experiencia en áreas administrativas, desempeñandome en digitación, géstion de base de datos, reporte de novedades, soporte, gestión administrativa y documental. Cuento con conocimientos en la creación de aplicaciones web, bases de datos y sistemas operativos. Apasionado por el aprendizaje continuo y la creación de soluciones prácticas, me destaco por mi capacidad para resolver problemas, adaptarme a nuevos retos y colaborar eficazmente en equipos multidisciplinarios.
 
 * 🌍 Estoy radicado en Pereira, Risaralda
 * 📚 Actualmente estoy estudiando en [Ciaf](https://www.ciaf.edu.co/software)
