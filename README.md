@@ -1,27 +1,88 @@
-Hola, 👋 Soy Juan
-========================================================================================================================================================
+<div align="center">
 
-Ing. de Software
--------------------------------------------
+<!-- BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B18,05:3373C4,100:003396&height=220&section=header&text=Juan%20David%20Rengifo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Frontend%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20Integration&descAlignY=58&descSize=18" width="100%"/>
 
-Soy un estudiante apasionado por la tecnología y el análisis de datos, actualmente cursando el séptimo semestre de Ingeniería en Software, cuento con experiencia en áreas administrativas, desempeñandome en digitación, géstion de base de datos, reporte de novedades, soporte, gestión administrativa y documental. Cuento con conocimientos en la creación de aplicaciones web, bases de datos y sistemas operativos. Apasionado por el aprendizaje continuo y la creación de soluciones prácticas, me destaco por mi capacidad para resolver problemas, adaptarme a nuevos retos y colaborar eficazmente en equipos multidisciplinarios.
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=React+%2B+TypeScript+%2B+NodeJs+%2B+AI;Pereira%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
+</a>
 
-* 🌍 Estoy radicado en Pereira, Risaralda
-* 📚 Actualmente estoy estudiando en [Ciaf](https://www.ciaf.edu.co/software)
-* 🚀 Trabajé en [ODEMAP](https://drive.google.com/drive/u/1/folders/12uu0qAStoKiaDNg9vJelvYyW4Gy3rtb3)
-* 🧠 [Certificaciones](https://drive.google.com/drive/u/1/folders/1Gn2tyZjwhL2HGZlaGdPIpxTJGkJtnJrV)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rengifo-/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medrandajuan843@gmail.com)
+
+</div>
 
 ---
 
-🛠️ Stack tecnológico
--------------------------------------------
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+### About Me
+
+I´m a **Junior Frontend Engineer** with experience in administrative areas, performing tasks such as digitization, reporting updates, database management, ticket management, administrative tasks, and technical and administrative support. I am motivated by continuous learning, teamwork, and applying my knowledge in real-world environments to provide innovative and efficient solutions.
+
+- 📚 I am currently studying in [Ciaf](https://www.ciaf.edu.co/software)
+- 🚀 Work on [ODEMAP](https://drive.google.com/drive/u/1/folders/12uu0qAStoKiaDNg9vJelvYyW4Gy3rtb3)
+
+---
+
+###  Tech Stack
+
+<div align="center">
+
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend & Databases**
+<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud & DevOps**
+<br/>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+**AI**
+<br/>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+**Automation & integrations**
+<br/>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+
+**Tools**
+<br/>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B18,100:00264D&height=100&section=footer" width="100%"/>
+
+</div>
 
