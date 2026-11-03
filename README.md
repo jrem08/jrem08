@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B18,05:3373C4,100:003396&height=220&section=header&text=Juan%20David%20Rengifo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20Agents&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B18,05:3373C4,100:003396&height=220&section=header&text=Juan%20David%20Rengifo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20Developer%20%7C%20Full%20Stack%20%7C%20AI%20Agents&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -19,11 +19,9 @@
 
 ### About Me
 
-I'm an **AI Automation Engineer** with a background in administrative areas, where I worked on digitization, reporting updates, database management, ticket management, administrative tasks, and technical and administrative support.
+Passionate about technology, artificial intelligence, and process optimization, I'm currently focused on learning and building automation workflows by integrating Language Models (LLMs) with tools like n8n, Make, and Python.
 
-Having handled these repetitive processes firsthand, I now design and build **AI agents and automations** that take over that kind of work: reading documents, classifying requests, updating data, and escalating to a person when it matters.
-
-I'm motivated by continuous learning, teamwork, and applying my knowledge in real-world environments to provide innovative and efficient solutions.
+I'm motivated by transforming repetitive tasks into efficient and functional processes. I'm constantly learning, exploring new frameworks, and strengthening my foundation in programming logic and API management to add value from day one.
 
 ---
 
