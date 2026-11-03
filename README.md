@@ -1,3 +1,7 @@
+<p align="right">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=kevinAcevedo240&color=58a6ff&style=flat" />
+</p>
+
 <div align="center">
 
 <!-- BANNER -->
