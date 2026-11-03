@@ -19,10 +19,11 @@
 
 ### About Me
 
-I´m a **Junior Frontend Engineer** with experience in administrative areas, performing tasks such as digitization, reporting updates, database management, ticket management, administrative tasks, and technical and administrative support. I am motivated by continuous learning, teamwork, and applying my knowledge in real-world environments to provide innovative and efficient solutions.
+I'm an **AI Automation Engineer** with a background in administrative areas, where I worked on digitization, reporting updates, database management, ticket management, administrative tasks, and technical and administrative support.
 
-- 📚 I am currently studying in [Ciaf](https://www.ciaf.edu.co/software)
-- 🚀 Work on [ODEMAP](https://drive.google.com/drive/u/1/folders/12uu0qAStoKiaDNg9vJelvYyW4Gy3rtb3)
+Having handled these repetitive processes firsthand, I now design and build **AI agents and automations** that take over that kind of work: reading documents, classifying requests, updating data, and escalating to a person when it matters.
+
+I'm motivated by continuous learning, teamwork, and applying my knowledge in real-world environments to provide innovative and efficient solutions.
 
 ---
 
