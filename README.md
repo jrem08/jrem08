@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B18,05:3373C4,100:003396&height=220&section=header&text=Juan%20David%20Rengifo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Frontend%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20Integration&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B18,05:3373C4,100:003396&height=220&section=header&text=Juan%20David%20Rengifo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20Agents&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=React+%2B+TypeScript+%2B+NodeJs+%2B+AI;Pereira%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Python+%2B+NodeJs+%2B+n8n+%2B+AI;Pereira%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
 </a>
 
 <br/>
