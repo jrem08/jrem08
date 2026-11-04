@@ -40,6 +40,9 @@ Combining a solid foundation in programming (Python, JavaScript, databases, and 
   <img alt="Anthropic API" src="https://img.shields.io/badge/Anthropic%20API-191919?logo=anthropic&logoColor=white" />
   <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white" />
   <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white" />
+  <img alt="Make" src="https://img.shields.io/badge/Make-6D00CC?logo=make&logoColor=white" />
+  <img alt="Zapier" src="https://img.shields.io/badge/Zapier-FF4F00?logo=zapier&logoColor=white" />
+  <img alt="Pipedrive" src="https://img.shields.io/badge/Pipedrive-017737?logo=pipedrive&logoColor=white" />
 </p>
 
 **🎨 Frontend**
