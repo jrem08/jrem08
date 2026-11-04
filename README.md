@@ -5,11 +5,11 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B18,05:3373C4,100:003396&height=220&section=header&text=Hey,%20I´m%20Juan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front%20End%20%7C%20Back%20End%20%7C%20Automation&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B18,05:3373C4,100:003396&height=220&section=header&text=Hey,%20Soy%20Juan%20%20David%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tecnólogo%20en%20Desarrollo%20de%20%20Software%20%&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Next.js+%2B+NodeJs+%2B+Express;Pereira%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Python+%2B+NodeJs+%2B+Linux;Pereira%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,25 +21,27 @@
 
 ---
 
-### 👨🏻‍💻 About Me
+### 👨🏻‍💻 Acerca de mí
 
 ---
 
-Software Developer specializing in process automation and AI integration.
+Soy un estudiante apasionado por la tecnología, me especializo en el Soporte de Aplicaciones. Mi formación en esta área me ha permitido desarrollar una mentalidad analítica, habilidades para la resolución de problemas y una visión integral de los procesos tanto técnicos como organizacionales. Estoy motivado por el aprendizaje continuo, el trabajo en equipo y la aplicación de mis conocimientos en entornos reales y aportar soluciones innovadoras. Utilizo inteligencia artificial como apoyo para acelerar análisis técnico y optimización de soluciones. 
 
-I have experience in programming using Python, JavaScript, databases, and REST API consumption with workflow orchestration tools such as Make, n8n, and Zapier. I utilize AI to support development, accelerating technical analysis, documentation, code generation, and solution optimization.
-
----
-
-### 🧰 Stack
 
 ---
 
-**🤖 AI & quality**
+### 🧰 Tecnologías
+
+---
+
+**🤖 AI & soporte**
 <p>
 <img alt="Chrome DevTools" src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?logo=googlechrome&logoColor=white" />
 <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white" />
-<img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" /> 
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /> 
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 </p>
@@ -63,13 +65,8 @@ I have experience in programming using Python, JavaScript, databases, and REST A
   <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white" />
 </p>
 
-**☁️ Cloud & DevOps**
-<p>
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
-</p>
 
-**🛠 Tools**
+**🛠 Herramientas**
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
