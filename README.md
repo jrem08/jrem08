@@ -30,6 +30,8 @@ Combining a solid foundation in programming (Python, JavaScript, databases, and 
 
 ### 🧰 Stack
 
+---
+
 <div align="left">
 
 **🤖 AI & automation**
