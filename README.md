@@ -23,6 +23,8 @@
 
 ### 👨🏻‍💻 About Me
 
+---
+
 Software Developer specializing in process automation and the integration of Artificial Intelligence (AI) solutions.
 Combining a solid foundation in programming (Python, JavaScript, databases, and REST API consumption) with workflow orchestration tools (Make, n8n, Zapier). Proven ability to transform operational requirements into efficient, autonomous workflows, optimizing processing times and reducing operating costs.
 
@@ -30,6 +32,7 @@ Combining a solid foundation in programming (Python, JavaScript, databases, and 
 
 ### 🧰 Stack
 
+---
 
 **🤖 AI & automation**
 <p>
