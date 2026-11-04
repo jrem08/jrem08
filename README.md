@@ -35,15 +35,13 @@ I have experience in programming using Python, JavaScript, databases, and REST A
 
 ---
 
-**🤖 AI & automation**
+**🤖 AI & quality**
 <p>
-  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white" />
-  <img alt="Anthropic API" src="https://img.shields.io/badge/Anthropic%20API-191919?logo=anthropic&logoColor=white" />
-  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white" />
-  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white" />
-  <img alt="Make" src="https://img.shields.io/badge/Make-6D00CC?logo=make&logoColor=white" />
-  <img alt="Zapier" src="https://img.shields.io/badge/Zapier-FF4F00?logo=zapier&logoColor=white" />
-  <img alt="Pipedrive" src="https://img.shields.io/badge/Pipedrive-017737?logo=pipedrive&logoColor=white" />
+<img alt="Chrome DevTools" src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?logo=googlechrome&logoColor=white" />
+<img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white" />
+<img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 </p>
 
 **🎨 Frontend**
@@ -63,7 +61,6 @@ I have experience in programming using Python, JavaScript, databases, and REST A
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" />
   <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 </p>
 
 **☁️ Cloud & DevOps**
