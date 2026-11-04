@@ -30,10 +30,6 @@ Combining a solid foundation in programming (Python, JavaScript, databases, and 
 
 ### 🧰 Stack
 
----
-
-<div align="left">
-
 **🤖 AI & automation**
 <p>
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white" />
