@@ -5,11 +5,11 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B18,05:3373C4,100:003396&height=220&section=header&text=Hola,%20Soy%20Juan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B18,05:3373C4,100:003396&height=220&section=header&text=Juan%20David%20Rengifo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Process%20Automation%20%7C%20Software%20Developer%20%7C%20Applied%20AI&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Python+%2B+Make+%2B+NodeJs;Pereira%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Python+%2B+n8n+%2B+NodeJs;Pereira%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,25 +21,24 @@
 
 ---
 
-### 👨🏻‍💻 Acerca de mí
+### 👨🏻‍💻 About me
 
 ---
 
-Soy un estudiante apasionado por la tecnología, me especializo en la automatización. Mi formación en esta área me ha permitido desarrollar una mentalidad analítica, habilidades para la resolución de problemas y una visión integral de los procesos tanto técnicos como organizacionales. Estoy motivado por el aprendizaje continuo, el trabajo en equipo y la aplicación de mis conocimientos en entornos reales y aportar soluciones innovadoras. Utilizo inteligencia artificial como apoyo para acelerar análisis técnico y optimización de soluciones. 
+I am a student with a passion for technology, focusing on process automation and artificial intelligence. My experience in this field has enabled me to develop an analytical mindset, problem solving skills, and a comprehensive perspective on both technical and organizational processes. I am driven by continuous learning, teamwork, and the application of my knowledge in real world environments to deliver innovative solutions. I leverage artificial intelligence to streamline technical analysis and optimize solutions.
 
 
 ---
 
-### 🧰 Tecnologías
+### 🧰 Stack
 
 ---
 
-**🤖 AI & Automatización**
+**🤖 AI & Automation**
 <p>
 <img alt="Zapier" src="https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=white" />
 <img alt="Make" src="https://img.shields.io/badge/Make-000000?logo=make&logoColor=white" />
 <img alt="n8n" src="https://img.shields.io/badge/n8n-FF6D5A?logo=n8n&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 </p>
 
@@ -63,7 +62,7 @@ Soy un estudiante apasionado por la tecnología, me especializo en la automatiza
 </p>
 
 
-**🛠 Herramientas**
+**🛠 Tools**
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
