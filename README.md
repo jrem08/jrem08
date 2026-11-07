@@ -40,6 +40,9 @@ I am a student with a passion for technology, focusing on process automation and
 <img alt="Make" src="https://img.shields.io/badge/Make-000000?logo=make&logoColor=white" />
 <img alt="n8n" src="https://img.shields.io/badge/n8n-FF6D5A?logo=n8n&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
+<img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" />
+<img alt="Gemini" src="https://img.shields.io/badge/Gemini-886FBF?logo=googlegemini&logoColor=white" />
 </p>
 
 **🎨 Frontend**
