@@ -53,7 +53,7 @@ I am a student with a passion for technology, focusing on process automation and
   <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white" />
   <img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&logoColor=white" />
   <img alt="GSAP" src="https://img.shields.io/badge/GSAP-0AE448?logo=gsap&logoColor=black" />
-   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=white" />
 </p>
 
 **⚙️ Backend**
@@ -69,7 +69,7 @@ I am a student with a passion for technology, focusing on process automation and
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" />
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=black" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
 </p>
 
