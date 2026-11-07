@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B18,05:3373C4,100:003396&height=220&section=header&text=Juan%20David%20Rengifo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Dev%20&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B18,05:3373C4,100:003396&height=220&section=header&text=Juan%20David%20Rengifo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Engineer%20&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
