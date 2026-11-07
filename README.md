@@ -1,15 +1,15 @@
 <p align="right">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=kevinAcevedo240&color=58a6ff&style=flat" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=jrem08&color=58a6ff&style=flat" />
 </p>
 
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B18,05:3373C4,100:003396&height=220&section=header&text=Juan%20David%20Rengifo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20Automation%20%7C%20AI%20&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B18,05:3373C4,100:003396&height=220&section=header&text=Juan%20David%20Rengifo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Dev%20&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Python+%2B+n8n+%2B+NodeJs;Pereira%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Frontend+%2B+Backend+%2B+Database;Pereira%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,7 +25,7 @@
 
 ---
 
-I am a student with a passion for technology, focusing on process automation and artificial intelligence. My experience in this field has enabled me to develop an analytical mindset, problem solving skills, and a comprehensive perspective on both technical and organizational processes. I am driven by continuous learning, teamwork, and the application of my knowledge in real world environments to deliver innovative solutions. I leverage artificial intelligence to streamline technical analysis and optimize solutions.
+I am a student with a passion for technology, currently in my seventh semester of a Software Engineering degree at CIAF, with a focus on automation. My experience in this field has enabled me to develop an analytical mindset, problem solving skills, and a comprehensive perspective on both technical and organizational processes. I am driven by continuous learning, teamwork, and applying my knowledge in real world environments to deliver innovative solutions. I also have experience in administrative roles, having worked in areas such as data entry, technical support, incident/update reporting, database management, and general administrative and document management.
 
 
 ---
