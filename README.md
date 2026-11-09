@@ -25,7 +25,7 @@
 
 ---
 
-I am a student with a passion for technology, currently in my seventh semester of a Software Engineering degree at CIAF, with a focus on automation. My experience in this field has enabled me to develop an analytical mindset, problem solving skills, and a comprehensive perspective on both technical and organizational processes. I am driven by continuous learning, teamwork, and applying my knowledge in real world environments to deliver innovative solutions. I also have experience in administrative roles, having worked in areas such as data entry, technical support, incident/update reporting, database management, and general administrative and document management.
+I am a technology enthusiast student, currently in my seventh semester of Software Engineering at CIAF. My experience in this field has allowed me to develop an analytical mindset, problem solving skills, and a comprehensive understanding of technical and organizational processes. I am motivated by continuous learning, teamwork, and applying my knowledge in real-world environments to deliver innovative solutions. I have experience in administrative roles, having worked in areas such as data entry, technical support, incident and update reporting, database management, and general document administration.
 
 
 ---
