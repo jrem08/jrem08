@@ -34,10 +34,9 @@ I am a technology enthusiast student, currently in my seventh semester of Softwa
 
 ---
 
-**🤖 AI & Automation**
+**🤖 AI & automation**
 <p>
 <img alt="Zapier" src="https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=white" />
-<img alt="Make" src="https://img.shields.io/badge/Make-000000?logo=make&logoColor=white" />
 <img alt="n8n" src="https://img.shields.io/badge/n8n-FF6D5A?logo=n8n&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
@@ -45,7 +44,7 @@ I am a technology enthusiast student, currently in my seventh semester of Softwa
 <img alt="Gemini" src="https://img.shields.io/badge/Gemini-886FBF?logo=googlegemini&logoColor=white" />
 </p>
 
-**🎨 Frontend & mobile**
+**🎨 Frontend & graphic design**
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
@@ -53,6 +52,9 @@ I am a technology enthusiast student, currently in my seventh semester of Softwa
   <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white" />
   <img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&logoColor=white" />
   <img alt="GSAP" src="https://img.shields.io/badge/GSAP-0AE448?logo=gsap&logoColor=black" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" />
+  <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white" />
 </p>
 
 **⚙️ Backend**
@@ -60,6 +62,7 @@ I am a technology enthusiast student, currently in my seventh semester of Softwa
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" />
 </p>
 
 
