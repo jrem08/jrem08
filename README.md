@@ -25,7 +25,7 @@
 
 ---
 
-I am a technology enthusiast student, currently in my seventh semester of Software Engineering at CIAF. My experience in this field has allowed me to develop an analytical mindset, problem solving skills, and a comprehensive understanding of technical and organizational processes. I am motivated by continuous learning, teamwork, and applying my knowledge in real-world environments to deliver innovative solutions. I have experience in administrative roles, having worked in areas such as data entry, technical support, incident and update reporting, database management, and general document administration.
+I´m a technology enthusiast student, currently in my seventh semester of Software Engineering at CIAF. My training in this field has allowed me to develop an analytical mindset, problem solving skills, and a comprehensive understanding of both technical and organizational processes. I am motivated by continuous learning, teamwork, and applying my knowledge in real world environments to offer innovative and efficient solutions. I worked in the administrative area, performing data entry, updating, and validation of large quantities of data with high standards of accuracy and confidentiality. I provided operational support to internal and external users by receiving, managing, and resolving help desk tickets, along with the timely notification of operational updates.
 
 
 ---
@@ -52,9 +52,6 @@ I am a technology enthusiast student, currently in my seventh semester of Softwa
   <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white" />
   <img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&logoColor=white" />
   <img alt="GSAP" src="https://img.shields.io/badge/GSAP-0AE448?logo=gsap&logoColor=black" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" />
-  <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white" />
 </p>
 
 **⚙️ Backend**
