@@ -27,6 +27,11 @@
 
 I am a student passionate about technology, process automation, and artificial intelligence, currently in my seventh semester of Software Engineering at CIAF. My training in this field has allowed me to develop an analytical mindset, problem solving skills, and a comprehensive understanding of technical and organizational processes. I am motivated by continuous learning, teamwork, and applying my knowledge in real world environments to deliver innovative and efficient solutions.
 
+* 🌍  I'm based in Pereira, Risaralda
+* ✉️  You can contact me at [jd.rengifo08@ciaf.edu.co](mailto:jd.rengifo@ciaf.edu.co)
+* 🚀  I am currently studying on [CIAF](https://www.ciaf.edu.co/software)
+* 🧠  I'm learning AI & Process Automation
+
 
 ---
 
