@@ -36,12 +36,13 @@ I´m a technology enthusiast student, currently in my seventh semester of Softwa
 
 **🤖 AI & automation**
 <p>
+<img alt="Make" src="https://img.shields.io/badge/Make-6F00FF?logo=make&logoColor=white" />
 <img alt="Zapier" src="https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=white" />
 <img alt="n8n" src="https://img.shields.io/badge/n8n-FF6D5A?logo=n8n&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
-<img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" />
-<img alt="Gemini" src="https://img.shields.io/badge/Gemini-886FBF?logo=googlegemini&logoColor=white" />
+<img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white" />
+<img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white" />
+<img alt="HubSpot" src="https://img.shields.io/badge/HubSpot-FF7A59?logo=hubspot&logoColor=white" />
+  
 </p>
 
 **🎨 Frontend & mobile**
@@ -50,9 +51,6 @@ I´m a technology enthusiast student, currently in my seventh semester of Softwa
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white" />
-  <img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&logoColor=white" />
-  <img alt="GSAP" src="https://img.shields.io/badge/GSAP-0AE448?logo=gsap&logoColor=black" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" /> 
 </p>
 
@@ -60,6 +58,7 @@ I´m a technology enthusiast student, currently in my seventh semester of Softwa
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" />
 </p>
