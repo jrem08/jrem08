@@ -46,7 +46,7 @@ I´m a student passionate about technology and automation, currently in my seven
 
 ---
 
-**🤖 AI & automation**
+**🤖 Automation**
 <p>
 <img alt="Make" src="https://img.shields.io/badge/Make-6F00FF?logo=make&logoColor=white" />
 <img alt="Zapier" src="https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=white" />
