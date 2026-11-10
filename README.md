@@ -5,11 +5,12 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B18,05:3373C4,100:003396&height=220&section=header&text=Juan%20David%20Rengifo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20Analyst&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B18,05:3373C4,100:003396&height=220&section=header&text=Juan%20David%20Rengifo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Back%20End%20%7C%20AI%2FAutomation%20&descAlignY=58&descSize=18" width="100%"/>
+
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Python+%2B+n8n+%2B+MySQL;Pereira%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=NodeJs+%2B+Express+%2B+n8n;Pereira%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,12 +26,10 @@
 
 ---
 
-I am a student passionate about technology, process automation, and artificial intelligence, currently in my seventh semester of Software Engineering at CIAF. My training in this field has allowed me to develop an analytical mindset, problem solving skills, and a comprehensive understanding of technical and organizational processes. I am motivated by continuous learning, teamwork, and applying my knowledge in real world environments to deliver innovative and efficient solutions.
+I´m a student passionate about technology, software development, innovation, and design, focused on creating applications and solutions. Lately, I have concentrated on developing backend and frontend services, APIs, and practical solutions that solve problems.
+Recently, I have delved deeper into artificial intelligence and automation.
 
-* 🌍  I'm based in Pereira, Risaralda
-* ✉️  You can contact me at [jd.rengifo08@ciaf.edu.co](mailto:jd.rengifo@ciaf.edu.co)
-* 🚀  I am currently studying on [CIAF](https://www.ciaf.edu.co/software)
-* 🧠  I'm learning AI & Process Automation
+My goal is to create solutions that truly make people's lives easier.
 
 
 ---
