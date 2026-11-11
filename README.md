@@ -46,16 +46,6 @@ I am a student passionate about technology and automation; I am currently in my 
 
 ---
 
-**🤖 Automation**
-<p>
-<img alt="Make" src="https://img.shields.io/badge/Make-6F00FF?logo=make&logoColor=white" />
-<img alt="Zapier" src="https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=white" />
-<img alt="n8n" src="https://img.shields.io/badge/n8n-FF6D5A?logo=n8n&logoColor=white" />
-<img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white" />
-<img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white" />
-  
-</p>
-
 **🎨 Frontend**
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
