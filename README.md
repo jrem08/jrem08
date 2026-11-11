@@ -26,7 +26,7 @@
 
 ---
 
-I am a student passionate about technology and automation; I am currently in my seventh semester of Software Engineering at CIAF and participating in a work simulation program as a software engineer at Walmart Global Tech. My training in this complementary field has allowed me to develop an analytical mindset, problem-solving skills, and a comprehensive understanding of both technical and organizational processes. I am motivated by continuous learning, teamwork, and applying my knowledge in real world environments to contribute innovative and efficient solutions.
+I am a student passionate about technology and automation; I am currently in my seventh semester of Software Engineering at CIAF and participating in a work simulation program as a software engineer at Walmart Global Tech. My training in this complementary field has allowed me to develop an analytical mindset, problem solving skills, and a comprehensive understanding of both technical and organizational processes. I am motivated by continuous learning, teamwork, and applying my knowledge in real world environments to contribute innovative and efficient solutions.
 
 
 ---
