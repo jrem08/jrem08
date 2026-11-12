@@ -26,15 +26,9 @@
 
 ---
 
-I am a student passionate about technology and automation; I am currently in my seventh semester of Software Engineering at CIAF and participating in a work simulation program as a software engineer at Walmart Global Tech. My training in this complementary field has allowed me to develop an analytical mindset, problem solving skills, and a comprehensive understanding of both technical and organizational processes. I am motivated by continuous learning, teamwork, and applying my knowledge in real world environments to contribute innovative and efficient solutions.
+Software Engineering student with experience in developing modern web applications, covering both front-end and back-end, with a strong focus on back-end development. I have solid knowledge in consuming and building REST APIs, as well as managing relational databases while applying best practices for structuring and optimization.
 
-
----
-
-### 🚀 Experience
-
-**Consejo Comunitario ODEMAP Mosquera Sur** | *Data entry operator* | Jan 2026 – Jun 2026
-- I have experience in administration, specializing in bulk data uploads, updates, and validation, always maintaining high standards of accuracy and confidentiality. I have also provided operational support to internal and external users by receiving, managing, and resolving support tickets, as well as ensuring the timely communication of operational updates.
+I have experience in administration, specializing in bulk data uploads, updates, and validation, consistently maintaining high standards of accuracy and confidentiality. I have also provided operational support to internal and external users by receiving, managing, and resolving incidents, as well as ensuring timely communication of operational updates.
 
 
 
