@@ -45,7 +45,6 @@ I have experience in administration, specializing in bulk data uploads, updates,
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" /> 
 </p>
 
 **⚙️ Backend**
@@ -62,10 +61,6 @@ I have experience in administration, specializing in bulk data uploads, updates,
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
-<img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
   
 </p>
 
