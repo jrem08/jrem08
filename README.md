@@ -13,9 +13,9 @@
 
 ---
 
-Desarrollador de Software con sólida formación práctica en el desarrollo aplicaciones web. Dominio del ecosistema JavaScript (React, Next.js, Node.js, Express) y desarrollo backend con Python y FastAPI. Capacidad demostrada en proyectos académicos para diseñar y consumir APIs REST, modelar bases de datos relacionales (MySQL) y configurar entornos de despliegue en servidores Linux con Nginx. Complemento mi perfil técnico con el desarrollo de aplicaciones empresariales ágiles en AppSheet (Seminario de Grado), enfocadas en la automatización y optimización de procesos operativos.
-
-Cuento con experiencia en el área administrativa, con especialización en la carga masiva, actualización y validación de datos, manteniendo de forma constante altos estándares de precisión y confidencialidad. Asimismo, he brindado soporte operativo a usuarios internos y externos mediante la recepción, gestión y resolución de incidencias, además de garantizar la comunicación oportuna de las novedades operativas.
+Tecnólogo en Desarrollo de Software y estudiante de Ingeniería de Software, con formación en análisis, diseño, desarrollo y gestión de proyectos de software. Cuento con conocimientos en desarrollo de aplicaciones web, integración de servicios mediante APIs REST, gestión de bases de datos relacionales y configuración de entornos de servidores Linux.
+Manejo tecnologías como JavaScript, React, Next.js, Node.js, Express, Python, FastAPI y MySQL. Complemento mi perfil con conocimientos en automatización de procesos y desarrollo de aplicaciones empresariales mediante herramientas Low-Code como AppSheet, orientadas a optimizar procesos operativos y mejorar la eficiencia organizacional.
+Cuento con experiencia en el área administrativa, actualizando y validando de datos, manteniendo de forma constante altos estándares de precisión y confidencialidad. Asimismo, he brindado soporte operativo a usuarios internos y externos mediante la recepción, gestión y resolución de incidencias, además de garantizar la comunicación oportuna de las novedades operativas.
 
 ---
 
