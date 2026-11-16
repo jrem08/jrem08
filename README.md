@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B18,05:3373C4,100:003396&height=220&section=header&text=Juan%20David%20Rengifo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Software%20&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B18,05:3373C4,100:003396&height=220&section=header&text=Juan%20David%20Rengifo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tecnólogo%20en%20Desarrollo%20de%20Software%20&descAlignY=58&descSize=18" width="100%"/>
 
 
 <br/>
@@ -13,17 +13,15 @@
 
 ---
 
-Tecnólogo en Desarrollo de Software y estudiante de Ingeniería de Software, con formación en análisis, diseño, desarrollo y gestión de proyectos de software. Cuento con conocimientos en desarrollo de aplicaciones web, integración de servicios mediante APIs REST, gestión de bases de datos relacionales y configuración de entornos de servidores Linux.
-Manejo tecnologías como JavaScript, React, Next.js, Node.js, Express, Python, FastAPI y MySQL. Complemento mi perfil con conocimientos en automatización de procesos y desarrollo de aplicaciones empresariales mediante herramientas Low-Code como AppSheet, orientadas a optimizar procesos operativos y mejorar la eficiencia organizacional.
-Cuento con experiencia en el área administrativa, actualizando y validando de datos, manteniendo de forma constante altos estándares de precisión y confidencialidad. Asimismo, he brindado soporte operativo a usuarios internos y externos mediante la recepción, gestión y resolución de incidencias, además de garantizar la comunicación oportuna de las novedades operativas.
+Soy un estudiante apasionado por la tecnología y la automatización, actualmente cursando el séptimo semestre de Ingeniería en Software en CIAF. Mi formación en esta área complementaria me ha permitido desarrollar una mentalidad analítica, habilidades para la resolución de problemas y una visión integral de los procesos tanto técnicos como organizacionales. Estoy motivado por el aprendizaje continuo, el trabajo en equipo y la aplicación de mis conocimientos en entornos reales para aportar soluciones innovadoras y eficientes.
 
 ---
 
 <h2 align="center">🀄️ Lenguajes | Frameworks & DB |</h2>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=javascript,python,mysql,express,nextjs,nodejs,react,git,fastapi&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=html,css,github,vscode,bootstrap,tailwind,windows,powershell,bash&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=javascript,python,mysql,express,nextjs,nodejs,react,fastapi&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=html,css,github,vscode,bootstrap,tailwind,powershell,git&theme=dark" />
     </a>
 </div>
 
