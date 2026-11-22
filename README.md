@@ -6,8 +6,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rengifo-?)
-[![GitHub](https://img.shields.io/badge/GitHub-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jrem08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rengifo-?)
+[![GitHub](https://img.shields.io/badge/GitHub-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jrem08)
 
 </div>
 
@@ -17,25 +17,28 @@
 $ whoami
   juan david rengifo medranda · pereira, colombia 🇨🇴
 
-$ cat role.txt
-  software developer & application support
-  data entry · automation 
+$ cat about.txt
+  software development technologist
+
+$ cat experience.txt
+  information entry                               ·  ene 2026
+                                                  ·  jun 2026
 
 $ cat certifications.txt
-  ☁️  software engineering position simulation   ·  sep 2026
-  🔵  technical support position simulation      ·  sep 2026
-  🌐  job simulation in data analysis            ·  sep 2026
+  ​💻​  software engineering position simulation   ·  sep 2026
+  🛠️​  technical support position simulation      ·  sep 2026
+  ​📊​  job simulation in data analysis            ·  sep 2026
 
 $ cat stack.txt
   languages  →  python · typescript · javascript
   frontend   →  react · next.js · html5 · css3
-  backend    →  node.js · express · fastapi
-  databases  →  postgresql · mysql · supabase · excel
-  tools      →  vscode · linux · trello · postman · powershell
+  backend    →  node.js · express 
+  databases  →  postgresql · mysql · supabase 
+  tools      →  vscode · trello · postman · powershell
 
 $ cat interests.txt
-  software architecture · ai engineering · cloud infrastructure
-  developer communities · tech education · content creation
+  process automation · data entry 
+  application support · backend
 ```
 
 ---
@@ -46,26 +49,23 @@ $ cat interests.txt
 
 <br/>
 
-![Go](https://img.shields.io/badge/Go-a78bfa?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-a78bfa?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-a78bfa?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-a78bfa?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![React](https://img.shields.io/badge/React-f472b6?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-f472b6?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-f472b6?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-f472b6?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-60a5fa?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-60a5fa?style=for-the-badge&logo=firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-60a5fa?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-60a5fa?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-60a5fa?style=for-the-badge&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-a78bfa?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-a78bfa?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-a78bfa?style=for-the-badge&logo=redis&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-a78bfa?style=for-the-badge&logo=firebase&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 </div>
 
@@ -73,47 +73,20 @@ $ cat interests.txt
 
 <div align="center">
 
-## ☁️ google cloud certified
+## 📚 education certified
 
 <br/>
 
-![Professional Cloud Developer](https://img.shields.io/badge/Professional_Cloud_Developer-fbbf24?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Associate Cloud Engineer](https://img.shields.io/badge/Associate_Cloud_Engineer-60a5fa?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Cloud Digital Leader](https://img.shields.io/badge/Cloud_Digital_Leader-a78bfa?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-</div>
-
----
-<div align="center">
-
-## 📊 github stats
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdevalen&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=9896b8&langs_count=10&hide=html,css"/>
+![Technologist in Software Development](https://img.shields.io/badge/Technologist_in_Software_Development-1e40af?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Professional Technician in Software Programming](https://img.shields.io/badge/Professional_Technician_in_Software_Programming-334155?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🤝 community
-
 <br/>
 
-![GDG](https://img.shields.io/badge/GDG_Medellín_Leader-a78bfa?style=for-the-badge&logo=google&logoColor=white)
-![TechFem](https://img.shields.io/badge/TechFem_Award_2025-f472b6?style=for-the-badge&logo=starship&logoColor=white)
-![CityJS](https://img.shields.io/badge/CityJS_Medellín_Volunteer-60a5fa?style=for-the-badge&logo=javascript&logoColor=white)
-![IWD](https://img.shields.io/badge/IWD_Women_Techmakers-a78bfa?style=for-the-badge&logo=google&logoColor=white)
-
-<br/>
-
-`building · leading · creating · growing ✨`
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=80&section=footer" width="100%"/>
 
 </div>
 
