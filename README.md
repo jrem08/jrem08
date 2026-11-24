@@ -73,19 +73,6 @@ $ cat interests.txt
 
 ---
 
-<div align="center">
-
-## 📚 education certified
-
-<br/>
-
-![Technologist in Software Development](https://img.shields.io/badge/Technologist_in_Software_Development-1e40af?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Professional Technician in Software Programming](https://img.shields.io/badge/Professional_Technician_in_Software_Programming-334155?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-</div>
-
----
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=80&section=footer" width="100%"/>
