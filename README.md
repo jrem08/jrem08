@@ -25,15 +25,17 @@ $ cat experience.txt
                                                   ·  jun 2026
 
 $ cat certifications.txt
-  ​💻​  software engineering position simulation   ·  sep 2026
-  🛠️​  technical support position simulation      ·  sep 2026
-  ​📊​  job simulation in data analysis            ·  sep 2026
+  ⌨️​ ​software engineering position simulation                                 ·  sep 2026
+  ​🧰​ technical support position simulation                                    ·  sep 2026
+  ​​​🤖​ Seminar on AI Applied to Productivity and Business Management            ·  dec 2026
 
 $ cat stack.txt
   languages  →  python · typescript · javascript
   frontend   →  react · next.js · html5 · css3
   backend    →  node.js · express 
-  databases  →  postgresql · mysql · supabase 
+  databases  →  postgres · mysql
+  ai & llms  →  openai · gemini · claude · copilot 
+  automation →  n8n · make · zapier · power automate
   tools      →  vscode · trello · postman · powershell
 
 $ cat interests.txt
