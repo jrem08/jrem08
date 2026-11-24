@@ -39,8 +39,8 @@ $ cat stack.txt
   tools      →  vscode · trello · postman · powershell
 
 $ cat interests.txt
-  process automation · data entry 
-  application support · backend
+  process automation · data analysis
+  application support · artificial intelligence
 ```
 
 ---
